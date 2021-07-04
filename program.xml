@@ -73,9 +73,10 @@
     <icon src="https://cdn.tvstart.com/img/channel/logo_64_9_1538126181.png" />
     <url>http://www.kava.ee</url>
   </channel>
-  <channel id="MBC2">
-    <display-name lang="ar">MBC2</display-name>
-    <url>http://www.mbc.net</url>
+  <channel id="MBC 2">
+    <display-name lang="en">MBC 2</display-name>
+    <icon src="https://media.elcinema.com/tvguide/1128_1.png" />
+    <url>http://www.elcinema.com</url>
   </channel>
   <programme start="20210704012500 +0000" stop="20210704024500 +0000" channel="Pickbox.sbb">
     <title lang="sl">Zvezda je ubijena: Misterija Aurore Tigarden</title>
@@ -4558,7 +4559,7 @@
   </programme>
   <programme start="20210704120000 +0100" stop="20210704154500 +0100" channel="RTP Internacional">
     <title lang="en">Unidos ao Clube</title>
-    <desc lang="en">Magazine que mostra os heróis que constroem, no campo de jogos ou na praceta, um sentimento de comunidade.(c)</desc>
+    <desc lang="en">Magazine que mostra os heróis que constroem, no campo de jogos ou na praceta, um sentimento de comunidade.</desc>
     <category lang="en">News</category>
   </programme>
   <programme start="20210704154500 +0100" stop="20210704155200 +0100" channel="RTP Internacional">
@@ -6566,229 +6567,221 @@
     <category lang="et">Filmid</category>
     <country lang="et">USA</country>
   </programme>
-  <programme start="20210704011000 +0000" stop="20210704030000 +0000" channel="MBC2">
-    <title lang="ar">ذا داركنيس</title>
-    <desc lang="ar">تصل عائلة إلى منزلها بعد قضائها عطلة في غراند كانيون وتحضر معها دون أن تدري قوى خارقة للطبيعة. وسرعان ما تزداد تلك القوى شراسة مع تصاعد حدة خوفهم، ويهدد وجود الشر بتدمير أركان تلك الأسرة من الداخل بعد سيطرته على منزلهم وحياتهم.(n)</desc>
-    <category lang="ar">رعب</category>
+  <programme start="20210704140000 -0300" stop="20210704160000 -0300" channel="MBC 2">
+    <title lang="en">Serenity</title>
+    <desc lang="en">Baker Dill has carved up a piece of peaceful life for himself. But when his ex-wife comes to him with a plea to kill her abusive husband, Dill's peace of mind is shattered as he comes to a starling realization about himself and his young son.(n)</desc>
+    <credits>
+      <director>Steven Knight</director>
+      <actor>Matthew McConaughey</actor>
+      <actor>Anne Hathaway</actor>
+      <actor>Diane Lane</actor>
+      <actor>Jason Clarke</actor>
+      <actor>Djimon Hounsou</actor>
+      <actor>Jeremy Strong</actor>
+      <writer>Steven Knight</writer>
+    </credits>
+    <date>2018</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Thriller</category>
+    <icon src="https://media.elcinema.com/uploads/_150x200_e91c95353528e1ac14c4824b89baf0b51792f5e491d93c2e43068ced738a6516.jpg" />
+    <country lang="en">U.S.</country>
+    <star-rating system="MPAA">
+      <value>5.3</value>
+    </star-rating>
   </programme>
-  <programme start="20210704030000 +0000" stop="20210704043900 +0000" channel="MBC2">
-    <title lang="ar">آي آم ليجيند</title>
-    <desc lang="ar">بعد حرب بيولوجية، يصبح روبرت نيفيل آخر بشري سليم يعيش على وجه الأرض، ولكنه ليس لوحده، فالبشر الآخرون أصبحوا مسوخاً يشبهون مصاصي الدماء، وجميعهم متعطشون لدماء نيفيل.(n)</desc>
-    <category lang="ar">إثارة</category>
+  <programme start="20210704160000 -0300" stop="20210704163000 -0300" channel="MBC 2">
+    <title lang="en">Films &amp; stars</title>
+    <credits>
+      <actor>Alan Green</actor>
+    </credits>
+    <date>2008</date>
+    <icon src="https://media.elcinema.com/uploads/_150x200_46db61275e91046e6e711da9def664169f5c549e82b4c5291a13123d9c439e2a.jpg" />
+    <country lang="en">Netherlands</country>
+    <star-rating system="MPAA">
+      <value>5.9</value>
+    </star-rating>
   </programme>
-  <programme start="20210704043900 +0000" stop="20210704062900 +0000" channel="MBC2">
-    <title lang="ar">ذا ليج أوف إكستروردناري جينتلمن</title>
-    <desc lang="ar">أحداث دارت خلال منعطف القرن الماضي في واقع خيالي بديل، حيث تقوم الملكة فيكتوريا بحشد فريق من عتاة المجرمين الأسطوريين في ذلك الوقت، لتنفيذ مهمة سرية.(n)</desc>
-    <category lang="ar">أكشن</category>
+  <programme start="20210704163000 -0300" stop="20210704183000 -0300" channel="MBC 2">
+    <title lang="en">16 Blocks</title>
+    <desc lang="en">Detective Jack Mosley, who is an alcoholic, is assigned a last minute mission after a hard day's work. The mission is to escort a witness 16 blocks from the police station to the courthouse, but he discovers that several people want the witness dead, and Jack is faced with an unlikely situation where he has to choose between his duty and his loyalty to his police officer colleagues.(n)</desc>
+    <credits>
+      <director>Richard Donner</director>
+      <actor>Casey Sander</actor>
+      <actor>Jenna Stern</actor>
+      <actor>Bruce Willis</actor>
+      <actor>Mos Def</actor>
+      <actor>David Morse</actor>
+      <actor>Heather Dawn</actor>
+      <writer>Richard Wenk</writer>
+    </credits>
+    <date>2006</date>
+    <category lang="en">Action</category>
+    <category lang="en">Drama</category>
+    <icon src="https://media.elcinema.com/uploads/_150x200_5d42230f31688ca66b32f0a6651472c1a294e61bfa666502c156a8a691c48501.jpg" />
+    <country lang="en">U.S.</country>
+    <star-rating system="MPAA">
+      <value>6.5</value>
+    </star-rating>
   </programme>
-  <programme start="20210704062900 +0000" stop="20210704090000 +0000" channel="MBC2">
-    <title lang="ar">وار فور ذا بلانيت أوف ذي إيبس</title>
-    <desc lang="ar">بعد أن يرغم سيزار وأتباعه من القردة على خوض حرب مع جيش بقيادة عقيد لا يعرف الرحمة أدت إلى وقوع خسائر فادحة، يشرع سيزار في مهمة للثأر لبني جنسه.(n)</desc>
-    <category lang="ar">أكشن</category>
+  <programme start="20210704183000 -0300" stop="20210704203000 -0300" channel="MBC 2">
+    <title lang="en">12 Strong</title>
+    <desc lang="en">Based on a true story, the film tells the story of a Special Forces team that was sent to Afghanistan right after the 9/11 attacks. Deep into enemy territory, the team faces unfavorable odds and make uneasy alliances as they try to take down the Taliban.(n)</desc>
+    <credits>
+      <director>Nicolai Fuglsig</director>
+      <actor>Chris Hemsworth</actor>
+      <actor>Elsa Pataky</actor>
+      <actor>Taylor Sheridan</actor>
+      <actor>Michael Shannon</actor>
+      <actor>Austin Stowell</actor>
+      <actor>Michael Peña</actor>
+      <writer>Ted Tally</writer>
+      <writer>Peter Craig</writer>
+    </credits>
+    <date>2018</date>
+    <category lang="en">Action</category>
+    <category lang="en">History</category>
+    <icon src="https://media.elcinema.com/uploads/_150x200_7e62b76b266cdf9aea05467a967f3059ad82feca1e0687e9175f6f03afff4d79.jpg" />
+    <country lang="en">U.S.</country>
+    <star-rating system="MPAA">
+      <value>6.6</value>
+    </star-rating>
   </programme>
-  <programme start="20210704090000 +0000" stop="20210704110500 +0000" channel="MBC2">
-    <title lang="ar">ذا سورسيريرز أبرينتس</title>
-    <desc lang="ar">سيد السحر بالثازار بليك يقوم بتجنيد الشاب الذي يبدو بسيطاً ديف ستوتلر، كمساعده المتردد، وذلك من أجل حماية مانهاتن من عدوه اللدود، الأمر الذي سيتطلب من ديف حشد كل شجاعته في سبيل تخطي تدريباته وإنقاذ المدينة والحصول على الفتاة.(n)</desc>
-    <category lang="ar">أكشن</category>
+  <programme start="20210704203000 -0300" stop="20210704210000 -0300" channel="MBC 2">
+    <title lang="en">Scoop with Raya</title>
+    <date>2012</date>
+    <icon src="https://media.elcinema.com/uploads/_150x200_3710aee93858ec91ff72718c80a0d0daa8cef31707339b534ed37cd7c0f45996.jpg" />
+    <country lang="en">Lebanon</country>
+    <star-rating system="MPAA">
+      <value>6.5</value>
+    </star-rating>
   </programme>
-  <programme start="20210704110500 +0000" stop="20210704113000 +0000" channel="MBC2">
-    <title lang="ar">أكشن زون</title>
-    <desc lang="ar">كل ما تريده من أكشن ورعب وكوميديا وأخبار وما يتعلق بالنجوم وغيره الكثير تجدونه في برنامج أكشن زون الذي يضمن بأن يبقيك متحمسا طوال الوقت.(n)</desc>
-    <category lang="ar">معلومات ترفيهية</category>
+  <programme start="20210704210000 -0300" stop="20210704230000 -0300" channel="MBC 2">
+    <title lang="en">The Iceman</title>
+    <desc lang="en">In the year 1960, Richard becomes a hit-man, and throughout the years gains a good reputation in his job for being heartless, and becomes the best in his field. He hides his profession from his family and hides his family for their protection, but things quickly go downhill when he works for Mr. Freezy, and he is threatened with losing everything.(n)</desc>
+    <credits>
+      <director>Ariel Vromen</director>
+      <actor>Michael Shannon</actor>
+      <actor>Winona Ryder</actor>
+      <actor>Ray Liotta</actor>
+      <actor>Chris Evans</actor>
+      <actor>Jay Giannone</actor>
+      <actor>James Franco</actor>
+      <writer>Ariel Vromen</writer>
+      <writer>Morgan Land</writer>
+    </credits>
+    <date>2012</date>
+    <category lang="en">Crime</category>
+    <category lang="en">Drama</category>
+    <icon src="https://media.elcinema.com/uploads/_150x200_afcd5416043aacb5b4599a7cdb43310b4d9556bde29735725af5b3484694d68d.jpg" />
+    <country lang="en">U.S.</country>
+    <rating system="MPAA">
+      <value>R</value>
+    </rating>
+    <star-rating system="MPAA">
+      <value>5.7</value>
+    </star-rating>
   </programme>
-  <programme start="20210704113000 +0000" stop="20210704133400 +0000" channel="MBC2">
-    <title lang="ar">سيرينتي</title>
-    <desc lang="ar">يكسب الكابتن مالكوم رينولدز رزقه من خلال عمله كمجرم غير متمرس واستخدامه سفينته سيرينتي في نقل الركاب بالأجرة. عندما يصعد راكبان جديدان على متن السفينة يتبين لاحقاً بأنهما مطاردان ومطلوبان، وسرعان ما يجد الكابتن نفسه في خضم معركة ضارية بين المجرات.(n)</desc>
-    <category lang="ar">أكشن</category>
+  <programme start="20210704230000 -0300" stop="20210705010000 -0300" channel="MBC 2">
+    <title lang="en">John Wick: Chapter 2</title>
+    <desc lang="en">Retired assassin John Wick (Keanu Reeves) unwillingly returns to the criminal underworld to repay a debt, but is faced with many challenges along the way, including a bounty that has been put on his life.(n)</desc>
+    <credits>
+      <director>Chad Stahelski</director>
+      <actor>Keanu Reeves</actor>
+      <actor>Ruby Rose</actor>
+      <actor>Bridget Moynahan</actor>
+      <actor>Ian McShane</actor>
+      <actor>Peter Stormare</actor>
+      <actor>Thomas Sadoski</actor>
+      <writer>Derek Kolstad</writer>
+    </credits>
+    <date>2017</date>
+    <category lang="en">Thriller</category>
+    <category lang="en">Crime</category>
+    <icon src="https://media.elcinema.com/uploads/_150x200_8889ffd1b367483ac96b9f4a55e6223930dd631bbf2d5a5809aa3550ef29bffe.jpg" />
+    <country lang="en">U.S.</country>
+    <star-rating system="MPAA">
+      <value>8.8</value>
+    </star-rating>
   </programme>
-  <programme start="20210704133400 +0000" stop="20210704140000 +0000" channel="MBC2">
-    <title lang="ar">فيلمز &amp; ستارز</title>
-    <desc lang="ar">باقة من أهم أحداث عالم النجوم بما فيها من إصدارات هوليوود، ومقابلات مع الممثلين وصناع الأفلام، بالإضافة إلى تقارير متعلقة بالسجادة الحمراء.(n)</desc>
-    <category lang="ar">معلومات ترفيهية</category>
+  <programme start="20210705010000 -0300" stop="20210705030000 -0300" channel="MBC 2">
+    <title lang="en">The Conjuring</title>
+    <desc lang="en">Famed paranormal investigators Ed and Lorraine Warren get entangled in the most horrifying case they've come across when they're called in by the family of Roger (Ron Livingston) to investigate a demonic presence in a secluded farm house.(n)</desc>
+    <credits>
+      <director>James Wan</director>
+      <actor>Patrick Wilson</actor>
+      <actor>Vera Farmiga</actor>
+      <actor>Lili Taylor</actor>
+      <actor>Ron Livingston</actor>
+      <actor>Mackenzie Foy</actor>
+      <actor>Shanley Caswell</actor>
+      <writer>Carey Hayes</writer>
+      <writer>Chad Hayes</writer>
+    </credits>
+    <date>2013</date>
+    <category lang="en">Horror</category>
+    <category lang="en">Thriller</category>
+    <icon src="https://media.elcinema.com/uploads/_150x200_66fbcbe8d87d569cf021bbe6aef70e43343a3242ed4548153faa4a484dec6647.jpg" />
+    <country lang="en">U.S.</country>
+    <star-rating system="MPAA">
+      <value>7.6</value>
+    </star-rating>
   </programme>
-  <programme start="20210704140000 +0000" stop="20210704155500 +0000" channel="MBC2">
-    <title lang="ar">16 بلوكس</title>
-    <desc lang="ar">يكلف المحقق جاك الذي يعمل في قسم شرطة نيويورك بمهمة نقل المجرم إيدي بنكر إلى حيث سيدلي بشهادته. ولكن هذه المهمة الروتينية السهلة تنقلب إلى صراع من أجل البقاء سيغير حياة الرجلين إلى الأبد.(n)</desc>
-    <category lang="ar">دراما</category>
+  <programme start="20210705030000 -0300" stop="20210705043000 -0300" channel="MBC 2">
+    <title lang="en">Warm Bodies</title>
+    <desc lang="en">After R (a highly unusual zombie) saves Julie from a zombie attack, the two form an unusual bond that sets in motion a sequence of events that could transform the entire lifeless world.(n)</desc>
+    <credits>
+      <director>Jonathan Levine</director>
+      <actor>Teresa Palmer</actor>
+      <actor>Rob Corddry</actor>
+      <actor>Cory Hardrict</actor>
+      <actor>Analeigh Tipton</actor>
+      <actor>John Malkovich</actor>
+      <actor>Dave Franco</actor>
+      <writer>Isaac Marion</writer>
+      <writer>Jonathan Levine</writer>
+    </credits>
+    <date>2013</date>
+    <category lang="en">Romance</category>
+    <category lang="en">Horror</category>
+    <icon src="https://media.elcinema.com/uploads/_150x200_db57c90522fa4e563da454c8019c71d548d6d5b1918bee3a41ffe999b3cc9089.jpg" />
+    <country lang="en">U.S.</country>
+    <star-rating system="MPAA">
+      <value>7.8</value>
+    </star-rating>
   </programme>
-  <programme start="20210704155500 +0000" stop="20210704175900 +0000" channel="MBC2">
-    <title lang="ar">12 سترونج</title>
-    <desc lang="ar">يتم اختيار فريق من القوات الأمريكية الخاصة بعد هجمات سبتمبر 11 ليكون من أوائل الجنود الأمريكيين الذين سيتم إرسالهم إلى أفغانستان لتتنفيذ مهمة في غاية الخطورة.(n)</desc>
-    <category lang="ar">دراما</category>
+  <programme start="20210705043000 -0300" stop="20210705050000 -0300" channel="MBC 2">
+    <title lang="en">Films &amp; stars</title>
+    <credits>
+      <actor>Alan Green</actor>
+    </credits>
+    <date>2008</date>
+    <icon src="https://media.elcinema.com/uploads/_150x200_46db61275e91046e6e711da9def664169f5c549e82b4c5291a13123d9c439e2a.jpg" />
+    <country lang="en">Netherlands</country>
+    <star-rating system="MPAA">
+      <value>5.9</value>
+    </star-rating>
   </programme>
-  <programme start="20210704175900 +0000" stop="20210704182900 +0000" channel="MBC2">
-    <title lang="ar">سكووب مع ريا</title>
-    <desc lang="ar">يعود إليكم برنامج سكووب مع ريا في موسم جديد مع آخر أخبار مشاهير هوليود، والمقابلات حصرية، وأحداث السجادة الحمراء، فضلا عن الشائعات التي تدور حول المشاهير.(n)</desc>
-    <category lang="ar">معلومات ترفيهية</category>
-  </programme>
-  <programme start="20210704182900 +0000" stop="20210704203000 +0000" channel="MBC2">
-    <title lang="ar">ذي آيسمان</title>
-    <desc lang="ar">القصة الحقيقية لريتشارد كوكلينسكي الزوج المحب، والوالد المخلص ولكنه في نفس الوقت قاتل لا يرحم والذي يُعتقد أنه قتل مئة شخص بين عامي 1964 و 1986.(n)</desc>
-    <category lang="ar">جريمة</category>
-  </programme>
-  <programme start="20210704203000 +0000" stop="20210704223000 +0000" channel="MBC2">
-    <title lang="ar">جون ويك: تشابتر 2</title>
-    <desc lang="ar">عندما يجبر على التراجع عن قراره بالتقاعد، ينطلق القاتل المحترف جون ويك إلى روما حيث يواجه بعضا من أخطر المجرمين في العالم.(n)</desc>
-    <category lang="ar">أكشن</category>
-  </programme>
-  <programme start="20210704223000 +0000" stop="20210705003000 +0000" channel="MBC2">
-    <title lang="ar">ذا كونجورينج</title>
-    <desc lang="ar">القصة الحقيقية والمرعبة لكل من إد ولورين وارن، محققان عالميان في الأمور الخارقة للطبيعة يتم استدعاؤهما لمساعدة عائلة مذعورة من روح ظلامية وشيطانية سكنت بيتهم الريفي.(n)</desc>
-    <category lang="ar">رعب</category>
-  </programme>
-  <programme start="20210705003000 +0000" stop="20210705020400 +0000" channel="MBC2">
-    <title lang="ar">ورم بوديز</title>
-    <desc lang="ar">بعد انتشار وباء الزومبي، يقوم زومبي استثنائي اسمه آر بإنقاذ جولي من هجوم تعرضت له من قبلهم، فترى جولي بأنه يختلف عن الآخرين من بني جنسه، وفي خضم علاقتهما المميزة خلال نضالهما من أجل البقاء، يصبح آر أكثر إنسانية على نحو متزايد.(n)</desc>
-    <category lang="ar">كوميدي</category>
-  </programme>
-  <programme start="20210705020400 +0000" stop="20210705023000 +0000" channel="MBC2">
-    <title lang="ar">فيلمز &amp; ستارز</title>
-    <desc lang="ar">باقة من أهم أحداث عالم النجوم بما فيها من إصدارات هوليوود، ومقابلات مع الممثلين وصناع الأفلام، بالإضافة إلى تقارير متعلقة بالسجادة الحمراء.(n)</desc>
-    <category lang="ar">معلومات ترفيهية</category>
-  </programme>
-  <programme start="20210705023000 +0000" stop="20210705040000 +0000" channel="MBC2">
-    <title lang="ar">كوتيز</title>
-    <desc lang="ar">عندما يحول فيروس غذائي في الكافتيريا أطفال مدرسة ابتدائية إلى وحوش قاتلة، يتوجب على مجموعة معلمين توحيد قواهم للنجاة بحياتهم.(n)</desc>
-    <category lang="ar">كوميدي</category>
-  </programme>
-  <programme start="20210705040000 +0000" stop="20210705060000 +0000" channel="MBC2">
-    <title lang="ar">بيرسي جاكسون &amp; ذي أوليمبيانز: ذا لايتننج ثيف</title>
-    <desc lang="ar">يكتشف صبي صغير بأنه من سلالة آلهة يونانية ويسعى في مغامرة لإنهاء المعركة المستمرة بين الآلهة.(n)</desc>
-    <category lang="ar">مغامرة</category>
-  </programme>
-  <programme start="20210705060000 +0000" stop="20210705063000 +0000" channel="MBC2">
-    <title lang="ar">سكووب مع ريا</title>
-    <desc lang="ar">يعود إليكم برنامج سكووب مع ريا في موسم جديد مع آخر أخبار مشاهير هوليود، والمقابلات حصرية، وأحداث السجادة الحمراء، فضلا عن الشائعات التي تدور حول المشاهير.(n)</desc>
-    <category lang="ar">معلومات ترفيهية</category>
-  </programme>
-  <programme start="20210705063000 +0000" stop="20210705083300 +0000" channel="MBC2">
-    <title lang="ar">روب بوي</title>
-    <desc lang="ar">يخوض روب وماري معركة ضد ملاك الأراضي الأشرار وسط المناظر الخلابة الواقعة في المرتفعات الإسكتلندية المهيبة، حيث يعيشان مغامرة تملؤها الشجاعة والحب والتمسك بالشرف.(n)</desc>
-    <category lang="ar">دراما</category>
-  </programme>
-  <programme start="20210705083300 +0000" stop="20210705090000 +0000" channel="MBC2">
-    <title lang="ar">سيليبريتي سكوب</title>
-    <desc lang="ar">يلقي سيليبريتي سكوب نظرة على حياة أشهر النجوم ليأتيكم بكل أخبارهم المثيرة للاهتمام.(n)</desc>
-    <category lang="ar">معلومات ترفيهية</category>
-  </programme>
-  <programme start="20210705090000 +0000" stop="20210705110000 +0000" channel="MBC2">
-    <title lang="ar">12 سترونج</title>
-    <desc lang="ar">يتم اختيار فريق من القوات الأمريكية الخاصة بعد هجمات سبتمبر 11 ليكون من أوائل الجنود الأمريكيين الذين سيتم إرسالهم إلى أفغانستان لتتنفيذ مهمة في غاية الخطورة.(n)</desc>
-    <category lang="ar">دراما</category>
-  </programme>
-  <programme start="20210705110000 +0000" stop="20210705122900 +0000" channel="MBC2">
-    <title lang="ar">لايسنس تو ويد</title>
-    <desc lang="ar">بعد أن تجمع بينمها علاقة حب قوية ويخططان للزواج، يتوجب على بن ميرفي وسادي جونز اجتياز الدورة التحضيرية للزواج التي يديرها القس فرانك.(n)</desc>
-    <category lang="ar">كوميدي</category>
-  </programme>
-  <programme start="20210705122900 +0000" stop="20210705130000 +0000" channel="MBC2">
-    <title lang="ar">سكووب مع ريا</title>
-    <desc lang="ar">يعود إليكم برنامج سكووب مع ريا في موسم جديد مع آخر أخبار مشاهير هوليود، والمقابلات حصرية، وأحداث السجادة الحمراء، فضلا عن الشائعات التي تدور حول المشاهير.(n)</desc>
-    <category lang="ar">معلومات ترفيهية</category>
-  </programme>
-  <programme start="20210705130000 +0000" stop="20210705153000 +0000" channel="MBC2">
-    <title lang="ar">ذي أمازينج سبايدير-مان</title>
-    <desc lang="ar">يكافح المراهق بيتر باركر لإحداث التوازن بين دراسته الثانوية والقوة الخارقة التي يمتلكها والمتمثلة بقدرته على التحول إلى الرجل العنكبوت.(n)</desc>
-    <category lang="ar">أكشن</category>
-  </programme>
-  <programme start="20210705153000 +0000" stop="20210705180000 +0000" channel="MBC2">
-    <title lang="ar">ذي أمازينج سبايدير-مان 2</title>
-    <desc lang="ar">يتوجب على بيتر باركر أن يكون على أتم الاستعداد لمهمته الجديدة عندما تقوم شركة غامضة تدعى أوسكورب بإرسال عدد كبير من الأشرار لاستهدافه.(n)</desc>
-    <category lang="ar">أكشن</category>
-  </programme>
-  <programme start="20210705180000 +0000" stop="20210705200100 +0000" channel="MBC2">
-    <title lang="ar">سبايدر-مان: هومكمنج</title>
-    <desc lang="ar">يعود بيتر إلى بلدته ويستقر مع خالته ماي، لكن سرعان ما تنقلب حياته رأسا على عقب عندما يظهر عدو جديد يدعى النسر.(n)</desc>
-    <category lang="ar">أكشن</category>
-  </programme>
-  <programme start="20210705200100 +0000" stop="20210705203000 +0000" channel="MBC2">
-    <title lang="ar">أكشن زون</title>
-    <desc lang="ar">كل ما تريده من أكشن ورعب وكوميديا وأخبار وما يتعلق بالنجوم وغيره الكثير تجدونه في برنامج أكشن زون الذي يضمن بأن يبقيك متحمسا طوال الوقت.(n)</desc>
-    <category lang="ar">معلومات ترفيهية</category>
-  </programme>
-  <programme start="20210705203000 +0000" stop="20210705223000 +0000" channel="MBC2">
-    <title lang="ar">إكس-من: ذا لاست ستاند</title>
-    <desc lang="ar">بينما يهدد علاج بتغيير مجرى التاريخ، يجد المتحولون أنفسهم أمام قرار وهو الاحتفاظ بقدراتهم الفريدة على الرغم من عزلها لهم، أو التخلي عنها والاندماج مع الغير.(n)</desc>
-    <category lang="ar">أكشن</category>
-  </programme>
-  <programme start="20210705223000 +0000" stop="20210706003000 +0000" channel="MBC2">
-    <title lang="ar">إكس- من أوريجنز: ولفيرين</title>
-    <desc lang="ar">يحكي هذا الجزء قصة الأصول الغامضة للوجان المعروف باسم ولفيرين، من ماضيه الحافل بالعنف والرومانسية إلى برنامج سلاح إكس المشؤوم، الذي يطلق العنان لثورة غضبه.(n)</desc>
-    <category lang="ar">أكشن</category>
-  </programme>
-  <programme start="20210706003000 +0000" stop="20210706023000 +0000" channel="MBC2">
-    <title lang="ar">جون ويك: تشابتر 2</title>
-    <desc lang="ar">عندما يجبر على التراجع عن قراره بالتقاعد، ينطلق القاتل المحترف جون ويك إلى روما حيث يواجه بعضا من أخطر المجرمين في العالم.(n)</desc>
-    <category lang="ar">أكشن</category>
-  </programme>
-  <programme start="20210706023000 +0000" stop="20210706043000 +0000" channel="MBC2">
-    <title lang="ar">ذي آيسمان</title>
-    <desc lang="ar">القصة الحقيقية لريتشارد كوكلينسكي الزوج المحب، والوالد المخلص ولكنه في نفس الوقت قاتل لا يرحم والذي يُعتقد أنه قتل مئة شخص بين عامي 1964 و 1986.(n)</desc>
-    <category lang="ar">جريمة</category>
-  </programme>
-  <programme start="20210706043000 +0000" stop="20210706060000 +0000" channel="MBC2">
-    <title lang="ar">16 بلوكس</title>
-    <desc lang="ar">يكلف المحقق جاك الذي يعمل في قسم شرطة نيويورك بمهمة نقل المجرم إيدي بنكر إلى حيث سيدلي بشهادته. ولكن هذه المهمة الروتينية السهلة تنقلب إلى صراع من أجل البقاء سيغير حياة الرجلين إلى الأبد.(n)</desc>
-    <category lang="ar">دراما</category>
-  </programme>
-  <programme start="20210706060000 +0000" stop="20210706083000 +0000" channel="MBC2">
-    <title lang="ar">ذي أمازينج سبايدير-مان</title>
-    <desc lang="ar">يكافح المراهق بيتر باركر لإحداث التوازن بين دراسته الثانوية والقوة الخارقة التي يمتلكها والمتمثلة بقدرته على التحول إلى الرجل العنكبوت.(n)</desc>
-    <category lang="ar">أكشن</category>
-  </programme>
-  <programme start="20210706083000 +0000" stop="20210706100200 +0000" channel="MBC2">
-    <title lang="ar">إكس-من: ذا لاست ستاند</title>
-    <desc lang="ar">بينما يهدد علاج بتغيير مجرى التاريخ، يجد المتحولون أنفسهم أمام قرار وهو الاحتفاظ بقدراتهم الفريدة على الرغم من عزلها لهم، أو التخلي عنها والاندماج مع الغير.(n)</desc>
-    <category lang="ar">أكشن</category>
-  </programme>
-  <programme start="20210706100200 +0000" stop="20210706103000 +0000" channel="MBC2">
-    <title lang="ar">فيلمز &amp; ستارز</title>
-    <desc lang="ar">باقة من أهم أحداث عالم النجوم بما فيها من إصدارات هوليوود، ومقابلات مع الممثلين وصناع الأفلام، بالإضافة إلى تقارير متعلقة بالسجادة الحمراء.(n)</desc>
-    <category lang="ar">معلومات ترفيهية</category>
-  </programme>
-  <programme start="20210706103000 +0000" stop="20210706133000 +0000" channel="MBC2">
-    <title lang="ar">مالكوم إكس</title>
-    <desc lang="ar">كان مالكوم إكس أحد الشخصيات القيادية في حركة الحقوق المدنية في الولايات المتحدة الأمريكية، وقد ألهم وأخاف الكثيرين، لكنه سيذكر كأعظم الرجال في عصره.(n)</desc>
-    <category lang="ar">سيرة ذاتية</category>
-  </programme>
-  <programme start="20210706133000 +0000" stop="20210706140000 +0000" channel="MBC2">
-    <title lang="ar">إنترتاينمنت تونايت</title>
-    <desc lang="ar">تغطية متميزة لأهم وآخر أخبار عاصمة السينما هوليوود، من العروض الأولى وحفلات توزيع الجوائز إلى مقابلات حصرية مع ألمع النجوم، ونظرة عن كثب على الإصدارات المرتقبة.(n)</desc>
-    <category lang="ar">معلومات ترفيهية</category>
-  </programme>
-  <programme start="20210706140000 +0000" stop="20210706153200 +0000" channel="MBC2">
-    <title lang="ar">مونستر-إن-لو</title>
-    <desc lang="ar">تعيد تشارلي التفكير في موضوع زواجها من كيفن، وذلك بعد لقائها والدته المتعجرفة والتي تعتقد أنه لا توجد فتاة جيدة بما فيه الكفاية لتناسب ابنها كيفن، فهل ستستطيع تشارلي التعايش مع حماتها المستقبلية والتي تهدف إلى تدمير علاقتها بكيفن؟.(n)</desc>
-    <category lang="ar">رومانسي</category>
-  </programme>
-  <programme start="20210706153200 +0000" stop="20210706160000 +0000" channel="MBC2">
-    <title lang="ar">سيليبريتي سكوب</title>
-    <desc lang="ar">يلقي سيليبريتي سكوب نظرة على حياة أشهر النجوم ليأتيكم بكل أخبارهم المثيرة للاهتمام.(n)</desc>
-    <category lang="ar">معلومات ترفيهية</category>
-  </programme>
-  <programme start="20210706160000 +0000" stop="20210706180000 +0000" channel="MBC2">
-    <title lang="ar">مورننج جلوري</title>
-    <desc lang="ar">مقدم برامج على الطراز القديم، ترك عمله كمذيع نشرات إخبارية بسبب أجواء العمل السلبية يحصل على فرصة عمل من قبل منتجة بارعة تعمل جاهدةً من أجل إحياء برنامج صباحي و إنقاذه من الفشل.(n)</desc>
-    <category lang="ar">كوميدي</category>
-  </programme>
-  <programme start="20210706180000 +0000" stop="20210706200000 +0000" channel="MBC2">
-    <title lang="ar">لايف آز وي نو إت</title>
-    <desc lang="ar">بعد أن كان أول موعد غرامي لهما كارثياً، الشيء الوحيد الذي يشترك فيه هولي وإريك الآن هو كراهيتهما لبعضهما البعض، وحبهما لابنتهما بالمعمودية صوفي، ولكن عندما يصبحان فجأة كل ما تملكه صوفي في العالم، يجب عليهما حينها وضع خلافاتهما جانباً لتربيتها.(n)</desc>
-    <category lang="ar">كوميدي</category>
-  </programme>
-  <programme start="20210706200000 +0000" stop="20210706220000 +0000" channel="MBC2">
-    <title lang="ar">تو وييكس نوتيس</title>
-    <desc lang="ar">لمدة خمس سنوات، تمت معاملة لوسي على أنها مربية منزل أكثر من معاملتها كمحامية تلقت تدريبها في جامعة هارفرد، إذ تقوم باختيار ملابس جورج والترتيب لطلاقه، مما أصابها بالأرق والقرحة، ولكنها الآن قررت الاستقالة، وقدمت له إشعاراً قبل أسبوعين من تركها للعمل.(n)</desc>
-    <category lang="ar">كوميدي</category>
-  </programme>
-  <programme start="20210706220000 +0000" stop="20210706233000 +0000" channel="MBC2">
-    <title lang="ar">نو سترينجز أتاتشت</title>
-    <desc lang="ar">إيما هي طبيبة دائمة الانشغال قامت بوضع نظام كان يبدو مثالياً في بادئ الأمر عندما عرضت على صديقها المفضل آدم علاقة بشرط أن تكون خالية من القيود، لكن عندما تسلك تلك العلاقة منعطفاً آخراً ترى هل ستبقى الصداقة على حالها؟.(n)</desc>
-    <category lang="ar">كوميدي</category>
-  </programme>
-  <programme start="20210706233000 +0000" stop="20210707010200 +0000" channel="MBC2">
-    <title lang="ar">مونستر-إن-لو</title>
-    <desc lang="ar">تعيد تشارلي التفكير في موضوع زواجها من كيفن، وذلك بعد لقائها والدته المتعجرفة والتي تعتقد أنه لا توجد فتاة جيدة بما فيه الكفاية لتناسب ابنها كيفن، فهل ستستطيع تشارلي التعايش مع حماتها المستقبلية والتي تهدف إلى تدمير علاقتها بكيفن؟.(n)</desc>
-    <category lang="ar">رومانسي</category>
+  <programme start="20210705050000 -0300" stop="20210705063000 -0300" channel="MBC 2">
+    <title lang="en">Cooties</title>
+    <desc lang="en">A contaminated chicken nugget causes a zombie virus to spread across an elementary school. A group of misfit teachers is forced to fight for their lives as the school gets run over by zombified children.(n)</desc>
+    <credits>
+      <director>Cary Murnion</director>
+      <director>Jonathan Milott</director>
+      <actor>Elijah Wood</actor>
+      <actor>Rainn Wilson</actor>
+      <actor>Alison Pill</actor>
+      <actor>Leigh Whannell</actor>
+      <actor>Armani Jackson</actor>
+      <writer>Josh C. Waller</writer>
+      <writer>Leigh Whannell</writer>
+    </credits>
+    <date>2014</date>
+    <category lang="en">Science Fiction</category>
+    <category lang="en">Comedy</category>
+    <icon src="https://media.elcinema.com/uploads/_150x200_4a31ae8f663cbfea5d28c95c5681a010a006a2301d5bee1d976f018433d72590.jpg" />
+    <country lang="en">U.S.</country>
+    <star-rating system="MPAA">
+      <value>7.2</value>
+    </star-rating>
   </programme>
 </tv>
