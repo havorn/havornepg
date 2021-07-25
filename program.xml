@@ -5278,6 +5278,108 @@
     <category lang="sr">Bioskopski film</category>
     <icon src="https://mts.rs/oec/images/epg/2_b6e3365b08bfdfab6c0aea003765410ff89be456.jpg" />
   </programme>
+  <programme start="20210729000000 +0200" stop="20210729004500 +0200" channel="StarTV.mts">
+    <title lang="sr">Srcem Kroz Ravnicu: Kovačica</title>
+    <desc lang="sr">Ova putopisna emisija vodi nas u prelepa mesta na severu naše zemlje. Pođimo srcem kroz ravnicu i upoznajmo kulturnu baštinu, turističke sadržaje i savremena postignuća na ovom prostoru!(n)</desc>
+    <category lang="sr">Priroda i putovanja</category>
+    <icon src="https://mts.rs/oec/images/epg/2_b5a25189820c9c12732962388d9b38a10cd684e7.jpg" />
+  </programme>
+  <programme start="20210729004500 +0200" stop="20210729013000 +0200" channel="StarTV.mts">
+    <title lang="sr">Srcem Kroz Ravnicu: Inđija I Stara Pazova</title>
+    <desc lang="sr">Ova putopisna emisija vodi nas u prelepa mesta na severu naše zemlje. Pođimo srcem kroz ravnicu i upoznajmo kulturnu baštinu, turističke sadržaje i savremena postignuća na ovom prostoru!(n)</desc>
+    <category lang="sr">Priroda i putovanja</category>
+    <icon src="https://mts.rs/oec/images/epg/2_b5a25189820c9c12732962388d9b38a10cd684e7.jpg" />
+  </programme>
+  <programme start="20210729013000 +0200" stop="20210729031500 +0200" channel="StarTV.mts">
+    <title lang="sr">Policijska jedinica Palermo</title>
+    <desc lang="sr">Elitna policijska jedinica iz Palerma u potrazi je za najozloglašenijim kriminalcima na svetu. Tim predvodi mlada, temperamentna i veoma posvećena Palma Toskano, ćerka pokojnog policajca, heroja koji je stradao na dužnosti.(n)</desc>
+    <category lang="sr">Tv-serijali</category>
+    <icon src="https://mts.rs/oec/images/epg/2_29451364dc08968a5da17aa713025c53910eb389.jpg" />
+  </programme>
+  <programme start="20210729031500 +0200" stop="20210729040000 +0200" channel="StarTV.mts">
+    <title lang="sr">Neki bolji ljudi</title>
+    <desc lang="sr">U ovoj seriji čekaju nas zgode i nezgode dve komšijske porodice. Uroševići i članovi porodice Graovac pokazaće nam kako izlaze na kraj sa mukama odrastanja, problemima bračnog života, generacijskim jazom, ali i drugim porodičnim i materijalnim problemima.(n)</desc>
+    <category lang="sr">Tv-serijali</category>
+    <icon src="https://mts.rs/oec/images/epg/2_108711e5737039a3ebbeb65aae7d4270dee30b16.jpg" />
+  </programme>
+  <programme start="20210729040000 +0200" stop="20210729060000 +0200" channel="StarTV.mts">
+    <title lang="sr">Ubistva u Baru Lume</title>
+    <desc lang="sr">Masimo je nedavno razvedeni barmen koji obožava zagonetke i enigme. Njegov oštar um i njegova radoznalost biće mu od najveće koristi kada u ulozi detektiva amatera, krene u istragu neobičnih zločina. Svake epizoda serijala, snimljena je kao televizijski film i vodi nas u idilični gradić na toskanskoj obali.(n)</desc>
+    <category lang="sr">Bioskopski film</category>
+    <icon src="https://mts.rs/oec/images/epg/2_b6e3365b08bfdfab6c0aea003765410ff89be456.jpg" />
+  </programme>
+  <programme start="20210729060000 +0200" stop="20210729080000 +0200" channel="StarTV.mts">
+    <title lang="sr">Ubistva u Baru Lume</title>
+    <desc lang="sr">Masimo je nedavno razvedeni barmen koji obožava zagonetke i enigme. Njegov oštar um i njegova radoznalost biće mu od najveće koristi kada u ulozi detektiva amatera, krene u istragu neobičnih zločina. Svake epizoda serijala, snimljena je kao televizijski film i vodi nas u idilični gradić na toskanskoj obali.(n)</desc>
+    <category lang="sr">Bioskopski film</category>
+    <icon src="https://mts.rs/oec/images/epg/2_b6e3365b08bfdfab6c0aea003765410ff89be456.jpg" />
+  </programme>
+  <programme start="20210729080000 +0200" stop="20210729084500 +0200" channel="StarTV.mts">
+    <title lang="sr">Srcem Kroz Ravnicu: Kovačica</title>
+    <desc lang="sr">Ova putopisna emisija vodi nas u prelepa mesta na severu naše zemlje. Pođimo srcem kroz ravnicu i upoznajmo kulturnu baštinu, turističke sadržaje i savremena postignuća na ovom prostoru!(n)</desc>
+    <category lang="sr">Priroda i putovanja</category>
+    <icon src="https://mts.rs/oec/images/epg/2_b5a25189820c9c12732962388d9b38a10cd684e7.jpg" />
+  </programme>
+  <programme start="20210729084500 +0200" stop="20210729093000 +0200" channel="StarTV.mts">
+    <title lang="sr">Srcem Kroz Ravnicu: Inđija I Stara Pazova</title>
+    <desc lang="sr">Ova putopisna emisija vodi nas u prelepa mesta na severu naše zemlje. Pođimo srcem kroz ravnicu i upoznajmo kulturnu baštinu, turističke sadržaje i savremena postignuća na ovom prostoru!(n)</desc>
+    <category lang="sr">Priroda i putovanja</category>
+    <icon src="https://mts.rs/oec/images/epg/2_b5a25189820c9c12732962388d9b38a10cd684e7.jpg" />
+  </programme>
+  <programme start="20210729093000 +0200" stop="20210729111500 +0200" channel="StarTV.mts">
+    <title lang="sr">Policijska jedinica Palermo</title>
+    <desc lang="sr">Elitna policijska jedinica iz Palerma u potrazi je za najozloglašenijim kriminalcima na svetu. Tim predvodi mlada, temperamentna i veoma posvećena Palma Toskano, ćerka pokojnog policajca, heroja koji je stradao na dužnosti.(n)</desc>
+    <category lang="sr">Tv-serijali</category>
+    <icon src="https://mts.rs/oec/images/epg/2_ac622c377721919ed96de0b9064a12393f49c9d0.jpg" />
+  </programme>
+  <programme start="20210729111500 +0200" stop="20210729120000 +0200" channel="StarTV.mts">
+    <title lang="sr">Neki bolji ljudi</title>
+    <desc lang="sr">U ovoj seriji čekaju nas zgode i nezgode dve komšijske porodice. Uroševići i članovi porodice Graovac pokazaće nam kako izlaze na kraj sa mukama odrastanja, problemima bračnog života, generacijskim jazom, ali i drugim porodičnim i materijalnim problemima.(n)</desc>
+    <category lang="sr">Tv-serijali</category>
+    <icon src="https://mts.rs/oec/images/epg/2_108711e5737039a3ebbeb65aae7d4270dee30b16.jpg" />
+  </programme>
+  <programme start="20210729120000 +0200" stop="20210729140000 +0200" channel="StarTV.mts">
+    <title lang="sr">Ubistva u Baru Lume</title>
+    <desc lang="sr">Masimo je nedavno razvedeni barmen koji obožava zagonetke i enigme. Njegov oštar um i njegova radoznalost biće mu od najveće koristi kada u ulozi detektiva amatera, krene u istragu neobičnih zločina. Svake epizoda serijala, snimljena je kao televizijski film i vodi nas u idilični gradić na toskanskoj obali.(n)</desc>
+    <category lang="sr">Bioskopski film</category>
+    <icon src="https://mts.rs/oec/images/epg/2_b6e3365b08bfdfab6c0aea003765410ff89be456.jpg" />
+  </programme>
+  <programme start="20210729140000 +0200" stop="20210729160000 +0200" channel="StarTV.mts">
+    <title lang="sr">Ubistva u Baru Lume</title>
+    <desc lang="sr">Masimo je nedavno razvedeni barmen koji obožava zagonetke i enigme. Njegov oštar um i njegova radoznalost biće mu od najveće koristi kada u ulozi detektiva amatera, krene u istragu neobičnih zločina. Svake epizoda serijala, snimljena je kao televizijski film i vodi nas u idilični gradić na toskanskoj obali.(n)</desc>
+    <category lang="sr">Bioskopski film</category>
+    <icon src="https://mts.rs/oec/images/epg/2_b6e3365b08bfdfab6c0aea003765410ff89be456.jpg" />
+  </programme>
+  <programme start="20210729160000 +0200" stop="20210729164500 +0200" channel="StarTV.mts">
+    <title lang="sr">Srcem Kroz Ravnicu: Vršac</title>
+    <desc lang="sr">Ova putopisna emisija vodi nas u prelepa mesta na severu naše zemlje. Pođimo srcem kroz ravnicu i upoznajmo kulturnu baštinu, turističke sadržaje i savremena postignuća na ovom prostoru!(n)</desc>
+    <category lang="sr">Priroda i putovanja</category>
+    <icon src="https://mts.rs/oec/images/epg/2_b5a25189820c9c12732962388d9b38a10cd684e7.jpg" />
+  </programme>
+  <programme start="20210729164500 +0200" stop="20210729173000 +0200" channel="StarTV.mts">
+    <title lang="sr">Srcem Kroz Ravnicu: Ade</title>
+    <desc lang="sr">Ova putopisna emisija vodi nas u prelepa mesta na severu naše zemlje. Pođimo srcem kroz ravnicu i upoznajmo kulturnu baštinu, turističke sadržaje i savremena postignuća na ovom prostoru!(n)</desc>
+    <category lang="sr">Priroda i putovanja</category>
+    <icon src="https://mts.rs/oec/images/epg/2_b5a25189820c9c12732962388d9b38a10cd684e7.jpg" />
+  </programme>
+  <programme start="20210729173000 +0200" stop="20210729191500 +0200" channel="StarTV.mts">
+    <title lang="sr">Policijska jedinica Palermo</title>
+    <desc lang="sr">Elitna policijska jedinica iz Palerma u potrazi je za najozloglašenijim kriminalcima na svetu. Tim predvodi mlada, temperamentna i veoma posvećena Palma Toskano, ćerka pokojnog policajca, heroja koji je stradao na dužnosti.(n)</desc>
+    <category lang="sr">Tv-serijali</category>
+    <icon src="https://mts.rs/oec/images/epg/2_ac622c377721919ed96de0b9064a12393f49c9d0.jpg" />
+  </programme>
+  <programme start="20210729191500 +0200" stop="20210729200000 +0200" channel="StarTV.mts">
+    <title lang="sr">Neki bolji ljudi</title>
+    <desc lang="sr">U ovoj seriji čekaju nas zgode i nezgode dve komšijske porodice. Uroševići i članovi porodice Graovac pokazaće nam kako izlaze na kraj sa mukama odrastanja, problemima bračnog života, generacijskim jazom, ali i drugim porodičnim i materijalnim problemima.(n)</desc>
+    <category lang="sr">Tv-serijali</category>
+    <icon src="https://mts.rs/oec/images/epg/2_108711e5737039a3ebbeb65aae7d4270dee30b16.jpg" />
+  </programme>
+  <programme start="20210729200000 +0200" stop="20210729220000 +0200" channel="StarTV.mts">
+    <title lang="sr">Ubistva u Baru Lume</title>
+    <desc lang="sr">Masimo je nedavno razvedeni barmen koji obožava zagonetke i enigme. Njegov oštar um i njegova radoznalost biće mu od najveće koristi kada u ulozi detektiva amatera, krene u istragu neobičnih zločina. Svake epizoda serijala, snimljena je kao televizijski film i vodi nas u idilični gradić na toskanskoj obali.(n)</desc>
+    <category lang="sr">Bioskopski film</category>
+    <icon src="https://mts.rs/oec/images/epg/2_b6e3365b08bfdfab6c0aea003765410ff89be456.jpg" />
+  </programme>
   <programme start="20210725001700 +0200" stop="20210725004700 +0200" channel="RTS Svet HD">
     <title lang="sr">Hronika Slavonije, Baranje i Zapadnog Srema</title>
     <desc lang="sr">Ovo je emisija informativno-zabavnog karaktera sa aktuelnim temama iz oblasti kulture, sporta, religije, prosvete i socijalno-ekonomskih pitanja. To je emisija na srpskom jeziku i ćiriličnom pismu i posvećena srpskoj etničkoj zajednici koja živi na prostorima Republike Hrvatske, kao i onom stanovništvu koje je deo izbegličkog korpusa, koji se iz Hrvatske doselio na prostore Republike Srbije.</desc>
@@ -6606,28 +6708,9 @@
     <desc lang="en">Alvaiázere.</desc>
     <category lang="en">News</category>
   </programme>
-  <programme start="20210725122800 +0100" stop="20210725125900 +0100" channel="RTP Internacional">
+  <programme start="20210725122800 +0100" stop="20210725182800 +0100" channel="RTP Internacional">
     <title lang="en">Decisão Nacional</title>
-    <desc lang="en">Conselhos e Sugestões de Férias em Portugal.</desc>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20210725125900 +0100" stop="20210725141700 +0100" channel="RTP Internacional">
-    <title lang="en">Jornal da Tarde</title>
-    <desc lang="en">Assim que a tarde começa, nós já temos para si as notícias do dia.</desc>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20210725141700 +0100" stop="20210725144800 +0100" channel="RTP Internacional">
-    <title lang="en">Linha da Frente</title>
-    <desc lang="en">Sinais de Fumo.</desc>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20210725144800 +0100" stop="20210725181400 +0100" channel="RTP Internacional">
-    <title lang="en">Tenda às Costas</title>
-    <desc lang="en">Junte-se à RTP e descubra os parques de campismo do nosso país.</desc>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20210725181400 +0100" stop="20210725182800 +0100" channel="RTP Internacional">
-    <title lang="en">Volta ao Mundo</title>
+    <desc lang="en">Conselhos e Sugestões de Férias em Portugal.(c)</desc>
     <category lang="en">News</category>
   </programme>
   <programme start="20210725182800 +0100" stop="20210725191200 +0100" channel="RTP Internacional">
@@ -6635,14 +6718,9 @@
     <desc lang="en">Alentejo/Barlavento Algarvio.</desc>
     <category lang="en">News</category>
   </programme>
-  <programme start="20210725191200 +0100" stop="20210725195900 +0100" channel="RTP Internacional">
+  <programme start="20210725191200 +0100" stop="20210725212300 +0100" channel="RTP Internacional">
     <title lang="en">Missão: 100% Português</title>
-    <desc lang="en">São Miguel/Açores.</desc>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20210725195900 +0100" stop="20210725212300 +0100" channel="RTP Internacional">
-    <title lang="en">Telejornal</title>
-    <desc lang="en">A mais rigorosa seleção de notícias, todos os dias às 20h00.</desc>
+    <desc lang="en">São Miguel/Açores.(c)</desc>
     <category lang="en">News</category>
   </programme>
   <programme start="20210725212300 +0100" stop="20210726005400 +0100" channel="RTP Internacional">
@@ -10483,6 +10561,232 @@
       <value>5.9</value>
     </star-rating>
   </programme>
+  <programme start="20210725083000 +0200" stop="20210725090000 +0200" channel="MBC 2">
+    <title lang="en">Scoop with Raya</title>
+    <date>2012</date>
+    <icon src="https://media.elcinema.com/uploads/_150x200_3710aee93858ec91ff72718c80a0d0daa8cef31707339b534ed37cd7c0f45996.jpg" />
+    <country lang="en">Lebanon</country>
+    <star-rating system="MPAA">
+      <value>6.5</value>
+    </star-rating>
+  </programme>
+  <programme start="20210725090000 +0200" stop="20210725110000 +0200" channel="MBC 2">
+    <title lang="en">Ocean's Twelve</title>
+    <desc lang="en">Danny and his team are pulled back to do another impossible heist to return the money they stole from Las Vegas casino tycoon, Terry Benedict.(n)</desc>
+    <credits>
+      <director>Steven Soderbergh</director>
+      <actor>George Clooney</actor>
+      <actor>Brad Pitt</actor>
+      <actor>Matt Damon</actor>
+      <actor>Catherine Zeta-Jones</actor>
+      <actor>Andy Garcia</actor>
+      <actor>Don Cheadle</actor>
+      <writer>George Clayton Johnson</writer>
+      <writer>Jack Golden Russell</writer>
+    </credits>
+    <date>2004</date>
+    <category lang="en">Thriller</category>
+    <category lang="en">Crime</category>
+    <icon src="https://media.elcinema.com/uploads/_150x200_e6776a446951874deaf6996ef228901a07a152786b3d38c4f51779c6a34ed5c3.jpg" />
+    <country lang="en">Australia</country>
+    <country lang="en">U.S.</country>
+    <rating system="MPAA">
+      <value>PG-13</value>
+    </rating>
+    <star-rating system="MPAA">
+      <value>6.3</value>
+    </star-rating>
+  </programme>
+  <programme start="20210725110000 +0200" stop="20210725113000 +0200" channel="MBC 2">
+    <title lang="en">Films &amp; stars</title>
+    <credits>
+      <actor>Alan Green</actor>
+    </credits>
+    <date>2008</date>
+    <icon src="https://media.elcinema.com/uploads/_150x200_46db61275e91046e6e711da9def664169f5c549e82b4c5291a13123d9c439e2a.jpg" />
+    <country lang="en">Netherlands</country>
+    <star-rating system="MPAA">
+      <value>5.9</value>
+    </star-rating>
+  </programme>
+  <programme start="20210725113000 +0200" stop="20210725133000 +0200" channel="MBC 2">
+    <title lang="en">Jason Bourne</title>
+    <desc lang="en">Jason Bourne is chased by the CIA once again after former CIA operative Nicky Parsons is out to expose the CIA's black ops. Director Dewey sends CIA agent, Heather Lee to catch them both.(n)</desc>
+    <credits>
+      <director>Paul Greengrass</director>
+      <actor>Matt Damon</actor>
+      <actor>Julia Stiles</actor>
+      <actor>Tommy Lee Jones</actor>
+      <actor>Vincent Cassel</actor>
+      <actor>Alicia Vikander</actor>
+      <actor>Riz Ahmed</actor>
+      <writer>Robert Ludlum</writer>
+      <writer>Paul Greengrass</writer>
+    </credits>
+    <date>2016</date>
+    <category lang="en">Action</category>
+    <category lang="en">Thriller</category>
+    <icon src="https://media.elcinema.com/uploads/_150x200_add28d0dd4ecbec3b1fd775634926eb03ca3a1ba84743a86001ff64122be150e.jpg" />
+    <country lang="en">U.S.</country>
+    <star-rating system="MPAA">
+      <value>7.2</value>
+    </star-rating>
+  </programme>
+  <programme start="20210725133000 +0200" stop="20210725140000 +0200" channel="MBC 2">
+    <title lang="en">Celebrity Scoop</title>
+    <date>2013</date>
+    <icon src="https://media.elcinema.com/uploads/_150x200_832992927ef873f35032846d53d42cee7731ca17d6309beba1059eea410edf0e.jpg" />
+    <star-rating system="MPAA">
+      <value>4.3</value>
+    </star-rating>
+  </programme>
+  <programme start="20210725140000 +0200" stop="20210725160000 +0200" channel="MBC 2">
+    <title lang="en">Argo</title>
+    <desc lang="en">Based on the riveting true story of a CIA agent who in 1979 creates an elaborate ruse involving a fake Hollywood film to save a group of diplomats held hostage during the Iranian revolution.(n)</desc>
+    <credits>
+      <director>Ben Affleck</director>
+      <actor>Ben Affleck</actor>
+      <actor>Bryan Cranston</actor>
+      <actor>Alan Arkin</actor>
+      <actor>John Goodman</actor>
+      <actor>Taylor Schilling</actor>
+      <actor>Victor Garber</actor>
+      <writer>Joshuah Bearman</writer>
+      <writer>Chris Terrio</writer>
+    </credits>
+    <date>2012</date>
+    <category lang="en">Thriller</category>
+    <category lang="en">Drama</category>
+    <icon src="https://media.elcinema.com/uploads/_150x200_fb2faaf9372f1baccb02826f50e9cb682d31a1d8b7a7ebb5a482c3d33aa8977f.jpg" />
+    <country lang="en">U.S.</country>
+    <rating system="MPAA">
+      <value>R</value>
+    </rating>
+    <star-rating system="MPAA">
+      <value>7.6</value>
+    </star-rating>
+  </programme>
+  <programme start="20210725160000 +0200" stop="20210725163000 +0200" channel="MBC 2">
+    <title lang="en">Scoop with Raya</title>
+    <date>2012</date>
+    <icon src="https://media.elcinema.com/uploads/_150x200_3710aee93858ec91ff72718c80a0d0daa8cef31707339b534ed37cd7c0f45996.jpg" />
+    <country lang="en">Lebanon</country>
+    <star-rating system="MPAA">
+      <value>6.5</value>
+    </star-rating>
+  </programme>
+  <programme start="20210725163000 +0200" stop="20210725183000 +0200" channel="MBC 2">
+    <title lang="en">Wedding Crashers</title>
+    <desc lang="en">John and Jeremy are two friends who like to crash weddings to pick up girls, until John falls for the daughter of a wealthy politician and they find themselves in a fix.(n)</desc>
+    <credits>
+      <director>David Dobkin</director>
+      <actor>Rachel McAdams</actor>
+      <actor>Owen Wilson</actor>
+      <actor>Vince Vaughn</actor>
+      <actor>Christopher Walken</actor>
+      <actor>Rebecca De Mornay</actor>
+      <actor>Bradley Cooper</actor>
+      <writer>Bob Fisher</writer>
+      <writer>Steve Faber</writer>
+    </credits>
+    <date>2005</date>
+    <category lang="en">Comedy</category>
+    <category lang="en">Romance</category>
+    <icon src="https://media.elcinema.com/uploads/_150x200_6829d2e22718e25e59b42b0ffece2ab5ded5a253a60d07d1edea11dca6fd71c1.jpg" />
+    <country lang="en">U.S.</country>
+    <star-rating system="MPAA">
+      <value>5.2</value>
+    </star-rating>
+  </programme>
+  <programme start="20210725183000 +0200" stop="20210725203000 +0200" channel="MBC 2">
+    <title lang="en">Love the Coopers</title>
+    <desc lang="en">For the annual Christmas celebration that is supposed to bring together four different generations of the Cooper family, several unexpected visitors show up, their presence giving the chance to the family to re-discover their connections and their fun, festive selves.(n)</desc>
+    <credits>
+      <director>Jessie Nelson</director>
+      <actor>Amanda Seyfried</actor>
+      <actor>Ed Helms</actor>
+      <actor>Jon Tenney</actor>
+      <actor>Anthony Mackie</actor>
+      <actor>Olivia Wilde</actor>
+      <actor>Diane Keaton</actor>
+      <writer>Steven Rogers</writer>
+    </credits>
+    <date>2015</date>
+    <category lang="en">Comedy</category>
+    <icon src="https://media.elcinema.com/uploads/_150x200_30c145684d676a319d97afa58b0147372bb60f3f177aa348bf5928ceb7d126d0.jpg" />
+    <country lang="en">U.S.</country>
+    <star-rating system="MPAA">
+      <value>5.9</value>
+    </star-rating>
+  </programme>
+  <programme start="20210725203000 +0200" stop="20210725223000 +0200" channel="MBC 2">
+    <title lang="en">The Hangover</title>
+    <desc lang="en">This extremely successful title is a comedy film that was directed by Todd Phillips. The film stars Bradley Cooper, Ed Helms and Heather Graham among others. Two days before his wedding Dough (Justin Bartha) and his best friends Phil (Bradley Cooper), Stu (Ed Helms) and Alan (Zach Galifiankis) drive to Las Vegas for one last fling before his wedding. The group of man-friends rent a villa in Vegas and on the eve of their partying they make their way to the villa’s roof and make toasts to a night of partying that they will never forget. By the next morning it is clear that they honored their toast, perhaps too well. The villa is in complete disarray and among the party’s legacies that they encounter in the morning are a tiger in the bathroom, a mattress impaled on a statue and a baby in the closet. Those are the minor problems. Another problems is the their car, a vintage Mercedes borrowed from the bride’s father, is missing. Worst of all though, the groom is missing. Thus begins their race against time to find the groom because, the fact is, a wedding without a groom is just not the same.(n)</desc>
+    <credits>
+      <director>Todd Phillips</director>
+      <actor>Bradley Cooper</actor>
+      <actor>Ed Helms</actor>
+      <actor>Zach Galifianakis</actor>
+      <actor>Justin Bartha</actor>
+      <actor>Heather Graham</actor>
+      <actor>Jeffrey Tambor</actor>
+      <writer>Scott Moore</writer>
+      <writer>Jon Lucas</writer>
+    </credits>
+    <date>2009</date>
+    <category lang="en">Comedy</category>
+    <category lang="en">Thriller</category>
+    <icon src="https://media.elcinema.com/uploads/_150x200_700df7714955f971636d0e2acb173a2c010b1c475c600abe77118969cbc9be78.jpg" />
+    <country lang="en">U.S.</country>
+    <star-rating system="MPAA">
+      <value>7.5</value>
+    </star-rating>
+  </programme>
+  <programme start="20210725223000 +0200" stop="20210726003000 +0200" channel="MBC 2">
+    <title lang="en">The Hangover Part II</title>
+    <desc lang="en">Phil, Stu, Alan and Doug travel to Thailand for Stu's wedding. After the unforgettable bachelor party in Las Vegas, Stu is taking no chances and has opted for a safe, subdued pre-wedding brunch. However, things do not always go as planned.(n)</desc>
+    <credits>
+      <director>Todd Phillips</director>
+      <actor>Bradley Cooper</actor>
+      <actor>Zach Galifianakis</actor>
+      <actor>Ed Helms</actor>
+      <actor>Nick Cassavetes</actor>
+      <actor>Mike Tyson</actor>
+      <actor>Ken Jeong</actor>
+      <writer>Craig Mazin</writer>
+      <writer>Scot Armstrong</writer>
+    </credits>
+    <date>2011</date>
+    <category lang="en">Thriller</category>
+    <category lang="en">Comedy</category>
+    <icon src="https://media.elcinema.com/uploads/_150x200_407897d21634ecf4b548edbf2998dab084adc4af080bd3dbd98a310e7cf11dbd.jpg" />
+    <country lang="en">U.S.</country>
+    <star-rating system="MPAA">
+      <value>6.8</value>
+    </star-rating>
+  </programme>
+  <programme start="20210726003000 +0200" stop="20210726023000 +0200" channel="MBC 2">
+    <title lang="en">The Hangover Part III</title>
+    <desc lang="en">After the death of Allen's father (Zach Galifianakis), the group decides to make a hellish plan to get him out of his ordeal and find a solution to his psychological problems. But when Doug (Justin Bartha) is kidnapped,they must come together to save him.(n)</desc>
+    <credits>
+      <director>Todd Phillips</director>
+      <actor>Bradley Cooper</actor>
+      <actor>Zach Galifianakis</actor>
+      <actor>Ed Helms</actor>
+      <actor>Jamie Chung</actor>
+      <actor>Ken Jeong</actor>
+      <actor>John Goodman</actor>
+      <writer>Todd Phillips</writer>
+      <writer>Craig Mazin</writer>
+    </credits>
+    <date>2013</date>
+    <category lang="en">Comedy</category>
+    <icon src="https://media.elcinema.com/uploads/_150x200_270f3616869e0561775c757d4e217a602d31046bed755019b7f9aa54f6a48936.jpg" />
+    <country lang="en">U.S.</country>
+    <star-rating system="MPAA">
+      <value>5.2</value>
+    </star-rating>
+  </programme>
   <programme start="20210725000000 +0200" stop="20210725020000 +0200" channel="MBC MAX">
     <title lang="en">Mississippi Grind</title>
     <desc lang="en">Believing that his bad luck is the thing standing between him and his dreams, Gerry soon finds a companion in Curtis, a poker player whom Gerry believes is luckier than he is. Together, they team up and set out on a journey to New Orleans for a high-stakes poker game.</desc>
@@ -12036,6 +12340,1845 @@
     <country lang="en">U.S.</country>
     <star-rating system="MPAA">
       <value>5.8</value>
+    </star-rating>
+  </programme>
+  <programme start="20210726013000 +0200" stop="20210726020000 +0200" channel="MBC 3">
+    <title lang="en">Teenage Mutant Ninja Turtles</title>
+    <desc lang="en">After four ninja turtles are mutated by a mysterious alien substance, they must come out of the sewers to defend their city against forces of evil from both past and present.(n)</desc>
+    <credits>
+      <director>Ciro Nieli</director>
+      <director>Michael Chang</director>
+      <actor>Rob Paulsen</actor>
+      <actor>Minae Noji</actor>
+      <actor>Mae Whitman</actor>
+      <actor>Seth Green</actor>
+      <actor>Greg Cipes</actor>
+      <actor>Sean Astin</actor>
+      <writer>Tom Alvarado</writer>
+      <writer>Kevin Eastman</writer>
+    </credits>
+    <date>2012</date>
+    <category lang="en">Adventure</category>
+    <category lang="en">Action</category>
+    <icon src="https://media.elcinema.com/uploads/_150x200_1cebc48bd55e996fa2859952260151340d9fd2d79a6ef2e132ac8ab08892090c.jpg" />
+    <country lang="en">U.S.</country>
+    <rating system="MPAA">
+      <value>TV-Y7</value>
+    </rating>
+    <star-rating system="MPAA">
+      <value>7.8</value>
+    </star-rating>
+  </programme>
+  <programme start="20210726020000 +0200" stop="20210726023000 +0200" channel="MBC 3">
+    <title lang="en">The Basketeers</title>
+    <credits>
+      <director>Bruno Bligoux</director>
+      <actor>Eden Gamliel</actor>
+      <actor>Manon Azem</actor>
+      <actor>Pascale Chemin</actor>
+      <actor>Jennifer Fauveau</actor>
+      <writer>Morgana Herma</writer>
+    </credits>
+    <date>2011</date>
+    <icon src="https://media.elcinema.com/uploads/_150x200_3cdbc72997afb931b4e339303bfbf1ccd482b9b99374a3d454d68c8fbe2d75a6.jpg" />
+    <country lang="en">France</country>
+    <star-rating system="MPAA">
+      <value>5.2</value>
+    </star-rating>
+  </programme>
+  <programme start="20210726023000 +0200" stop="20210726033000 +0200" channel="MBC 3">
+    <title lang="en">Bunsen Is a Beast</title>
+    <desc lang="en">The innocent friendship between the blue monster, Bunsen, and his human friend, Mikey, as the latter is trying to teach the former how to mingle with humans. Are people going to embrace or marginalize him.(n)</desc>
+    <credits>
+      <director>George Eliot</director>
+      <actor>Kari Wahlgren</actor>
+      <actor>Jeff Bennett</actor>
+      <actor>Cheri Oteri</actor>
+      <actor>Cristina Milizia</actor>
+      <writer>Butch Hartman</writer>
+    </credits>
+    <date>2017</date>
+    <icon src="https://media.elcinema.com/uploads/_150x200_17132037afdef43082de8a3659fee0aa4e6fdb55c9453199c584e60d72e3eb01.jpg" />
+    <country lang="en">U.S.</country>
+    <star-rating system="MPAA">
+      <value>5.9</value>
+    </star-rating>
+  </programme>
+  <programme start="20210726033000 +0200" stop="20210726050000 +0200" channel="MBC 3">
+    <title lang="en">SpongeBob SquarePants S5</title>
+    <desc lang="en">SpongeBob returns for more underwater adventures, driven along by his curiosity and his attempt to discover everything new in his world.(n)</desc>
+    <credits>
+      <director>Vincent Waller</director>
+      <director>Paul Tibbitt</director>
+      <actor>Tom Kenny</actor>
+      <actor>Rodger Bumpass</actor>
+      <actor>Clancy Brown</actor>
+      <actor>Lori Alan</actor>
+      <actor>Dee Bradley Baker</actor>
+      <actor>Bill Fagerbakke</actor>
+      <writer>Stephen Hillenburg</writer>
+      <writer>Casey Alexander</writer>
+    </credits>
+    <date>2007</date>
+    <category lang="en">Comedy</category>
+    <category lang="en">Adventure</category>
+    <icon src="https://media.elcinema.com/uploads/_150x200_b68376719de8726c3621f6993aa5c7576d4fd891e839a12161bfbe518839b99a.jpg" />
+    <country lang="en">U.S.</country>
+    <rating system="MPAA">
+      <value>TV-Y7</value>
+    </rating>
+    <star-rating system="MPAA">
+      <value>8.7</value>
+    </star-rating>
+  </programme>
+  <programme start="20210726050000 +0200" stop="20210726053000 +0200" channel="MBC 3">
+    <title lang="en">ChalkZone</title>
+    <desc lang="en">Rudy Tabootie and his friends Snap and Penny Sanchez enter never ending adventures, as Rudy is an elementary school student who has a magic piece of chalk that takes him into the ChalkZone, an alternate world where everything drawn on a blackboard and erased becomes real.(n)</desc>
+    <credits>
+      <actor>Adel Omar</actor>
+      <actor>Moawad Ismail</actor>
+      <actor>يارا علاء</actor>
+      <actor>Salwa Mohamed Ali</actor>
+      <actor>Sayed Elromy</actor>
+      <actor>عادل الخربوطلي</actor>
+    </credits>
+    <date>2005</date>
+    <category lang="en">Animation</category>
+    <category lang="en">Family</category>
+    <icon src="https://media.elcinema.com/uploads/_150x200_5a917885dffcf3535d68fbd008b5b52fac4d8d995f478ebf2a52bdd87347f768.jpg" />
+    <country lang="en">US</country>
+    <star-rating system="MPAA">
+      <value>6.9</value>
+    </star-rating>
+  </programme>
+  <programme start="20210726053000 +0200" stop="20210726060000 +0200" channel="MBC 3">
+    <title lang="en">Bunsen Is a Beast</title>
+    <desc lang="en">The innocent friendship between the blue monster, Bunsen, and his human friend, Mikey, as the latter is trying to teach the former how to mingle with humans. Are people going to embrace or marginalize him.(n)</desc>
+    <credits>
+      <director>George Eliot</director>
+      <actor>Kari Wahlgren</actor>
+      <actor>Jeff Bennett</actor>
+      <actor>Cheri Oteri</actor>
+      <actor>Cristina Milizia</actor>
+      <writer>Butch Hartman</writer>
+    </credits>
+    <date>2017</date>
+    <icon src="https://media.elcinema.com/uploads/_150x200_17132037afdef43082de8a3659fee0aa4e6fdb55c9453199c584e60d72e3eb01.jpg" />
+    <country lang="en">U.S.</country>
+    <star-rating system="MPAA">
+      <value>5.9</value>
+    </star-rating>
+  </programme>
+  <programme start="20210726060000 +0200" stop="20210726070000 +0200" channel="MBC 3">
+    <title lang="en">Totally Spies!</title>
+    <credits>
+      <director>Stephane Berry</director>
+      <actor>Jennifer Hale</actor>
+      <actor>Andrea Baker</actor>
+      <actor>Katie Griffin</actor>
+      <actor>Jess Harnell</actor>
+      <writer>Michelle Lamoreaux</writer>
+    </credits>
+    <date>2001</date>
+    <category lang="en">Animation</category>
+    <icon src="https://media.elcinema.com/uploads/_150x200_a20e315312275a0908d4d45c8002d93692bba228260b9dc183df9c8a6668c793.jpg" />
+    <country lang="en">Canada</country>
+    <country lang="en">US</country>
+    <rating system="MPAA">
+      <value>TV-Y7</value>
+    </rating>
+    <star-rating system="MPAA">
+      <value>7.1</value>
+    </star-rating>
+  </programme>
+  <programme start="20210726070000 +0200" stop="20210726073000 +0200" channel="MBC 3">
+    <title lang="en">PAW Patrol</title>
+    <desc lang="en">The story of a boy and seven small dogs, trying to save people from the problems they create and save the city's inhabitants from dangers.(n)</desc>
+    <credits>
+      <director>Charles E. Bastien</director>
+      <director>Jamie Whitney</director>
+      <actor>Kallan Holley</actor>
+      <actor>Devan Cohen</actor>
+      <actor>Ron Pardo</actor>
+      <actor>Samuel Faraci</actor>
+      <actor>Alex Thorne</actor>
+      <actor>Caroline Johnson</actor>
+      <writer>Keith Chapman</writer>
+      <writer>Kim Duran</writer>
+    </credits>
+    <date>2013</date>
+    <category lang="en">Animation</category>
+    <category lang="en">Action</category>
+    <icon src="https://media.elcinema.com/uploads/_150x200_8eb78ccfbf32e8979f7a75b5fe14feed1162bab52ab3bad0a7176a27c47a2bba.jpg" />
+    <country lang="en">Canada</country>
+    <star-rating system="MPAA">
+      <value>7.5</value>
+    </star-rating>
+  </programme>
+  <programme start="20210726073000 +0200" stop="20210726080000 +0200" channel="MBC 3">
+    <title lang="en">ﺑﺮﻧﺎﻣﺞ أهلاً سمسم</title>
+    <icon src="https://media.elcinema.com/blank_photos/150x200.jpg" />
+  </programme>
+  <programme start="20210726080000 +0200" stop="20210726083000 +0200" channel="MBC 3">
+    <title lang="en">CuBy Zoo</title>
+    <date>2019</date>
+    <category lang="en">Animation</category>
+    <icon src="https://media.elcinema.com/uploads/_150x200_325635d487258f80e12b343fcd049c5c575c3b06afcfce2905bfc6dad8e316c4.jpg" />
+    <country lang="en">Italy</country>
+  </programme>
+  <programme start="20210726083000 +0200" stop="20210726090000 +0200" channel="MBC 3">
+    <title lang="en">Dora the Explorer</title>
+    <desc lang="en">Dora the explorer and her friend Boots the monkey embark on many adventures with the help of backpack,map and other friends while trying to keep away Swiper the fox who tries to steal their things.(n)</desc>
+    <credits>
+      <director>Gary Conrad</director>
+      <director>Henry Madden</director>
+      <actor>Marc Weiner</actor>
+      <actor>Harrison Chad</actor>
+      <actor>Kathleen Herles</actor>
+      <actor>Sasha Toro</actor>
+      <actor>Regan Mizrahi</actor>
+      <actor>Alexandria Suarez</actor>
+      <writer>Chris Gifford</writer>
+      <writer>Eric Weiner</writer>
+    </credits>
+    <date>2000</date>
+    <category lang="en">Animation</category>
+    <icon src="https://media.elcinema.com/uploads/_150x200_55b6b6abe1d340266d2b9232ef8b295ffa9d9a481a27ad753062f2540da40f57.jpg" />
+    <country lang="en">U.S.</country>
+    <star-rating system="MPAA">
+      <value>5.9</value>
+    </star-rating>
+  </programme>
+  <programme start="20210726090000 +0200" stop="20210726093000 +0200" channel="MBC 3">
+    <title lang="en">Top Wing</title>
+    <desc lang="en">Four young birds -Penny, Rod, Swift, and Brody - become new cadets in Top Wing Academy to earn their wings in order to help their community.(n)</desc>
+    <credits>
+      <director>Bill Speers</director>
+      <director>Matthew Fernandes</director>
+      <actor>Colin Doyle</actor>
+      <actor>Shirley Manson</actor>
+      <actor>Lucas Kalechstein</actor>
+      <actor>Jonah Wineberg</actor>
+      <actor>Ethan Pugiotto</actor>
+      <writer>Matthew Fernandes</writer>
+    </credits>
+    <date>2017</date>
+    <category lang="en">Family</category>
+    <category lang="en">Adventure</category>
+    <icon src="https://media.elcinema.com/uploads/_150x200_954586a39914630b5cf471cda4cfd63c748063de4babe524da4eea60e17eb9c8.jpg" />
+    <country lang="en">Canada</country>
+    <country lang="en">U.S.</country>
+    <star-rating system="MPAA">
+      <value>4.3</value>
+    </star-rating>
+  </programme>
+  <programme start="20210726093000 +0200" stop="20210726100000 +0200" channel="MBC 3">
+    <title lang="en">Peg+Cat</title>
+    <credits>
+      <director>Cory Bobiak</director>
+      <actor>Christian Distefano</actor>
+      <actor>Hayley Faith Negrin</actor>
+      <actor>Dwayne Hill</actor>
+      <actor>Tommy Wazelle</actor>
+      <writer>Stacey Greenberger</writer>
+    </credits>
+    <date>2013</date>
+    <category lang="en">Animation</category>
+    <icon src="https://media.elcinema.com/uploads/_150x200_5998edb7998dccca234964121520d25b6754899e70da79d3253c1f108b950a71.jpg" />
+    <country lang="en">US</country>
+    <rating system="MPAA">
+      <value>TV-Y</value>
+    </rating>
+  </programme>
+  <programme start="20210726100000 +0200" stop="20210726103000 +0200" channel="MBC 3">
+    <title lang="en">Splash and Bubbles</title>
+    <credits>
+      <director>David Skelly</director>
+      <actor>Allan Trautman</actor>
+      <actor>Dan Garza</actor>
+      <actor>Dorien Davies</actor>
+      <actor>Valeria Zunzun</actor>
+      <writer>Michael Foulke</writer>
+    </credits>
+    <date>2016</date>
+    <category lang="en">Animation</category>
+    <icon src="https://media.elcinema.com/uploads/_150x200_aa150f7d486188a693bf9007728c6651865fd5f7d55f7f47983ac48ade426cd2.jpg" />
+    <country lang="en">US</country>
+  </programme>
+  <programme start="20210726103000 +0200" stop="20210726110000 +0200" channel="MBC 3">
+    <title lang="en">CuBy Zoo</title>
+    <date>2019</date>
+    <category lang="en">Animation</category>
+    <icon src="https://media.elcinema.com/uploads/_150x200_325635d487258f80e12b343fcd049c5c575c3b06afcfce2905bfc6dad8e316c4.jpg" />
+    <country lang="en">Italy</country>
+  </programme>
+  <programme start="20210726110000 +0200" stop="20210726113000 +0200" channel="MBC 3">
+    <title lang="en">Blaze and the Monster Machines</title>
+    <desc lang="en">The series is about the adventures and races of monster-truck (Blaze) with his friend (AJ), and its abilities to add pieces to itself to help him in the races.(n)</desc>
+    <credits>
+      <director>Miguel Martinez-Joffre</director>
+      <director>Blair Simmons</director>
+      <actor>Caleel Harris</actor>
+      <actor>Nat Faxon</actor>
+      <actor>Kevin Michael Richardson</actor>
+      <actor>Reed Shannon</actor>
+      <actor>Nolan North</actor>
+      <actor>Dee Bradley Baker</actor>
+      <writer>Jeff Borkin</writer>
+      <writer>Ellen Martin</writer>
+    </credits>
+    <date>2014</date>
+    <category lang="en">Animation</category>
+    <category lang="en">Action</category>
+    <icon src="https://media.elcinema.com/uploads/_150x200_319521954d5238fb84520bcdb50fcaae8439ae3039e6128bc49da398bdb0dc41.jpg" />
+    <country lang="en">U.S.</country>
+    <star-rating system="MPAA">
+      <value>5.8</value>
+    </star-rating>
+  </programme>
+  <programme start="20210726113000 +0200" stop="20210726120000 +0200" channel="MBC 3">
+    <title lang="en">Sunny Day</title>
+    <desc lang="en">Ten-year-old Sunny, is the best hairdresser in Friendly Falls who learns that problems can be solved using persistence and creativity.(n)</desc>
+    <credits>
+      <director>Joey So</director>
+      <director>Shawn Seles</director>
+      <actor>Taylor Louderman</actor>
+      <actor>Dave Droxler</actor>
+      <actor>Lilla Crawford</actor>
+      <actor>Elan Luz Rivera</actor>
+      <actor>Robbie Morrison</actor>
+      <actor>Sarah Stiles</actor>
+      <writer>Brian Hohlfeld</writer>
+      <writer>Jodi Reynolds</writer>
+    </credits>
+    <date>2017</date>
+    <category lang="en">Family</category>
+    <category lang="en">Comedy</category>
+    <icon src="https://media.elcinema.com/uploads/_150x200_a7ac18c2e087ebed81fa0082f87cc0141aa0957f2c7e0708034ee99b21dbff96.jpg" />
+    <country lang="en">Canada</country>
+    <country lang="en">U.S.</country>
+    <star-rating system="MPAA">
+      <value>4.3</value>
+    </star-rating>
+  </programme>
+  <programme start="20210726120000 +0200" stop="20210726122500 +0200" channel="MBC 3">
+    <title lang="en">PAW Patrol</title>
+    <desc lang="en">The story of a boy and seven small dogs, trying to save people from the problems they create and save the city's inhabitants from dangers.(n)</desc>
+    <credits>
+      <director>Charles E. Bastien</director>
+      <director>Jamie Whitney</director>
+      <actor>Kallan Holley</actor>
+      <actor>Devan Cohen</actor>
+      <actor>Ron Pardo</actor>
+      <actor>Samuel Faraci</actor>
+      <actor>Alex Thorne</actor>
+      <actor>Caroline Johnson</actor>
+      <writer>Keith Chapman</writer>
+      <writer>Kim Duran</writer>
+    </credits>
+    <date>2013</date>
+    <category lang="en">Animation</category>
+    <category lang="en">Action</category>
+    <icon src="https://media.elcinema.com/uploads/_150x200_8eb78ccfbf32e8979f7a75b5fe14feed1162bab52ab3bad0a7176a27c47a2bba.jpg" />
+    <country lang="en">Canada</country>
+    <star-rating system="MPAA">
+      <value>7.5</value>
+    </star-rating>
+  </programme>
+  <programme start="20210726122500 +0200" stop="20210726123000 +0200" channel="MBC 3">
+    <title lang="en">تواصل</title>
+    <icon src="https://media.elcinema.com/blank_photos/150x200.jpg" />
+  </programme>
+  <programme start="20210726123000 +0200" stop="20210726130000 +0200" channel="MBC 3">
+    <title lang="en">ﺑﺮﻧﺎﻣﺞ أهلاً سمسم</title>
+    <icon src="https://media.elcinema.com/blank_photos/150x200.jpg" />
+  </programme>
+  <programme start="20210726130000 +0200" stop="20210726133000 +0200" channel="MBC 3">
+    <title lang="en">ChalkZone</title>
+    <desc lang="en">Rudy Tabootie and his friends Snap and Penny Sanchez enter never ending adventures, as Rudy is an elementary school student who has a magic piece of chalk that takes him into the ChalkZone, an alternate world where everything drawn on a blackboard and erased becomes real.(n)</desc>
+    <credits>
+      <actor>Adel Omar</actor>
+      <actor>Moawad Ismail</actor>
+      <actor>يارا علاء</actor>
+      <actor>Salwa Mohamed Ali</actor>
+      <actor>Sayed Elromy</actor>
+      <actor>عادل الخربوطلي</actor>
+    </credits>
+    <date>2005</date>
+    <category lang="en">Animation</category>
+    <category lang="en">Family</category>
+    <icon src="https://media.elcinema.com/uploads/_150x200_5a917885dffcf3535d68fbd008b5b52fac4d8d995f478ebf2a52bdd87347f768.jpg" />
+    <country lang="en">US</country>
+    <star-rating system="MPAA">
+      <value>6.9</value>
+    </star-rating>
+  </programme>
+  <programme start="20210726133000 +0200" stop="20210726140000 +0200" channel="MBC 3">
+    <title lang="en">The Barefoot Bandits</title>
+    <credits>
+      <director>Tim Evans</director>
+      <director>Ryan Cooper</director>
+      <actor>Laura Daniel</actor>
+      <actor>Tammy Davis</actor>
+      <actor>Josh Thomson</actor>
+      <actor>Ryan Cooper</actor>
+      <actor>Glen-Paul Waru</actor>
+      <actor>Rhys Darby</actor>
+      <writer>Nick Ward</writer>
+      <writer>Tim Evans</writer>
+    </credits>
+    <date>2016</date>
+    <icon src="https://media.elcinema.com/uploads/_150x200_9aba1c794dfa96d27aca38b19aa23257441791cc802b2b715b17ccbb6e045dc9.jpg" />
+    <country lang="en">New Zealand</country>
+    <star-rating system="MPAA">
+      <value>4.7</value>
+    </star-rating>
+  </programme>
+  <programme start="20210726140000 +0200" stop="20210726142500 +0200" channel="MBC 3">
+    <title lang="en">Bunsen Is a Beast</title>
+    <desc lang="en">The innocent friendship between the blue monster, Bunsen, and his human friend, Mikey, as the latter is trying to teach the former how to mingle with humans. Are people going to embrace or marginalize him.(n)</desc>
+    <credits>
+      <director>George Eliot</director>
+      <actor>Kari Wahlgren</actor>
+      <actor>Jeff Bennett</actor>
+      <actor>Cheri Oteri</actor>
+      <actor>Cristina Milizia</actor>
+      <writer>Butch Hartman</writer>
+    </credits>
+    <date>2017</date>
+    <icon src="https://media.elcinema.com/uploads/_150x200_17132037afdef43082de8a3659fee0aa4e6fdb55c9453199c584e60d72e3eb01.jpg" />
+    <country lang="en">U.S.</country>
+    <star-rating system="MPAA">
+      <value>5.9</value>
+    </star-rating>
+  </programme>
+  <programme start="20210726142500 +0200" stop="20210726143000 +0200" channel="MBC 3">
+    <title lang="en">تواصل</title>
+    <icon src="https://media.elcinema.com/blank_photos/150x200.jpg" />
+  </programme>
+  <programme start="20210726143000 +0200" stop="20210726150000 +0200" channel="MBC 3">
+    <title lang="en">Sindbad &amp; the 7 Galaxies</title>
+    <credits>
+      <director>Matthew Darragh</director>
+      <actor>Scott Nichol</actor>
+      <actor>Tom Wayland</actor>
+      <actor>Keara Williams</actor>
+      <actor>Lani Minella</actor>
+      <actor>Kevin Scott</actor>
+      <writer>Eric Farmer</writer>
+    </credits>
+    <date>2016</date>
+    <category lang="en">Animation</category>
+    <icon src="https://media.elcinema.com/uploads/_150x200_0afc94125e66be567e8b229a51d5fa39e3d1c715499fcee7f3f5e639342a3316.jpg" />
+    <country lang="en">U.K.</country>
+  </programme>
+  <programme start="20210726150000 +0200" stop="20210726153000 +0200" channel="MBC 3">
+    <title lang="en">Ready Jet Go!</title>
+    <desc lang="en">The alien Jet learns about science with his friends Sean, Mindy, and Sydney.(n)</desc>
+    <credits>
+      <director>Zac Palladino</director>
+      <actor>Ashleigh Ball</actor>
+      <actor>Jaeda Lily Miller</actor>
+      <actor>William Ainscough</actor>
+      <actor>Kyle Rideout</actor>
+      <actor>Brian Drummond</actor>
+      <actor>Dalila Bela</actor>
+      <writer>Michelle Lamoreaux</writer>
+    </credits>
+    <date>2016</date>
+    <category lang="en">Animation</category>
+    <category lang="en">Family</category>
+    <icon src="https://media.elcinema.com/uploads/_150x200_b2a046d9fbd82b4258ed61a9588c164541de1ed6075952164d6cc5b028535e22.jpg" />
+    <country lang="en">U.S.</country>
+    <star-rating system="MPAA">
+      <value>4.4</value>
+    </star-rating>
+  </programme>
+  <programme start="20210726153000 +0200" stop="20210726160000 +0200" channel="MBC 3">
+    <title lang="en">Teenage Mutant Ninja Turtles</title>
+    <desc lang="en">After four ninja turtles are mutated by a mysterious alien substance, they must come out of the sewers to defend their city against forces of evil from both past and present.(n)</desc>
+    <credits>
+      <director>Ciro Nieli</director>
+      <director>Michael Chang</director>
+      <actor>Rob Paulsen</actor>
+      <actor>Minae Noji</actor>
+      <actor>Mae Whitman</actor>
+      <actor>Seth Green</actor>
+      <actor>Greg Cipes</actor>
+      <actor>Sean Astin</actor>
+      <writer>Tom Alvarado</writer>
+      <writer>Kevin Eastman</writer>
+    </credits>
+    <date>2012</date>
+    <category lang="en">Adventure</category>
+    <category lang="en">Action</category>
+    <icon src="https://media.elcinema.com/uploads/_150x200_1cebc48bd55e996fa2859952260151340d9fd2d79a6ef2e132ac8ab08892090c.jpg" />
+    <country lang="en">U.S.</country>
+    <rating system="MPAA">
+      <value>TV-Y7</value>
+    </rating>
+    <star-rating system="MPAA">
+      <value>7.8</value>
+    </star-rating>
+  </programme>
+  <programme start="20210726160000 +0200" stop="20210726163000 +0200" channel="MBC 3">
+    <title lang="en">SpongeBob SquarePants S5</title>
+    <desc lang="en">SpongeBob returns for more underwater adventures, driven along by his curiosity and his attempt to discover everything new in his world.(n)</desc>
+    <credits>
+      <director>Vincent Waller</director>
+      <director>Paul Tibbitt</director>
+      <actor>Tom Kenny</actor>
+      <actor>Rodger Bumpass</actor>
+      <actor>Clancy Brown</actor>
+      <actor>Lori Alan</actor>
+      <actor>Dee Bradley Baker</actor>
+      <actor>Bill Fagerbakke</actor>
+      <writer>Stephen Hillenburg</writer>
+      <writer>Casey Alexander</writer>
+    </credits>
+    <date>2007</date>
+    <category lang="en">Comedy</category>
+    <category lang="en">Adventure</category>
+    <icon src="https://media.elcinema.com/uploads/_150x200_b68376719de8726c3621f6993aa5c7576d4fd891e839a12161bfbe518839b99a.jpg" />
+    <country lang="en">U.S.</country>
+    <rating system="MPAA">
+      <value>TV-Y7</value>
+    </rating>
+    <star-rating system="MPAA">
+      <value>8.7</value>
+    </star-rating>
+  </programme>
+  <programme start="20210726163000 +0200" stop="20210726170000 +0200" channel="MBC 3">
+    <title lang="en">ﺑﺮﻧﺎﻣﺞ تسالي أحلى عالم</title>
+    <icon src="https://media.elcinema.com/blank_photos/150x200.jpg" />
+  </programme>
+  <programme start="20210726170000 +0200" stop="20210726172500 +0200" channel="MBC 3">
+    <title lang="en">The Basketeers</title>
+    <credits>
+      <director>Bruno Bligoux</director>
+      <actor>Eden Gamliel</actor>
+      <actor>Manon Azem</actor>
+      <actor>Pascale Chemin</actor>
+      <actor>Jennifer Fauveau</actor>
+      <writer>Morgana Herma</writer>
+    </credits>
+    <date>2011</date>
+    <icon src="https://media.elcinema.com/uploads/_150x200_3cdbc72997afb931b4e339303bfbf1ccd482b9b99374a3d454d68c8fbe2d75a6.jpg" />
+    <country lang="en">France</country>
+    <star-rating system="MPAA">
+      <value>5.2</value>
+    </star-rating>
+  </programme>
+  <programme start="20210726172500 +0200" stop="20210726173000 +0200" channel="MBC 3">
+    <title lang="en">تواصل</title>
+    <icon src="https://media.elcinema.com/blank_photos/150x200.jpg" />
+  </programme>
+  <programme start="20210726173000 +0200" stop="20210726180000 +0200" channel="MBC 3">
+    <title lang="en">Kody Kapow</title>
+    <credits>
+      <director>Samuel Chou</director>
+      <actor>Jonathan Tan</actor>
+      <actor>Jason Alexander</actor>
+      <actor>Neil Crone</actor>
+      <actor>Scott Gorman</actor>
+      <writer>Robin Stein</writer>
+    </credits>
+    <date>2017</date>
+    <category lang="en">Animation</category>
+    <icon src="https://media.elcinema.com/uploads/_150x200_729809092f2d2435ff5625d5c051917282bcd4699c3484ff4f337978aeea6910.jpg" />
+    <country lang="en">U.S.</country>
+    <star-rating system="MPAA">
+      <value>5.8</value>
+    </star-rating>
+  </programme>
+  <programme start="20210726180000 +0200" stop="20210726183000 +0200" channel="MBC 3">
+    <title lang="en">Martial Mecha Sega</title>
+    <desc lang="en">Ten video game finalists find themselves trapped into the virtual world of the game Robo-Troopers, as one of the gamers named LoLo might be the legendary savior who would lead the Vehicle Clan to defeat the Beastie Warlords.(n)</desc>
+    <credits>
+      <director>Tommy Wang</director>
+      <director>Ma Ling</director>
+      <actor>Zu Liqing</actor>
+      <actor>Gao Quansheng</actor>
+      <actor>Ju Yuebin</actor>
+      <actor>Zhao Ran</actor>
+      <writer>Wang Wei</writer>
+    </credits>
+    <date>2013</date>
+    <category lang="en">Animation</category>
+    <icon src="https://media.elcinema.com/uploads/_150x200_f3a9a2de9018af32d2b86dac8bdc40af108b60e35c56caf8f042c9a29f95e27c.jpg" />
+    <country lang="en">China</country>
+    <star-rating system="MPAA">
+      <value>7.3</value>
+    </star-rating>
+  </programme>
+  <programme start="20210726183000 +0200" stop="20210726190000 +0200" channel="MBC 3">
+    <title lang="en">Totally Spies!</title>
+    <credits>
+      <director>Stephane Berry</director>
+      <actor>Jennifer Hale</actor>
+      <actor>Andrea Baker</actor>
+      <actor>Katie Griffin</actor>
+      <actor>Jess Harnell</actor>
+      <writer>Michelle Lamoreaux</writer>
+    </credits>
+    <date>2001</date>
+    <category lang="en">Animation</category>
+    <icon src="https://media.elcinema.com/uploads/_150x200_a20e315312275a0908d4d45c8002d93692bba228260b9dc183df9c8a6668c793.jpg" />
+    <country lang="en">Canada</country>
+    <country lang="en">US</country>
+    <rating system="MPAA">
+      <value>TV-Y7</value>
+    </rating>
+    <star-rating system="MPAA">
+      <value>7.1</value>
+    </star-rating>
+  </programme>
+  <programme start="20210726190000 +0200" stop="20210726193000 +0200" channel="MBC 3">
+    <title lang="en">World Peacekeepers</title>
+    <credits>
+      <director>Qian Judong</director>
+      <actor>Ge Zhao</actor>
+      <actor>Liaodong Sun</actor>
+      <actor>Litian Wang</actor>
+      <actor>Yuan Xin</actor>
+      <actor>Ma Haolun</actor>
+      <actor>Gao Ge</actor>
+      <writer>Ken Yi O</writer>
+      <writer>Zogo Xiong</writer>
+    </credits>
+    <date>2014</date>
+    <category lang="en">Animation</category>
+    <icon src="https://media.elcinema.com/uploads/_150x200_0700cc40f9300626ee25848b47af692483d71db7eb6d354bb6b48c48eda6e955.jpg" />
+    <star-rating system="MPAA">
+      <value>6.1</value>
+    </star-rating>
+  </programme>
+  <programme start="20210726193000 +0200" stop="20210726200000 +0200" channel="MBC 3">
+    <title lang="en">The Basketeers</title>
+    <credits>
+      <director>Bruno Bligoux</director>
+      <actor>Eden Gamliel</actor>
+      <actor>Manon Azem</actor>
+      <actor>Pascale Chemin</actor>
+      <actor>Jennifer Fauveau</actor>
+      <writer>Morgana Herma</writer>
+    </credits>
+    <date>2011</date>
+    <icon src="https://media.elcinema.com/uploads/_150x200_3cdbc72997afb931b4e339303bfbf1ccd482b9b99374a3d454d68c8fbe2d75a6.jpg" />
+    <country lang="en">France</country>
+    <star-rating system="MPAA">
+      <value>5.2</value>
+    </star-rating>
+  </programme>
+  <programme start="20210726200000 +0200" stop="20210726203000 +0200" channel="MBC 3">
+    <title lang="en">Kody Kapow</title>
+    <credits>
+      <director>Samuel Chou</director>
+      <actor>Jonathan Tan</actor>
+      <actor>Jason Alexander</actor>
+      <actor>Neil Crone</actor>
+      <actor>Scott Gorman</actor>
+      <writer>Robin Stein</writer>
+    </credits>
+    <date>2017</date>
+    <category lang="en">Animation</category>
+    <icon src="https://media.elcinema.com/uploads/_150x200_729809092f2d2435ff5625d5c051917282bcd4699c3484ff4f337978aeea6910.jpg" />
+    <country lang="en">U.S.</country>
+    <star-rating system="MPAA">
+      <value>5.8</value>
+    </star-rating>
+  </programme>
+  <programme start="20210726203000 +0200" stop="20210726210000 +0200" channel="MBC 3">
+    <title lang="en">Totally Spies!</title>
+    <credits>
+      <director>Stephane Berry</director>
+      <actor>Jennifer Hale</actor>
+      <actor>Andrea Baker</actor>
+      <actor>Katie Griffin</actor>
+      <actor>Jess Harnell</actor>
+      <writer>Michelle Lamoreaux</writer>
+    </credits>
+    <date>2001</date>
+    <category lang="en">Animation</category>
+    <icon src="https://media.elcinema.com/uploads/_150x200_a20e315312275a0908d4d45c8002d93692bba228260b9dc183df9c8a6668c793.jpg" />
+    <country lang="en">Canada</country>
+    <country lang="en">US</country>
+    <rating system="MPAA">
+      <value>TV-Y7</value>
+    </rating>
+    <star-rating system="MPAA">
+      <value>7.1</value>
+    </star-rating>
+  </programme>
+  <programme start="20210726210000 +0200" stop="20210726213000 +0200" channel="MBC 3">
+    <title lang="en">World Peacekeepers</title>
+    <credits>
+      <director>Qian Judong</director>
+      <actor>Ge Zhao</actor>
+      <actor>Liaodong Sun</actor>
+      <actor>Litian Wang</actor>
+      <actor>Yuan Xin</actor>
+      <actor>Ma Haolun</actor>
+      <actor>Gao Ge</actor>
+      <writer>Ken Yi O</writer>
+      <writer>Zogo Xiong</writer>
+    </credits>
+    <date>2014</date>
+    <category lang="en">Animation</category>
+    <icon src="https://media.elcinema.com/uploads/_150x200_0700cc40f9300626ee25848b47af692483d71db7eb6d354bb6b48c48eda6e955.jpg" />
+    <star-rating system="MPAA">
+      <value>6.1</value>
+    </star-rating>
+  </programme>
+  <programme start="20210726213000 +0200" stop="20210726220000 +0200" channel="MBC 3">
+    <title lang="en">Martial Mecha Sega</title>
+    <desc lang="en">Ten video game finalists find themselves trapped into the virtual world of the game Robo-Troopers, as one of the gamers named LoLo might be the legendary savior who would lead the Vehicle Clan to defeat the Beastie Warlords.(n)</desc>
+    <credits>
+      <director>Tommy Wang</director>
+      <director>Ma Ling</director>
+      <actor>Zu Liqing</actor>
+      <actor>Gao Quansheng</actor>
+      <actor>Ju Yuebin</actor>
+      <actor>Zhao Ran</actor>
+      <writer>Wang Wei</writer>
+    </credits>
+    <date>2013</date>
+    <category lang="en">Animation</category>
+    <icon src="https://media.elcinema.com/uploads/_150x200_f3a9a2de9018af32d2b86dac8bdc40af108b60e35c56caf8f042c9a29f95e27c.jpg" />
+    <country lang="en">China</country>
+    <star-rating system="MPAA">
+      <value>7.3</value>
+    </star-rating>
+  </programme>
+  <programme start="20210726220000 +0200" stop="20210726223000 +0200" channel="MBC 3">
+    <title lang="en">Teenage Mutant Ninja Turtles</title>
+    <desc lang="en">After four ninja turtles are mutated by a mysterious alien substance, they must come out of the sewers to defend their city against forces of evil from both past and present.(n)</desc>
+    <credits>
+      <director>Ciro Nieli</director>
+      <director>Michael Chang</director>
+      <actor>Rob Paulsen</actor>
+      <actor>Minae Noji</actor>
+      <actor>Mae Whitman</actor>
+      <actor>Seth Green</actor>
+      <actor>Greg Cipes</actor>
+      <actor>Sean Astin</actor>
+      <writer>Tom Alvarado</writer>
+      <writer>Kevin Eastman</writer>
+    </credits>
+    <date>2012</date>
+    <category lang="en">Adventure</category>
+    <category lang="en">Action</category>
+    <icon src="https://media.elcinema.com/uploads/_150x200_1cebc48bd55e996fa2859952260151340d9fd2d79a6ef2e132ac8ab08892090c.jpg" />
+    <country lang="en">U.S.</country>
+    <rating system="MPAA">
+      <value>TV-Y7</value>
+    </rating>
+    <star-rating system="MPAA">
+      <value>7.8</value>
+    </star-rating>
+  </programme>
+  <programme start="20210726223000 +0200" stop="20210726230000 +0200" channel="MBC 3">
+    <title lang="en">Sindbad &amp; the 7 Galaxies</title>
+    <credits>
+      <director>Matthew Darragh</director>
+      <actor>Scott Nichol</actor>
+      <actor>Tom Wayland</actor>
+      <actor>Keara Williams</actor>
+      <actor>Lani Minella</actor>
+      <actor>Kevin Scott</actor>
+      <writer>Eric Farmer</writer>
+    </credits>
+    <date>2016</date>
+    <category lang="en">Animation</category>
+    <icon src="https://media.elcinema.com/uploads/_150x200_0afc94125e66be567e8b229a51d5fa39e3d1c715499fcee7f3f5e639342a3316.jpg" />
+    <country lang="en">U.K.</country>
+  </programme>
+  <programme start="20210726230000 +0200" stop="20210726233000 +0200" channel="MBC 3">
+    <title lang="en">SpongeBob SquarePants S5</title>
+    <desc lang="en">SpongeBob returns for more underwater adventures, driven along by his curiosity and his attempt to discover everything new in his world.(n)</desc>
+    <credits>
+      <director>Vincent Waller</director>
+      <director>Paul Tibbitt</director>
+      <actor>Tom Kenny</actor>
+      <actor>Rodger Bumpass</actor>
+      <actor>Clancy Brown</actor>
+      <actor>Lori Alan</actor>
+      <actor>Dee Bradley Baker</actor>
+      <actor>Bill Fagerbakke</actor>
+      <writer>Stephen Hillenburg</writer>
+      <writer>Casey Alexander</writer>
+    </credits>
+    <date>2007</date>
+    <category lang="en">Comedy</category>
+    <category lang="en">Adventure</category>
+    <icon src="https://media.elcinema.com/uploads/_150x200_b68376719de8726c3621f6993aa5c7576d4fd891e839a12161bfbe518839b99a.jpg" />
+    <country lang="en">U.S.</country>
+    <rating system="MPAA">
+      <value>TV-Y7</value>
+    </rating>
+    <star-rating system="MPAA">
+      <value>8.7</value>
+    </star-rating>
+  </programme>
+  <programme start="20210726233000 +0200" stop="20210727000000 +0200" channel="MBC 3">
+    <title lang="en">Ready Jet Go!</title>
+    <desc lang="en">The alien Jet learns about science with his friends Sean, Mindy, and Sydney.(n)</desc>
+    <credits>
+      <director>Zac Palladino</director>
+      <actor>Ashleigh Ball</actor>
+      <actor>Jaeda Lily Miller</actor>
+      <actor>William Ainscough</actor>
+      <actor>Kyle Rideout</actor>
+      <actor>Brian Drummond</actor>
+      <actor>Dalila Bela</actor>
+      <writer>Michelle Lamoreaux</writer>
+    </credits>
+    <date>2016</date>
+    <category lang="en">Animation</category>
+    <category lang="en">Family</category>
+    <icon src="https://media.elcinema.com/uploads/_150x200_b2a046d9fbd82b4258ed61a9588c164541de1ed6075952164d6cc5b028535e22.jpg" />
+    <country lang="en">U.S.</country>
+    <star-rating system="MPAA">
+      <value>4.4</value>
+    </star-rating>
+  </programme>
+  <programme start="20210727000000 +0200" stop="20210727003000 +0200" channel="MBC 3">
+    <title lang="en">Martial Mecha Sega</title>
+    <desc lang="en">Ten video game finalists find themselves trapped into the virtual world of the game Robo-Troopers, as one of the gamers named LoLo might be the legendary savior who would lead the Vehicle Clan to defeat the Beastie Warlords.(n)</desc>
+    <credits>
+      <director>Tommy Wang</director>
+      <director>Ma Ling</director>
+      <actor>Zu Liqing</actor>
+      <actor>Gao Quansheng</actor>
+      <actor>Ju Yuebin</actor>
+      <actor>Zhao Ran</actor>
+      <writer>Wang Wei</writer>
+    </credits>
+    <date>2013</date>
+    <category lang="en">Animation</category>
+    <icon src="https://media.elcinema.com/uploads/_150x200_f3a9a2de9018af32d2b86dac8bdc40af108b60e35c56caf8f042c9a29f95e27c.jpg" />
+    <country lang="en">China</country>
+    <star-rating system="MPAA">
+      <value>7.3</value>
+    </star-rating>
+  </programme>
+  <programme start="20210727003000 +0200" stop="20210727010000 +0200" channel="MBC 3">
+    <title lang="en">World Peacekeepers</title>
+    <credits>
+      <director>Qian Judong</director>
+      <actor>Ge Zhao</actor>
+      <actor>Liaodong Sun</actor>
+      <actor>Litian Wang</actor>
+      <actor>Yuan Xin</actor>
+      <actor>Ma Haolun</actor>
+      <actor>Gao Ge</actor>
+      <writer>Ken Yi O</writer>
+      <writer>Zogo Xiong</writer>
+    </credits>
+    <date>2014</date>
+    <category lang="en">Animation</category>
+    <icon src="https://media.elcinema.com/uploads/_150x200_0700cc40f9300626ee25848b47af692483d71db7eb6d354bb6b48c48eda6e955.jpg" />
+    <star-rating system="MPAA">
+      <value>6.1</value>
+    </star-rating>
+  </programme>
+  <programme start="20210727010000 +0200" stop="20210727013000 +0200" channel="MBC 3">
+    <title lang="en">Kody Kapow</title>
+    <credits>
+      <director>Samuel Chou</director>
+      <actor>Jonathan Tan</actor>
+      <actor>Jason Alexander</actor>
+      <actor>Neil Crone</actor>
+      <actor>Scott Gorman</actor>
+      <writer>Robin Stein</writer>
+    </credits>
+    <date>2017</date>
+    <category lang="en">Animation</category>
+    <icon src="https://media.elcinema.com/uploads/_150x200_729809092f2d2435ff5625d5c051917282bcd4699c3484ff4f337978aeea6910.jpg" />
+    <country lang="en">U.S.</country>
+    <star-rating system="MPAA">
+      <value>5.8</value>
+    </star-rating>
+  </programme>
+  <programme start="20210727013000 +0200" stop="20210727020000 +0200" channel="MBC 3">
+    <title lang="en">Teenage Mutant Ninja Turtles</title>
+    <desc lang="en">After four ninja turtles are mutated by a mysterious alien substance, they must come out of the sewers to defend their city against forces of evil from both past and present.(n)</desc>
+    <credits>
+      <director>Ciro Nieli</director>
+      <director>Michael Chang</director>
+      <actor>Rob Paulsen</actor>
+      <actor>Minae Noji</actor>
+      <actor>Mae Whitman</actor>
+      <actor>Seth Green</actor>
+      <actor>Greg Cipes</actor>
+      <actor>Sean Astin</actor>
+      <writer>Tom Alvarado</writer>
+      <writer>Kevin Eastman</writer>
+    </credits>
+    <date>2012</date>
+    <category lang="en">Adventure</category>
+    <category lang="en">Action</category>
+    <icon src="https://media.elcinema.com/uploads/_150x200_1cebc48bd55e996fa2859952260151340d9fd2d79a6ef2e132ac8ab08892090c.jpg" />
+    <country lang="en">U.S.</country>
+    <rating system="MPAA">
+      <value>TV-Y7</value>
+    </rating>
+    <star-rating system="MPAA">
+      <value>7.8</value>
+    </star-rating>
+  </programme>
+  <programme start="20210727020000 +0200" stop="20210727023000 +0200" channel="MBC 3">
+    <title lang="en">The Basketeers</title>
+    <credits>
+      <director>Bruno Bligoux</director>
+      <actor>Eden Gamliel</actor>
+      <actor>Manon Azem</actor>
+      <actor>Pascale Chemin</actor>
+      <actor>Jennifer Fauveau</actor>
+      <writer>Morgana Herma</writer>
+    </credits>
+    <date>2011</date>
+    <icon src="https://media.elcinema.com/uploads/_150x200_3cdbc72997afb931b4e339303bfbf1ccd482b9b99374a3d454d68c8fbe2d75a6.jpg" />
+    <country lang="en">France</country>
+    <star-rating system="MPAA">
+      <value>5.2</value>
+    </star-rating>
+  </programme>
+  <programme start="20210727023000 +0200" stop="20210727033000 +0200" channel="MBC 3">
+    <title lang="en">Bunsen Is a Beast</title>
+    <desc lang="en">The innocent friendship between the blue monster, Bunsen, and his human friend, Mikey, as the latter is trying to teach the former how to mingle with humans. Are people going to embrace or marginalize him.(n)</desc>
+    <credits>
+      <director>George Eliot</director>
+      <actor>Kari Wahlgren</actor>
+      <actor>Jeff Bennett</actor>
+      <actor>Cheri Oteri</actor>
+      <actor>Cristina Milizia</actor>
+      <writer>Butch Hartman</writer>
+    </credits>
+    <date>2017</date>
+    <icon src="https://media.elcinema.com/uploads/_150x200_17132037afdef43082de8a3659fee0aa4e6fdb55c9453199c584e60d72e3eb01.jpg" />
+    <country lang="en">U.S.</country>
+    <star-rating system="MPAA">
+      <value>5.9</value>
+    </star-rating>
+  </programme>
+  <programme start="20210727033000 +0200" stop="20210727050000 +0200" channel="MBC 3">
+    <title lang="en">SpongeBob SquarePants S5</title>
+    <desc lang="en">SpongeBob returns for more underwater adventures, driven along by his curiosity and his attempt to discover everything new in his world.(n)</desc>
+    <credits>
+      <director>Vincent Waller</director>
+      <director>Paul Tibbitt</director>
+      <actor>Tom Kenny</actor>
+      <actor>Rodger Bumpass</actor>
+      <actor>Clancy Brown</actor>
+      <actor>Lori Alan</actor>
+      <actor>Dee Bradley Baker</actor>
+      <actor>Bill Fagerbakke</actor>
+      <writer>Stephen Hillenburg</writer>
+      <writer>Casey Alexander</writer>
+    </credits>
+    <date>2007</date>
+    <category lang="en">Comedy</category>
+    <category lang="en">Adventure</category>
+    <icon src="https://media.elcinema.com/uploads/_150x200_b68376719de8726c3621f6993aa5c7576d4fd891e839a12161bfbe518839b99a.jpg" />
+    <country lang="en">U.S.</country>
+    <rating system="MPAA">
+      <value>TV-Y7</value>
+    </rating>
+    <star-rating system="MPAA">
+      <value>8.7</value>
+    </star-rating>
+  </programme>
+  <programme start="20210727050000 +0200" stop="20210727053000 +0200" channel="MBC 3">
+    <title lang="en">ChalkZone</title>
+    <desc lang="en">Rudy Tabootie and his friends Snap and Penny Sanchez enter never ending adventures, as Rudy is an elementary school student who has a magic piece of chalk that takes him into the ChalkZone, an alternate world where everything drawn on a blackboard and erased becomes real.(n)</desc>
+    <credits>
+      <actor>Adel Omar</actor>
+      <actor>Moawad Ismail</actor>
+      <actor>يارا علاء</actor>
+      <actor>Salwa Mohamed Ali</actor>
+      <actor>Sayed Elromy</actor>
+      <actor>عادل الخربوطلي</actor>
+    </credits>
+    <date>2005</date>
+    <category lang="en">Animation</category>
+    <category lang="en">Family</category>
+    <icon src="https://media.elcinema.com/uploads/_150x200_5a917885dffcf3535d68fbd008b5b52fac4d8d995f478ebf2a52bdd87347f768.jpg" />
+    <country lang="en">US</country>
+    <star-rating system="MPAA">
+      <value>6.9</value>
+    </star-rating>
+  </programme>
+  <programme start="20210727053000 +0200" stop="20210727060000 +0200" channel="MBC 3">
+    <title lang="en">Bunsen Is a Beast</title>
+    <desc lang="en">The innocent friendship between the blue monster, Bunsen, and his human friend, Mikey, as the latter is trying to teach the former how to mingle with humans. Are people going to embrace or marginalize him.(n)</desc>
+    <credits>
+      <director>George Eliot</director>
+      <actor>Kari Wahlgren</actor>
+      <actor>Jeff Bennett</actor>
+      <actor>Cheri Oteri</actor>
+      <actor>Cristina Milizia</actor>
+      <writer>Butch Hartman</writer>
+    </credits>
+    <date>2017</date>
+    <icon src="https://media.elcinema.com/uploads/_150x200_17132037afdef43082de8a3659fee0aa4e6fdb55c9453199c584e60d72e3eb01.jpg" />
+    <country lang="en">U.S.</country>
+    <star-rating system="MPAA">
+      <value>5.9</value>
+    </star-rating>
+  </programme>
+  <programme start="20210727060000 +0200" stop="20210727070000 +0200" channel="MBC 3">
+    <title lang="en">Totally Spies!</title>
+    <credits>
+      <director>Stephane Berry</director>
+      <actor>Jennifer Hale</actor>
+      <actor>Andrea Baker</actor>
+      <actor>Katie Griffin</actor>
+      <actor>Jess Harnell</actor>
+      <writer>Michelle Lamoreaux</writer>
+    </credits>
+    <date>2001</date>
+    <category lang="en">Animation</category>
+    <icon src="https://media.elcinema.com/uploads/_150x200_a20e315312275a0908d4d45c8002d93692bba228260b9dc183df9c8a6668c793.jpg" />
+    <country lang="en">Canada</country>
+    <country lang="en">US</country>
+    <rating system="MPAA">
+      <value>TV-Y7</value>
+    </rating>
+    <star-rating system="MPAA">
+      <value>7.1</value>
+    </star-rating>
+  </programme>
+  <programme start="20210727070000 +0200" stop="20210727073000 +0200" channel="MBC 3">
+    <title lang="en">PAW Patrol</title>
+    <desc lang="en">The story of a boy and seven small dogs, trying to save people from the problems they create and save the city's inhabitants from dangers.(n)</desc>
+    <credits>
+      <director>Charles E. Bastien</director>
+      <director>Jamie Whitney</director>
+      <actor>Kallan Holley</actor>
+      <actor>Devan Cohen</actor>
+      <actor>Ron Pardo</actor>
+      <actor>Samuel Faraci</actor>
+      <actor>Alex Thorne</actor>
+      <actor>Caroline Johnson</actor>
+      <writer>Keith Chapman</writer>
+      <writer>Kim Duran</writer>
+    </credits>
+    <date>2013</date>
+    <category lang="en">Animation</category>
+    <category lang="en">Action</category>
+    <icon src="https://media.elcinema.com/uploads/_150x200_8eb78ccfbf32e8979f7a75b5fe14feed1162bab52ab3bad0a7176a27c47a2bba.jpg" />
+    <country lang="en">Canada</country>
+    <star-rating system="MPAA">
+      <value>7.5</value>
+    </star-rating>
+  </programme>
+  <programme start="20210727073000 +0200" stop="20210727080000 +0200" channel="MBC 3">
+    <title lang="en">ﺑﺮﻧﺎﻣﺞ أهلاً سمسم</title>
+    <icon src="https://media.elcinema.com/blank_photos/150x200.jpg" />
+  </programme>
+  <programme start="20210727080000 +0200" stop="20210727083000 +0200" channel="MBC 3">
+    <title lang="en">CuBy Zoo</title>
+    <date>2019</date>
+    <category lang="en">Animation</category>
+    <icon src="https://media.elcinema.com/uploads/_150x200_325635d487258f80e12b343fcd049c5c575c3b06afcfce2905bfc6dad8e316c4.jpg" />
+    <country lang="en">Italy</country>
+  </programme>
+  <programme start="20210727083000 +0200" stop="20210727090000 +0200" channel="MBC 3">
+    <title lang="en">Dora the Explorer</title>
+    <desc lang="en">Dora the explorer and her friend Boots the monkey embark on many adventures with the help of backpack,map and other friends while trying to keep away Swiper the fox who tries to steal their things.(n)</desc>
+    <credits>
+      <director>Gary Conrad</director>
+      <director>Henry Madden</director>
+      <actor>Marc Weiner</actor>
+      <actor>Harrison Chad</actor>
+      <actor>Kathleen Herles</actor>
+      <actor>Sasha Toro</actor>
+      <actor>Regan Mizrahi</actor>
+      <actor>Alexandria Suarez</actor>
+      <writer>Chris Gifford</writer>
+      <writer>Eric Weiner</writer>
+    </credits>
+    <date>2000</date>
+    <category lang="en">Animation</category>
+    <icon src="https://media.elcinema.com/uploads/_150x200_55b6b6abe1d340266d2b9232ef8b295ffa9d9a481a27ad753062f2540da40f57.jpg" />
+    <country lang="en">U.S.</country>
+    <star-rating system="MPAA">
+      <value>5.9</value>
+    </star-rating>
+  </programme>
+  <programme start="20210727090000 +0200" stop="20210727093000 +0200" channel="MBC 3">
+    <title lang="en">Top Wing</title>
+    <desc lang="en">Four young birds -Penny, Rod, Swift, and Brody - become new cadets in Top Wing Academy to earn their wings in order to help their community.(n)</desc>
+    <credits>
+      <director>Bill Speers</director>
+      <director>Matthew Fernandes</director>
+      <actor>Colin Doyle</actor>
+      <actor>Shirley Manson</actor>
+      <actor>Lucas Kalechstein</actor>
+      <actor>Jonah Wineberg</actor>
+      <actor>Ethan Pugiotto</actor>
+      <writer>Matthew Fernandes</writer>
+    </credits>
+    <date>2017</date>
+    <category lang="en">Family</category>
+    <category lang="en">Adventure</category>
+    <icon src="https://media.elcinema.com/uploads/_150x200_954586a39914630b5cf471cda4cfd63c748063de4babe524da4eea60e17eb9c8.jpg" />
+    <country lang="en">Canada</country>
+    <country lang="en">U.S.</country>
+    <star-rating system="MPAA">
+      <value>4.3</value>
+    </star-rating>
+  </programme>
+  <programme start="20210727093000 +0200" stop="20210727100000 +0200" channel="MBC 3">
+    <title lang="en">Peg+Cat</title>
+    <credits>
+      <director>Cory Bobiak</director>
+      <actor>Christian Distefano</actor>
+      <actor>Hayley Faith Negrin</actor>
+      <actor>Dwayne Hill</actor>
+      <actor>Tommy Wazelle</actor>
+      <writer>Stacey Greenberger</writer>
+    </credits>
+    <date>2013</date>
+    <category lang="en">Animation</category>
+    <icon src="https://media.elcinema.com/uploads/_150x200_5998edb7998dccca234964121520d25b6754899e70da79d3253c1f108b950a71.jpg" />
+    <country lang="en">US</country>
+    <rating system="MPAA">
+      <value>TV-Y</value>
+    </rating>
+  </programme>
+  <programme start="20210727100000 +0200" stop="20210727103000 +0200" channel="MBC 3">
+    <title lang="en">Splash and Bubbles</title>
+    <credits>
+      <director>David Skelly</director>
+      <actor>Allan Trautman</actor>
+      <actor>Dan Garza</actor>
+      <actor>Dorien Davies</actor>
+      <actor>Valeria Zunzun</actor>
+      <writer>Michael Foulke</writer>
+    </credits>
+    <date>2016</date>
+    <category lang="en">Animation</category>
+    <icon src="https://media.elcinema.com/uploads/_150x200_aa150f7d486188a693bf9007728c6651865fd5f7d55f7f47983ac48ade426cd2.jpg" />
+    <country lang="en">US</country>
+  </programme>
+  <programme start="20210727103000 +0200" stop="20210727110000 +0200" channel="MBC 3">
+    <title lang="en">CuBy Zoo</title>
+    <date>2019</date>
+    <category lang="en">Animation</category>
+    <icon src="https://media.elcinema.com/uploads/_150x200_325635d487258f80e12b343fcd049c5c575c3b06afcfce2905bfc6dad8e316c4.jpg" />
+    <country lang="en">Italy</country>
+  </programme>
+  <programme start="20210727110000 +0200" stop="20210727113000 +0200" channel="MBC 3">
+    <title lang="en">Blaze and the Monster Machines</title>
+    <desc lang="en">The series is about the adventures and races of monster-truck (Blaze) with his friend (AJ), and its abilities to add pieces to itself to help him in the races.(n)</desc>
+    <credits>
+      <director>Miguel Martinez-Joffre</director>
+      <director>Blair Simmons</director>
+      <actor>Caleel Harris</actor>
+      <actor>Nat Faxon</actor>
+      <actor>Kevin Michael Richardson</actor>
+      <actor>Reed Shannon</actor>
+      <actor>Nolan North</actor>
+      <actor>Dee Bradley Baker</actor>
+      <writer>Jeff Borkin</writer>
+      <writer>Ellen Martin</writer>
+    </credits>
+    <date>2014</date>
+    <category lang="en">Animation</category>
+    <category lang="en">Action</category>
+    <icon src="https://media.elcinema.com/uploads/_150x200_319521954d5238fb84520bcdb50fcaae8439ae3039e6128bc49da398bdb0dc41.jpg" />
+    <country lang="en">U.S.</country>
+    <star-rating system="MPAA">
+      <value>5.8</value>
+    </star-rating>
+  </programme>
+  <programme start="20210727113000 +0200" stop="20210727120000 +0200" channel="MBC 3">
+    <title lang="en">Abby Hatcher, Fuzzly Catcher</title>
+    <credits>
+      <director>Kyran Kelly</director>
+      <actor>Macy Drouin</actor>
+      <actor>Wyatt White</actor>
+      <actor>Leo Orgil</actor>
+      <actor>Christian Dal Dosso</actor>
+      <actor>Jacob Soley</actor>
+      <actor>Terry McGurrin</actor>
+      <writer>Rob Hoegee</writer>
+      <writer>Elise Allen</writer>
+    </credits>
+    <date>2018</date>
+    <category lang="en">Animation</category>
+    <icon src="https://media.elcinema.com/uploads/_150x200_3778d251e660a0c13688b5a2f344c6972317ffa393c0938d5cccac02fa756ca2.jpg" />
+    <country lang="en">US</country>
+    <rating system="MPAA">
+      <value>TV-Y7</value>
+    </rating>
+  </programme>
+  <programme start="20210727120000 +0200" stop="20210727122500 +0200" channel="MBC 3">
+    <title lang="en">PAW Patrol</title>
+    <desc lang="en">The story of a boy and seven small dogs, trying to save people from the problems they create and save the city's inhabitants from dangers.(n)</desc>
+    <credits>
+      <director>Charles E. Bastien</director>
+      <director>Jamie Whitney</director>
+      <actor>Kallan Holley</actor>
+      <actor>Devan Cohen</actor>
+      <actor>Ron Pardo</actor>
+      <actor>Samuel Faraci</actor>
+      <actor>Alex Thorne</actor>
+      <actor>Caroline Johnson</actor>
+      <writer>Keith Chapman</writer>
+      <writer>Kim Duran</writer>
+    </credits>
+    <date>2013</date>
+    <category lang="en">Animation</category>
+    <category lang="en">Action</category>
+    <icon src="https://media.elcinema.com/uploads/_150x200_8eb78ccfbf32e8979f7a75b5fe14feed1162bab52ab3bad0a7176a27c47a2bba.jpg" />
+    <country lang="en">Canada</country>
+    <star-rating system="MPAA">
+      <value>7.5</value>
+    </star-rating>
+  </programme>
+  <programme start="20210727122500 +0200" stop="20210727123000 +0200" channel="MBC 3">
+    <title lang="en">تواصل</title>
+    <icon src="https://media.elcinema.com/blank_photos/150x200.jpg" />
+  </programme>
+  <programme start="20210727123000 +0200" stop="20210727130000 +0200" channel="MBC 3">
+    <title lang="en">ﺑﺮﻧﺎﻣﺞ أهلاً سمسم</title>
+    <icon src="https://media.elcinema.com/blank_photos/150x200.jpg" />
+  </programme>
+  <programme start="20210727130000 +0200" stop="20210727133000 +0200" channel="MBC 3">
+    <title lang="en">ChalkZone</title>
+    <desc lang="en">Rudy Tabootie and his friends Snap and Penny Sanchez enter never ending adventures, as Rudy is an elementary school student who has a magic piece of chalk that takes him into the ChalkZone, an alternate world where everything drawn on a blackboard and erased becomes real.(n)</desc>
+    <credits>
+      <actor>Adel Omar</actor>
+      <actor>Moawad Ismail</actor>
+      <actor>يارا علاء</actor>
+      <actor>Salwa Mohamed Ali</actor>
+      <actor>Sayed Elromy</actor>
+      <actor>عادل الخربوطلي</actor>
+    </credits>
+    <date>2005</date>
+    <category lang="en">Animation</category>
+    <category lang="en">Family</category>
+    <icon src="https://media.elcinema.com/uploads/_150x200_5a917885dffcf3535d68fbd008b5b52fac4d8d995f478ebf2a52bdd87347f768.jpg" />
+    <country lang="en">US</country>
+    <star-rating system="MPAA">
+      <value>6.9</value>
+    </star-rating>
+  </programme>
+  <programme start="20210727133000 +0200" stop="20210727140000 +0200" channel="MBC 3">
+    <title lang="en">The Barefoot Bandits</title>
+    <credits>
+      <director>Tim Evans</director>
+      <director>Ryan Cooper</director>
+      <actor>Laura Daniel</actor>
+      <actor>Tammy Davis</actor>
+      <actor>Josh Thomson</actor>
+      <actor>Ryan Cooper</actor>
+      <actor>Glen-Paul Waru</actor>
+      <actor>Rhys Darby</actor>
+      <writer>Nick Ward</writer>
+      <writer>Tim Evans</writer>
+    </credits>
+    <date>2016</date>
+    <icon src="https://media.elcinema.com/uploads/_150x200_9aba1c794dfa96d27aca38b19aa23257441791cc802b2b715b17ccbb6e045dc9.jpg" />
+    <country lang="en">New Zealand</country>
+    <star-rating system="MPAA">
+      <value>4.7</value>
+    </star-rating>
+  </programme>
+  <programme start="20210727140000 +0200" stop="20210727142500 +0200" channel="MBC 3">
+    <title lang="en">Bunsen Is a Beast</title>
+    <desc lang="en">The innocent friendship between the blue monster, Bunsen, and his human friend, Mikey, as the latter is trying to teach the former how to mingle with humans. Are people going to embrace or marginalize him.(n)</desc>
+    <credits>
+      <director>George Eliot</director>
+      <actor>Kari Wahlgren</actor>
+      <actor>Jeff Bennett</actor>
+      <actor>Cheri Oteri</actor>
+      <actor>Cristina Milizia</actor>
+      <writer>Butch Hartman</writer>
+    </credits>
+    <date>2017</date>
+    <icon src="https://media.elcinema.com/uploads/_150x200_17132037afdef43082de8a3659fee0aa4e6fdb55c9453199c584e60d72e3eb01.jpg" />
+    <country lang="en">U.S.</country>
+    <star-rating system="MPAA">
+      <value>5.9</value>
+    </star-rating>
+  </programme>
+  <programme start="20210727142500 +0200" stop="20210727143000 +0200" channel="MBC 3">
+    <title lang="en">تواصل</title>
+    <icon src="https://media.elcinema.com/blank_photos/150x200.jpg" />
+  </programme>
+  <programme start="20210727143000 +0200" stop="20210727150000 +0200" channel="MBC 3">
+    <title lang="en">Sindbad &amp; the 7 Galaxies</title>
+    <credits>
+      <director>Matthew Darragh</director>
+      <actor>Scott Nichol</actor>
+      <actor>Tom Wayland</actor>
+      <actor>Keara Williams</actor>
+      <actor>Lani Minella</actor>
+      <actor>Kevin Scott</actor>
+      <writer>Eric Farmer</writer>
+    </credits>
+    <date>2016</date>
+    <category lang="en">Animation</category>
+    <icon src="https://media.elcinema.com/uploads/_150x200_0afc94125e66be567e8b229a51d5fa39e3d1c715499fcee7f3f5e639342a3316.jpg" />
+    <country lang="en">U.K.</country>
+  </programme>
+  <programme start="20210727150000 +0200" stop="20210727153000 +0200" channel="MBC 3">
+    <title lang="en">Ready Jet Go!</title>
+    <desc lang="en">The alien Jet learns about science with his friends Sean, Mindy, and Sydney.(n)</desc>
+    <credits>
+      <director>Zac Palladino</director>
+      <actor>Ashleigh Ball</actor>
+      <actor>Jaeda Lily Miller</actor>
+      <actor>William Ainscough</actor>
+      <actor>Kyle Rideout</actor>
+      <actor>Brian Drummond</actor>
+      <actor>Dalila Bela</actor>
+      <writer>Michelle Lamoreaux</writer>
+    </credits>
+    <date>2016</date>
+    <category lang="en">Animation</category>
+    <category lang="en">Family</category>
+    <icon src="https://media.elcinema.com/uploads/_150x200_b2a046d9fbd82b4258ed61a9588c164541de1ed6075952164d6cc5b028535e22.jpg" />
+    <country lang="en">U.S.</country>
+    <star-rating system="MPAA">
+      <value>4.4</value>
+    </star-rating>
+  </programme>
+  <programme start="20210727153000 +0200" stop="20210727160000 +0200" channel="MBC 3">
+    <title lang="en">Teenage Mutant Ninja Turtles</title>
+    <desc lang="en">After four ninja turtles are mutated by a mysterious alien substance, they must come out of the sewers to defend their city against forces of evil from both past and present.(n)</desc>
+    <credits>
+      <director>Ciro Nieli</director>
+      <director>Michael Chang</director>
+      <actor>Rob Paulsen</actor>
+      <actor>Minae Noji</actor>
+      <actor>Mae Whitman</actor>
+      <actor>Seth Green</actor>
+      <actor>Greg Cipes</actor>
+      <actor>Sean Astin</actor>
+      <writer>Tom Alvarado</writer>
+      <writer>Kevin Eastman</writer>
+    </credits>
+    <date>2012</date>
+    <category lang="en">Adventure</category>
+    <category lang="en">Action</category>
+    <icon src="https://media.elcinema.com/uploads/_150x200_1cebc48bd55e996fa2859952260151340d9fd2d79a6ef2e132ac8ab08892090c.jpg" />
+    <country lang="en">U.S.</country>
+    <rating system="MPAA">
+      <value>TV-Y7</value>
+    </rating>
+    <star-rating system="MPAA">
+      <value>7.8</value>
+    </star-rating>
+  </programme>
+  <programme start="20210727160000 +0200" stop="20210727163000 +0200" channel="MBC 3">
+    <title lang="en">SpongeBob SquarePants S5</title>
+    <desc lang="en">SpongeBob returns for more underwater adventures, driven along by his curiosity and his attempt to discover everything new in his world.(n)</desc>
+    <credits>
+      <director>Vincent Waller</director>
+      <director>Paul Tibbitt</director>
+      <actor>Tom Kenny</actor>
+      <actor>Rodger Bumpass</actor>
+      <actor>Clancy Brown</actor>
+      <actor>Lori Alan</actor>
+      <actor>Dee Bradley Baker</actor>
+      <actor>Bill Fagerbakke</actor>
+      <writer>Stephen Hillenburg</writer>
+      <writer>Casey Alexander</writer>
+    </credits>
+    <date>2007</date>
+    <category lang="en">Comedy</category>
+    <category lang="en">Adventure</category>
+    <icon src="https://media.elcinema.com/uploads/_150x200_b68376719de8726c3621f6993aa5c7576d4fd891e839a12161bfbe518839b99a.jpg" />
+    <country lang="en">U.S.</country>
+    <rating system="MPAA">
+      <value>TV-Y7</value>
+    </rating>
+    <star-rating system="MPAA">
+      <value>8.7</value>
+    </star-rating>
+  </programme>
+  <programme start="20210727163000 +0200" stop="20210727170000 +0200" channel="MBC 3">
+    <title lang="en">ﺑﺮﻧﺎﻣﺞ تسالي أحلى عالم</title>
+    <icon src="https://media.elcinema.com/blank_photos/150x200.jpg" />
+  </programme>
+  <programme start="20210727170000 +0200" stop="20210727172500 +0200" channel="MBC 3">
+    <title lang="en">The Basketeers</title>
+    <credits>
+      <director>Bruno Bligoux</director>
+      <actor>Eden Gamliel</actor>
+      <actor>Manon Azem</actor>
+      <actor>Pascale Chemin</actor>
+      <actor>Jennifer Fauveau</actor>
+      <writer>Morgana Herma</writer>
+    </credits>
+    <date>2011</date>
+    <icon src="https://media.elcinema.com/uploads/_150x200_3cdbc72997afb931b4e339303bfbf1ccd482b9b99374a3d454d68c8fbe2d75a6.jpg" />
+    <country lang="en">France</country>
+    <star-rating system="MPAA">
+      <value>5.2</value>
+    </star-rating>
+  </programme>
+  <programme start="20210727172500 +0200" stop="20210727173000 +0200" channel="MBC 3">
+    <title lang="en">تواصل</title>
+    <icon src="https://media.elcinema.com/blank_photos/150x200.jpg" />
+  </programme>
+  <programme start="20210727173000 +0200" stop="20210727180000 +0200" channel="MBC 3">
+    <title lang="en">Kody Kapow</title>
+    <credits>
+      <director>Samuel Chou</director>
+      <actor>Jonathan Tan</actor>
+      <actor>Jason Alexander</actor>
+      <actor>Neil Crone</actor>
+      <actor>Scott Gorman</actor>
+      <writer>Robin Stein</writer>
+    </credits>
+    <date>2017</date>
+    <category lang="en">Animation</category>
+    <icon src="https://media.elcinema.com/uploads/_150x200_729809092f2d2435ff5625d5c051917282bcd4699c3484ff4f337978aeea6910.jpg" />
+    <country lang="en">U.S.</country>
+    <star-rating system="MPAA">
+      <value>5.8</value>
+    </star-rating>
+  </programme>
+  <programme start="20210727180000 +0200" stop="20210727183000 +0200" channel="MBC 3">
+    <title lang="en">Martial Mecha Sega</title>
+    <desc lang="en">Ten video game finalists find themselves trapped into the virtual world of the game Robo-Troopers, as one of the gamers named LoLo might be the legendary savior who would lead the Vehicle Clan to defeat the Beastie Warlords.(n)</desc>
+    <credits>
+      <director>Tommy Wang</director>
+      <director>Ma Ling</director>
+      <actor>Zu Liqing</actor>
+      <actor>Gao Quansheng</actor>
+      <actor>Ju Yuebin</actor>
+      <actor>Zhao Ran</actor>
+      <writer>Wang Wei</writer>
+    </credits>
+    <date>2013</date>
+    <category lang="en">Animation</category>
+    <icon src="https://media.elcinema.com/uploads/_150x200_f3a9a2de9018af32d2b86dac8bdc40af108b60e35c56caf8f042c9a29f95e27c.jpg" />
+    <country lang="en">China</country>
+    <star-rating system="MPAA">
+      <value>7.3</value>
+    </star-rating>
+  </programme>
+  <programme start="20210727183000 +0200" stop="20210727190000 +0200" channel="MBC 3">
+    <title lang="en">Totally Spies!</title>
+    <credits>
+      <director>Stephane Berry</director>
+      <actor>Jennifer Hale</actor>
+      <actor>Andrea Baker</actor>
+      <actor>Katie Griffin</actor>
+      <actor>Jess Harnell</actor>
+      <writer>Michelle Lamoreaux</writer>
+    </credits>
+    <date>2001</date>
+    <category lang="en">Animation</category>
+    <icon src="https://media.elcinema.com/uploads/_150x200_a20e315312275a0908d4d45c8002d93692bba228260b9dc183df9c8a6668c793.jpg" />
+    <country lang="en">Canada</country>
+    <country lang="en">US</country>
+    <rating system="MPAA">
+      <value>TV-Y7</value>
+    </rating>
+    <star-rating system="MPAA">
+      <value>7.1</value>
+    </star-rating>
+  </programme>
+  <programme start="20210727190000 +0200" stop="20210727193000 +0200" channel="MBC 3">
+    <title lang="en">World Peacekeepers</title>
+    <credits>
+      <director>Qian Judong</director>
+      <actor>Ge Zhao</actor>
+      <actor>Liaodong Sun</actor>
+      <actor>Litian Wang</actor>
+      <actor>Yuan Xin</actor>
+      <actor>Ma Haolun</actor>
+      <actor>Gao Ge</actor>
+      <writer>Ken Yi O</writer>
+      <writer>Zogo Xiong</writer>
+    </credits>
+    <date>2014</date>
+    <category lang="en">Animation</category>
+    <icon src="https://media.elcinema.com/uploads/_150x200_0700cc40f9300626ee25848b47af692483d71db7eb6d354bb6b48c48eda6e955.jpg" />
+    <star-rating system="MPAA">
+      <value>6.1</value>
+    </star-rating>
+  </programme>
+  <programme start="20210727193000 +0200" stop="20210727200000 +0200" channel="MBC 3">
+    <title lang="en">The Basketeers</title>
+    <credits>
+      <director>Bruno Bligoux</director>
+      <actor>Eden Gamliel</actor>
+      <actor>Manon Azem</actor>
+      <actor>Pascale Chemin</actor>
+      <actor>Jennifer Fauveau</actor>
+      <writer>Morgana Herma</writer>
+    </credits>
+    <date>2011</date>
+    <icon src="https://media.elcinema.com/uploads/_150x200_3cdbc72997afb931b4e339303bfbf1ccd482b9b99374a3d454d68c8fbe2d75a6.jpg" />
+    <country lang="en">France</country>
+    <star-rating system="MPAA">
+      <value>5.2</value>
+    </star-rating>
+  </programme>
+  <programme start="20210727200000 +0200" stop="20210727203000 +0200" channel="MBC 3">
+    <title lang="en">Kody Kapow</title>
+    <credits>
+      <director>Samuel Chou</director>
+      <actor>Jonathan Tan</actor>
+      <actor>Jason Alexander</actor>
+      <actor>Neil Crone</actor>
+      <actor>Scott Gorman</actor>
+      <writer>Robin Stein</writer>
+    </credits>
+    <date>2017</date>
+    <category lang="en">Animation</category>
+    <icon src="https://media.elcinema.com/uploads/_150x200_729809092f2d2435ff5625d5c051917282bcd4699c3484ff4f337978aeea6910.jpg" />
+    <country lang="en">U.S.</country>
+    <star-rating system="MPAA">
+      <value>5.8</value>
+    </star-rating>
+  </programme>
+  <programme start="20210727203000 +0200" stop="20210727210000 +0200" channel="MBC 3">
+    <title lang="en">Totally Spies!</title>
+    <credits>
+      <director>Stephane Berry</director>
+      <actor>Jennifer Hale</actor>
+      <actor>Andrea Baker</actor>
+      <actor>Katie Griffin</actor>
+      <actor>Jess Harnell</actor>
+      <writer>Michelle Lamoreaux</writer>
+    </credits>
+    <date>2001</date>
+    <category lang="en">Animation</category>
+    <icon src="https://media.elcinema.com/uploads/_150x200_a20e315312275a0908d4d45c8002d93692bba228260b9dc183df9c8a6668c793.jpg" />
+    <country lang="en">Canada</country>
+    <country lang="en">US</country>
+    <rating system="MPAA">
+      <value>TV-Y7</value>
+    </rating>
+    <star-rating system="MPAA">
+      <value>7.1</value>
+    </star-rating>
+  </programme>
+  <programme start="20210727210000 +0200" stop="20210727213000 +0200" channel="MBC 3">
+    <title lang="en">World Peacekeepers</title>
+    <credits>
+      <director>Qian Judong</director>
+      <actor>Ge Zhao</actor>
+      <actor>Liaodong Sun</actor>
+      <actor>Litian Wang</actor>
+      <actor>Yuan Xin</actor>
+      <actor>Ma Haolun</actor>
+      <actor>Gao Ge</actor>
+      <writer>Ken Yi O</writer>
+      <writer>Zogo Xiong</writer>
+    </credits>
+    <date>2014</date>
+    <category lang="en">Animation</category>
+    <icon src="https://media.elcinema.com/uploads/_150x200_0700cc40f9300626ee25848b47af692483d71db7eb6d354bb6b48c48eda6e955.jpg" />
+    <star-rating system="MPAA">
+      <value>6.1</value>
+    </star-rating>
+  </programme>
+  <programme start="20210727213000 +0200" stop="20210727220000 +0200" channel="MBC 3">
+    <title lang="en">Martial Mecha Sega</title>
+    <desc lang="en">Ten video game finalists find themselves trapped into the virtual world of the game Robo-Troopers, as one of the gamers named LoLo might be the legendary savior who would lead the Vehicle Clan to defeat the Beastie Warlords.(n)</desc>
+    <credits>
+      <director>Tommy Wang</director>
+      <director>Ma Ling</director>
+      <actor>Zu Liqing</actor>
+      <actor>Gao Quansheng</actor>
+      <actor>Ju Yuebin</actor>
+      <actor>Zhao Ran</actor>
+      <writer>Wang Wei</writer>
+    </credits>
+    <date>2013</date>
+    <category lang="en">Animation</category>
+    <icon src="https://media.elcinema.com/uploads/_150x200_f3a9a2de9018af32d2b86dac8bdc40af108b60e35c56caf8f042c9a29f95e27c.jpg" />
+    <country lang="en">China</country>
+    <star-rating system="MPAA">
+      <value>7.3</value>
+    </star-rating>
+  </programme>
+  <programme start="20210727220000 +0200" stop="20210727223000 +0200" channel="MBC 3">
+    <title lang="en">Teenage Mutant Ninja Turtles</title>
+    <desc lang="en">After four ninja turtles are mutated by a mysterious alien substance, they must come out of the sewers to defend their city against forces of evil from both past and present.(n)</desc>
+    <credits>
+      <director>Ciro Nieli</director>
+      <director>Michael Chang</director>
+      <actor>Rob Paulsen</actor>
+      <actor>Minae Noji</actor>
+      <actor>Mae Whitman</actor>
+      <actor>Seth Green</actor>
+      <actor>Greg Cipes</actor>
+      <actor>Sean Astin</actor>
+      <writer>Tom Alvarado</writer>
+      <writer>Kevin Eastman</writer>
+    </credits>
+    <date>2012</date>
+    <category lang="en">Adventure</category>
+    <category lang="en">Action</category>
+    <icon src="https://media.elcinema.com/uploads/_150x200_1cebc48bd55e996fa2859952260151340d9fd2d79a6ef2e132ac8ab08892090c.jpg" />
+    <country lang="en">U.S.</country>
+    <rating system="MPAA">
+      <value>TV-Y7</value>
+    </rating>
+    <star-rating system="MPAA">
+      <value>7.8</value>
+    </star-rating>
+  </programme>
+  <programme start="20210727223000 +0200" stop="20210727230000 +0200" channel="MBC 3">
+    <title lang="en">Sindbad &amp; the 7 Galaxies</title>
+    <credits>
+      <director>Matthew Darragh</director>
+      <actor>Scott Nichol</actor>
+      <actor>Tom Wayland</actor>
+      <actor>Keara Williams</actor>
+      <actor>Lani Minella</actor>
+      <actor>Kevin Scott</actor>
+      <writer>Eric Farmer</writer>
+    </credits>
+    <date>2016</date>
+    <category lang="en">Animation</category>
+    <icon src="https://media.elcinema.com/uploads/_150x200_0afc94125e66be567e8b229a51d5fa39e3d1c715499fcee7f3f5e639342a3316.jpg" />
+    <country lang="en">U.K.</country>
+  </programme>
+  <programme start="20210727230000 +0200" stop="20210727233000 +0200" channel="MBC 3">
+    <title lang="en">SpongeBob SquarePants S5</title>
+    <desc lang="en">SpongeBob returns for more underwater adventures, driven along by his curiosity and his attempt to discover everything new in his world.(n)</desc>
+    <credits>
+      <director>Vincent Waller</director>
+      <director>Paul Tibbitt</director>
+      <actor>Tom Kenny</actor>
+      <actor>Rodger Bumpass</actor>
+      <actor>Clancy Brown</actor>
+      <actor>Lori Alan</actor>
+      <actor>Dee Bradley Baker</actor>
+      <actor>Bill Fagerbakke</actor>
+      <writer>Stephen Hillenburg</writer>
+      <writer>Casey Alexander</writer>
+    </credits>
+    <date>2007</date>
+    <category lang="en">Comedy</category>
+    <category lang="en">Adventure</category>
+    <icon src="https://media.elcinema.com/uploads/_150x200_b68376719de8726c3621f6993aa5c7576d4fd891e839a12161bfbe518839b99a.jpg" />
+    <country lang="en">U.S.</country>
+    <rating system="MPAA">
+      <value>TV-Y7</value>
+    </rating>
+    <star-rating system="MPAA">
+      <value>8.7</value>
+    </star-rating>
+  </programme>
+  <programme start="20210727233000 +0200" stop="20210728000000 +0200" channel="MBC 3">
+    <title lang="en">Ready Jet Go!</title>
+    <desc lang="en">The alien Jet learns about science with his friends Sean, Mindy, and Sydney.(n)</desc>
+    <credits>
+      <director>Zac Palladino</director>
+      <actor>Ashleigh Ball</actor>
+      <actor>Jaeda Lily Miller</actor>
+      <actor>William Ainscough</actor>
+      <actor>Kyle Rideout</actor>
+      <actor>Brian Drummond</actor>
+      <actor>Dalila Bela</actor>
+      <writer>Michelle Lamoreaux</writer>
+    </credits>
+    <date>2016</date>
+    <category lang="en">Animation</category>
+    <category lang="en">Family</category>
+    <icon src="https://media.elcinema.com/uploads/_150x200_b2a046d9fbd82b4258ed61a9588c164541de1ed6075952164d6cc5b028535e22.jpg" />
+    <country lang="en">U.S.</country>
+    <star-rating system="MPAA">
+      <value>4.4</value>
+    </star-rating>
+  </programme>
+  <programme start="20210728000000 +0200" stop="20210728003000 +0200" channel="MBC 3">
+    <title lang="en">Martial Mecha Sega</title>
+    <desc lang="en">Ten video game finalists find themselves trapped into the virtual world of the game Robo-Troopers, as one of the gamers named LoLo might be the legendary savior who would lead the Vehicle Clan to defeat the Beastie Warlords.(n)</desc>
+    <credits>
+      <director>Tommy Wang</director>
+      <director>Ma Ling</director>
+      <actor>Zu Liqing</actor>
+      <actor>Gao Quansheng</actor>
+      <actor>Ju Yuebin</actor>
+      <actor>Zhao Ran</actor>
+      <writer>Wang Wei</writer>
+    </credits>
+    <date>2013</date>
+    <category lang="en">Animation</category>
+    <icon src="https://media.elcinema.com/uploads/_150x200_f3a9a2de9018af32d2b86dac8bdc40af108b60e35c56caf8f042c9a29f95e27c.jpg" />
+    <country lang="en">China</country>
+    <star-rating system="MPAA">
+      <value>7.3</value>
+    </star-rating>
+  </programme>
+  <programme start="20210728003000 +0200" stop="20210728010000 +0200" channel="MBC 3">
+    <title lang="en">World Peacekeepers</title>
+    <credits>
+      <director>Qian Judong</director>
+      <actor>Ge Zhao</actor>
+      <actor>Liaodong Sun</actor>
+      <actor>Litian Wang</actor>
+      <actor>Yuan Xin</actor>
+      <actor>Ma Haolun</actor>
+      <actor>Gao Ge</actor>
+      <writer>Ken Yi O</writer>
+      <writer>Zogo Xiong</writer>
+    </credits>
+    <date>2014</date>
+    <category lang="en">Animation</category>
+    <icon src="https://media.elcinema.com/uploads/_150x200_0700cc40f9300626ee25848b47af692483d71db7eb6d354bb6b48c48eda6e955.jpg" />
+    <star-rating system="MPAA">
+      <value>6.1</value>
+    </star-rating>
+  </programme>
+  <programme start="20210728010000 +0200" stop="20210728013000 +0200" channel="MBC 3">
+    <title lang="en">Kody Kapow</title>
+    <credits>
+      <director>Samuel Chou</director>
+      <actor>Jonathan Tan</actor>
+      <actor>Jason Alexander</actor>
+      <actor>Neil Crone</actor>
+      <actor>Scott Gorman</actor>
+      <writer>Robin Stein</writer>
+    </credits>
+    <date>2017</date>
+    <category lang="en">Animation</category>
+    <icon src="https://media.elcinema.com/uploads/_150x200_729809092f2d2435ff5625d5c051917282bcd4699c3484ff4f337978aeea6910.jpg" />
+    <country lang="en">U.S.</country>
+    <star-rating system="MPAA">
+      <value>5.8</value>
+    </star-rating>
+  </programme>
+  <programme start="20210728013000 +0200" stop="20210728020000 +0200" channel="MBC 3">
+    <title lang="en">Teenage Mutant Ninja Turtles</title>
+    <desc lang="en">After four ninja turtles are mutated by a mysterious alien substance, they must come out of the sewers to defend their city against forces of evil from both past and present.(n)</desc>
+    <credits>
+      <director>Ciro Nieli</director>
+      <director>Michael Chang</director>
+      <actor>Rob Paulsen</actor>
+      <actor>Minae Noji</actor>
+      <actor>Mae Whitman</actor>
+      <actor>Seth Green</actor>
+      <actor>Greg Cipes</actor>
+      <actor>Sean Astin</actor>
+      <writer>Tom Alvarado</writer>
+      <writer>Kevin Eastman</writer>
+    </credits>
+    <date>2012</date>
+    <category lang="en">Adventure</category>
+    <category lang="en">Action</category>
+    <icon src="https://media.elcinema.com/uploads/_150x200_1cebc48bd55e996fa2859952260151340d9fd2d79a6ef2e132ac8ab08892090c.jpg" />
+    <country lang="en">U.S.</country>
+    <rating system="MPAA">
+      <value>TV-Y7</value>
+    </rating>
+    <star-rating system="MPAA">
+      <value>7.8</value>
+    </star-rating>
+  </programme>
+  <programme start="20210728020000 +0200" stop="20210728023000 +0200" channel="MBC 3">
+    <title lang="en">The Basketeers</title>
+    <credits>
+      <director>Bruno Bligoux</director>
+      <actor>Eden Gamliel</actor>
+      <actor>Manon Azem</actor>
+      <actor>Pascale Chemin</actor>
+      <actor>Jennifer Fauveau</actor>
+      <writer>Morgana Herma</writer>
+    </credits>
+    <date>2011</date>
+    <icon src="https://media.elcinema.com/uploads/_150x200_3cdbc72997afb931b4e339303bfbf1ccd482b9b99374a3d454d68c8fbe2d75a6.jpg" />
+    <country lang="en">France</country>
+    <star-rating system="MPAA">
+      <value>5.2</value>
+    </star-rating>
+  </programme>
+  <programme start="20210728023000 +0200" stop="20210728033000 +0200" channel="MBC 3">
+    <title lang="en">Bunsen Is a Beast</title>
+    <desc lang="en">The innocent friendship between the blue monster, Bunsen, and his human friend, Mikey, as the latter is trying to teach the former how to mingle with humans. Are people going to embrace or marginalize him.(n)</desc>
+    <credits>
+      <director>George Eliot</director>
+      <actor>Kari Wahlgren</actor>
+      <actor>Jeff Bennett</actor>
+      <actor>Cheri Oteri</actor>
+      <actor>Cristina Milizia</actor>
+      <writer>Butch Hartman</writer>
+    </credits>
+    <date>2017</date>
+    <icon src="https://media.elcinema.com/uploads/_150x200_17132037afdef43082de8a3659fee0aa4e6fdb55c9453199c584e60d72e3eb01.jpg" />
+    <country lang="en">U.S.</country>
+    <star-rating system="MPAA">
+      <value>5.9</value>
+    </star-rating>
+  </programme>
+  <programme start="20210728033000 +0200" stop="20210728050000 +0200" channel="MBC 3">
+    <title lang="en">SpongeBob SquarePants S5</title>
+    <desc lang="en">SpongeBob returns for more underwater adventures, driven along by his curiosity and his attempt to discover everything new in his world.(n)</desc>
+    <credits>
+      <director>Vincent Waller</director>
+      <director>Paul Tibbitt</director>
+      <actor>Tom Kenny</actor>
+      <actor>Rodger Bumpass</actor>
+      <actor>Clancy Brown</actor>
+      <actor>Lori Alan</actor>
+      <actor>Dee Bradley Baker</actor>
+      <actor>Bill Fagerbakke</actor>
+      <writer>Stephen Hillenburg</writer>
+      <writer>Casey Alexander</writer>
+    </credits>
+    <date>2007</date>
+    <category lang="en">Comedy</category>
+    <category lang="en">Adventure</category>
+    <icon src="https://media.elcinema.com/uploads/_150x200_b68376719de8726c3621f6993aa5c7576d4fd891e839a12161bfbe518839b99a.jpg" />
+    <country lang="en">U.S.</country>
+    <rating system="MPAA">
+      <value>TV-Y7</value>
+    </rating>
+    <star-rating system="MPAA">
+      <value>8.7</value>
+    </star-rating>
+  </programme>
+  <programme start="20210728050000 +0200" stop="20210728053000 +0200" channel="MBC 3">
+    <title lang="en">ChalkZone</title>
+    <desc lang="en">Rudy Tabootie and his friends Snap and Penny Sanchez enter never ending adventures, as Rudy is an elementary school student who has a magic piece of chalk that takes him into the ChalkZone, an alternate world where everything drawn on a blackboard and erased becomes real.(n)</desc>
+    <credits>
+      <actor>Adel Omar</actor>
+      <actor>Moawad Ismail</actor>
+      <actor>يارا علاء</actor>
+      <actor>Salwa Mohamed Ali</actor>
+      <actor>Sayed Elromy</actor>
+      <actor>عادل الخربوطلي</actor>
+    </credits>
+    <date>2005</date>
+    <category lang="en">Animation</category>
+    <category lang="en">Family</category>
+    <icon src="https://media.elcinema.com/uploads/_150x200_5a917885dffcf3535d68fbd008b5b52fac4d8d995f478ebf2a52bdd87347f768.jpg" />
+    <country lang="en">US</country>
+    <star-rating system="MPAA">
+      <value>6.9</value>
+    </star-rating>
+  </programme>
+  <programme start="20210728053000 +0200" stop="20210728060000 +0200" channel="MBC 3">
+    <title lang="en">Bunsen Is a Beast</title>
+    <desc lang="en">The innocent friendship between the blue monster, Bunsen, and his human friend, Mikey, as the latter is trying to teach the former how to mingle with humans. Are people going to embrace or marginalize him.(n)</desc>
+    <credits>
+      <director>George Eliot</director>
+      <actor>Kari Wahlgren</actor>
+      <actor>Jeff Bennett</actor>
+      <actor>Cheri Oteri</actor>
+      <actor>Cristina Milizia</actor>
+      <writer>Butch Hartman</writer>
+    </credits>
+    <date>2017</date>
+    <icon src="https://media.elcinema.com/uploads/_150x200_17132037afdef43082de8a3659fee0aa4e6fdb55c9453199c584e60d72e3eb01.jpg" />
+    <country lang="en">U.S.</country>
+    <star-rating system="MPAA">
+      <value>5.9</value>
     </star-rating>
   </programme>
   <programme start="20210725013500 +0200" stop="20210725031500 +0200" channel="OSN Action">
@@ -15016,6 +17159,239 @@
       <value>5.7</value>
     </star-rating>
   </programme>
+  <programme start="20210727213000 +0200" stop="20210727220000 +0200" channel="OSN COMEDY">
+    <title lang="en">Ramy</title>
+    <desc lang="en">Ramy is an Egyptian-American living in New Jersey who struggles to find balance between his conservative Muslim background and his life in America.(n)</desc>
+    <credits>
+      <director>Cherien Dabis</director>
+      <director>Jehane Noujaim</director>
+      <actor>Ramy Youssef</actor>
+      <actor>Hiam Abbass</actor>
+      <actor>Amr Waked</actor>
+      <actor>May Calamawy</actor>
+      <actor>Laith Nakli</actor>
+      <actor>Rosaline Elbay</actor>
+      <writer>Ramy Youssef</writer>
+      <writer>Ryan Welsch</writer>
+    </credits>
+    <date>2019</date>
+    <category lang="en">Comedy</category>
+    <icon src="https://media.elcinema.com/uploads/_150x200_66b09591a5dd363547159eeb549800c1958da9354560960d4369753cb5b1880e.jpg" />
+    <country lang="en">U.S.</country>
+    <star-rating system="MPAA">
+      <value>6.5</value>
+    </star-rating>
+  </programme>
+  <programme start="20210727220000 +0200" stop="20210727223000 +0200" channel="OSN COMEDY">
+    <title lang="en">Sex and the City S1</title>
+    <desc lang="en">Four girlfriends try to navigate their complicated sex lives, balancing their wish for a meaningful connection and their desire to embrace their sexuality.(n)</desc>
+    <credits>
+      <director>Michael Patrick King</director>
+      <director>Allen Coulter</director>
+      <actor>Sarah Jessica Parker</actor>
+      <actor>Kim Cattrall</actor>
+      <actor>Kristin Davis</actor>
+      <actor>Cynthia Nixon</actor>
+      <actor>Chris Noth</actor>
+      <actor>Kyle MacLachlan</actor>
+      <writer>Candace Bushnell</writer>
+      <writer>Darren Star</writer>
+    </credits>
+    <date>1998</date>
+    <icon src="https://media.elcinema.com/uploads/_150x200_3e4761bc61b246666665e4df2703727c5205db96eb54c7101007be311f0a2942.jpg" />
+    <country lang="en">U.S.</country>
+  </programme>
+  <programme start="20210727223000 +0200" stop="20210727230000 +0200" channel="OSN COMEDY">
+    <title lang="en">High Maintenance S3</title>
+    <desc lang="en">The Guy continues to deliver his marijuana across the city and gets brief glimpses of the daily lives and struggles of his high-strung clients who sometimes ask for his advice.(n)</desc>
+    <credits>
+      <director>Katja Blichfeld</director>
+      <actor>Kate Lyn Sheil</actor>
+      <actor>Britt Lower</actor>
+      <actor>Ben Sinclair</actor>
+      <actor>Yael Stone</actor>
+      <writer>Katja Blichfeld</writer>
+      <writer>Ben Sinclair</writer>
+    </credits>
+    <date>2019</date>
+    <icon src="https://media.elcinema.com/uploads/_150x200_769b4d0a6c0a2f79ab943787625dd9169c5a8771a1eef04daa3efa1b91f57eed.jpg" />
+    <country lang="en">U.S.</country>
+  </programme>
+  <programme start="20210727230000 +0200" stop="20210727235500 +0200" channel="OSN COMEDY">
+    <title lang="en">Late Night With Seth Meyers</title>
+    <credits>
+      <director>Alex Vietmeier</director>
+      <actor>Seth Meyers</actor>
+    </credits>
+    <date>2014</date>
+    <category lang="en">Comedy</category>
+    <icon src="https://media.elcinema.com/uploads/_150x200_166eb86107aee4b9196398f837f01e9a9778338601158d055bfb445db67f89bc.jpg" />
+    <country lang="en">U.S.</country>
+  </programme>
+  <programme start="20210727235500 +0200" stop="20210728003000 +0200" channel="OSN COMEDY">
+    <title lang="en">Arrested Development S2</title>
+    <credits>
+      <director>Paul Feig</director>
+      <director>Anthony Russo</director>
+      <actor>Jason Bateman</actor>
+      <actor>Portia de Rossi</actor>
+      <actor>Will Arnett</actor>
+      <actor>Michael Cera</actor>
+      <actor>Alia Shawkat</actor>
+      <actor>Tony Hale</actor>
+      <writer>Mitchell Hurwitz</writer>
+      <writer>Courtney Lilly</writer>
+    </credits>
+    <date>2005</date>
+    <category lang="en">Comedy</category>
+    <icon src="https://media.elcinema.com/uploads/_150x200_195a9822e0bb0d9e8323551024b24025ef6adf76f4f696468d5779fae526e31f.jpg" />
+    <country lang="en">U.S.</country>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20210728003000 +0200" stop="20210728010000 +0200" channel="OSN COMEDY">
+    <title lang="en">Arrested Development S2</title>
+    <credits>
+      <director>Paul Feig</director>
+      <director>Anthony Russo</director>
+      <actor>Jason Bateman</actor>
+      <actor>Portia de Rossi</actor>
+      <actor>Will Arnett</actor>
+      <actor>Michael Cera</actor>
+      <actor>Alia Shawkat</actor>
+      <actor>Tony Hale</actor>
+      <writer>Mitchell Hurwitz</writer>
+      <writer>Courtney Lilly</writer>
+    </credits>
+    <date>2005</date>
+    <category lang="en">Comedy</category>
+    <icon src="https://media.elcinema.com/uploads/_150x200_195a9822e0bb0d9e8323551024b24025ef6adf76f4f696468d5779fae526e31f.jpg" />
+    <country lang="en">U.S.</country>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
+  <programme start="20210728010000 +0200" stop="20210728013000 +0200" channel="OSN COMEDY">
+    <title lang="en">Ramy</title>
+    <desc lang="en">Ramy is an Egyptian-American living in New Jersey who struggles to find balance between his conservative Muslim background and his life in America.(n)</desc>
+    <credits>
+      <director>Cherien Dabis</director>
+      <director>Jehane Noujaim</director>
+      <actor>Ramy Youssef</actor>
+      <actor>Hiam Abbass</actor>
+      <actor>Amr Waked</actor>
+      <actor>May Calamawy</actor>
+      <actor>Laith Nakli</actor>
+      <actor>Rosaline Elbay</actor>
+      <writer>Ramy Youssef</writer>
+      <writer>Ryan Welsch</writer>
+    </credits>
+    <date>2019</date>
+    <category lang="en">Comedy</category>
+    <icon src="https://media.elcinema.com/uploads/_150x200_66b09591a5dd363547159eeb549800c1958da9354560960d4369753cb5b1880e.jpg" />
+    <country lang="en">U.S.</country>
+    <star-rating system="MPAA">
+      <value>6.5</value>
+    </star-rating>
+  </programme>
+  <programme start="20210728013000 +0200" stop="20210728020000 +0200" channel="OSN COMEDY">
+    <title lang="en">Sex and the City S1</title>
+    <desc lang="en">Four girlfriends try to navigate their complicated sex lives, balancing their wish for a meaningful connection and their desire to embrace their sexuality.(n)</desc>
+    <credits>
+      <director>Michael Patrick King</director>
+      <director>Allen Coulter</director>
+      <actor>Sarah Jessica Parker</actor>
+      <actor>Kim Cattrall</actor>
+      <actor>Kristin Davis</actor>
+      <actor>Cynthia Nixon</actor>
+      <actor>Chris Noth</actor>
+      <actor>Kyle MacLachlan</actor>
+      <writer>Candace Bushnell</writer>
+      <writer>Darren Star</writer>
+    </credits>
+    <date>1998</date>
+    <icon src="https://media.elcinema.com/uploads/_150x200_3e4761bc61b246666665e4df2703727c5205db96eb54c7101007be311f0a2942.jpg" />
+    <country lang="en">U.S.</country>
+  </programme>
+  <programme start="20210728020000 +0200" stop="20210728023000 +0200" channel="OSN COMEDY">
+    <title lang="en">High Maintenance S3</title>
+    <desc lang="en">The Guy continues to deliver his marijuana across the city and gets brief glimpses of the daily lives and struggles of his high-strung clients who sometimes ask for his advice.(n)</desc>
+    <credits>
+      <director>Katja Blichfeld</director>
+      <actor>Kate Lyn Sheil</actor>
+      <actor>Britt Lower</actor>
+      <actor>Ben Sinclair</actor>
+      <actor>Yael Stone</actor>
+      <writer>Katja Blichfeld</writer>
+      <writer>Ben Sinclair</writer>
+    </credits>
+    <date>2019</date>
+    <icon src="https://media.elcinema.com/uploads/_150x200_769b4d0a6c0a2f79ab943787625dd9169c5a8771a1eef04daa3efa1b91f57eed.jpg" />
+    <country lang="en">U.S.</country>
+  </programme>
+  <programme start="20210728023000 +0200" stop="20210728033000 +0200" channel="OSN COMEDY">
+    <title lang="en">Late Night With Seth Meyers</title>
+    <credits>
+      <director>Alex Vietmeier</director>
+      <actor>Seth Meyers</actor>
+    </credits>
+    <date>2014</date>
+    <category lang="en">Comedy</category>
+    <icon src="https://media.elcinema.com/uploads/_150x200_166eb86107aee4b9196398f837f01e9a9778338601158d055bfb445db67f89bc.jpg" />
+    <country lang="en">U.S.</country>
+  </programme>
+  <programme start="20210728033000 +0200" stop="20210728043000 +0200" channel="OSN COMEDY">
+    <title lang="en">The Tonight Show Starring Jimmy Fallon</title>
+    <desc lang="en">A daily show hosted by Jimmy Falon, with a variety of numbers like comedy sketches, guest stars and music performance.(n)</desc>
+    <credits>
+      <actor>Jimmy Fallon</actor>
+      <writer>A. D. Miles</writer>
+      <writer>Jimmy Fallon</writer>
+    </credits>
+    <date>2014</date>
+    <icon src="https://media.elcinema.com/uploads/_150x200_f8f96513ad1bcb86587b42bbdabf8510ae27c2b252013482ca573687770e1c2a.jpg" />
+    <country lang="en">U.S.</country>
+    <star-rating system="MPAA">
+      <value>5.7</value>
+    </star-rating>
+  </programme>
+  <programme start="20210728043000 +0200" stop="20210728053000 +0200" channel="OSN COMEDY">
+    <title lang="en">Ellen: The Ellen DeGeneres Show</title>
+    <credits>
+      <actor>Ellen DeGeneres</actor>
+    </credits>
+    <date>2013</date>
+    <category lang="en">Comedy</category>
+    <icon src="https://media.elcinema.com/uploads/_150x200_15cceb18811504c61da6c67396293db6decebb2e63703b4d8acbce7af17fcbaf.jpg" />
+    <country lang="en">U.S.</country>
+    <star-rating system="MPAA">
+      <value>6.9</value>
+    </star-rating>
+  </programme>
+  <programme start="20210728053000 +0200" stop="20210728060000 +0200" channel="OSN COMEDY">
+    <title lang="en">Friends S4</title>
+    <credits>
+      <director>Shelley Jensen</director>
+      <director>Michael Lembeck</director>
+      <actor>Jennifer Aniston</actor>
+      <actor>Courteney Cox</actor>
+      <actor>Lisa Kudrow</actor>
+      <actor>Matt LeBlanc</actor>
+      <actor>Matthew Perry</actor>
+      <actor>David Schwimmer</actor>
+      <writer>David Crane</writer>
+      <writer>Marta Kauffman</writer>
+    </credits>
+    <date>1997</date>
+    <category lang="en">Romance</category>
+    <category lang="en">Comedy</category>
+    <icon src="https://media.elcinema.com/uploads/_150x200_cc0190f073a6ad23a961cf4502fd4d4bf363255150d445074115cf10f95b0f2b.jpg" />
+    <country lang="en">U.S.</country>
+    <rating system="MPAA">
+      <value>TV-PG</value>
+    </rating>
+  </programme>
   <programme start="20210725012000 +0200" stop="20210725025500 +0200" channel="OSN MOVIES FIRST">
     <title lang="en">Love and Sunshine</title>
     <desc lang="en">Finding solace for her broken heart in fostering a military dog called Sunshine, Sunshine's presence brings Ally more joy than she bargained for when the dog's military partner returns to claim him, and sparks start to fly between him and Ally.</desc>
@@ -15837,6 +18213,97 @@
     <rating system="MPAA">
       <value>R</value>
     </rating>
+  </programme>
+  <programme start="20210727221500 +0200" stop="20210727234000 +0200" channel="OSN MOVIES FIRST">
+    <title lang="en">Holly Slept Over</title>
+    <desc lang="en">As a married couple struggles with their inability to conceive, their marriage seems to go downhill when an old college friend shows up and stays over at their place for the weekend.(n)</desc>
+    <credits>
+      <director>Joshua Friedlander</director>
+      <actor>Nathalie Emmanuel</actor>
+      <actor>Erin Hayes</actor>
+      <actor>Britt Lower</actor>
+      <actor>Ron Livingston</actor>
+      <actor>Josh Lawson</actor>
+      <actor>Kimberly G. Grader</actor>
+      <writer>Joshua Friedlander</writer>
+    </credits>
+    <date>2020</date>
+    <category lang="en">Comedy</category>
+    <icon src="https://media.elcinema.com/uploads/_150x200_6e2c361d92085d44c1d99a46125f8a064443c57d71105477a22d97f2f711858b.jpg" />
+    <country lang="en">U.S.</country>
+    <rating system="MPAA">
+      <value>NR</value>
+    </rating>
+  </programme>
+  <programme start="20210727234000 +0200" stop="20210728012000 +0200" channel="OSN MOVIES FIRST">
+    <title lang="en">Own The Room</title>
+    <icon src="https://media.elcinema.com/blank_photos/150x200.jpg" />
+  </programme>
+  <programme start="20210728012000 +0200" stop="20210728022000 +0200" channel="OSN MOVIES FIRST">
+    <title lang="en">The Boy Inside: Trapped By Tourettes</title>
+    <icon src="https://media.elcinema.com/blank_photos/150x200.jpg" />
+  </programme>
+  <programme start="20210728022000 +0200" stop="20210728035000 +0200" channel="OSN MOVIES FIRST">
+    <title lang="en">Fit for a Prince</title>
+    <credits>
+      <director>Marita Grabiak</director>
+      <actor>Jonathan Keltz</actor>
+      <actor>Natalie Hall</actor>
+      <actor>Melinda Michael</actor>
+      <actor>Rebecca Lamarche</actor>
+      <actor>Ish Morris</actor>
+      <actor>Tanya Clarke</actor>
+      <writer>T. Booker James</writer>
+    </credits>
+    <date>2021</date>
+    <icon src="https://media.elcinema.com/uploads/_150x200_c6ccace148c7b267697ecede4df270f457166fdf722de2e3ff7ff346b23897c9.jpg" />
+    <country lang="en">US</country>
+    <rating system="MPAA">
+      <value>TV-G</value>
+    </rating>
+  </programme>
+  <programme start="20210728035000 +0200" stop="20210728054000 +0200" channel="OSN MOVIES FIRST">
+    <title lang="en">Mighty Oak</title>
+    <desc lang="en">Years after her brother dies, Gina runs across the music prodigy Oak Scoggins. While anyone would only be taken by Oak's talent, Gina sets her eyes on reuniting her old band as she becomes convinced that Oak is actually the reincarnation of her late brother.(n)</desc>
+    <credits>
+      <director>Sean McNamara</director>
+      <actor>Janel Parrish</actor>
+      <actor>Tommy Ragen</actor>
+      <actor>Carlos PenaVega</actor>
+      <actor>Ben Milliken</actor>
+      <actor>Nana Ghana</actor>
+      <actor>Gianna Harris</actor>
+      <writer>Matt Allen</writer>
+    </credits>
+    <date>2020</date>
+    <category lang="en">Fantasy</category>
+    <category lang="en">Comedy</category>
+    <icon src="https://media.elcinema.com/uploads/_150x200_0ac10ea095f006655d16929e3abc86883241e2874e267546bbb7d0d65096f7c9.jpg" />
+    <country lang="en">US</country>
+    <rating system="MPAA">
+      <value>PG-13</value>
+    </rating>
+  </programme>
+  <programme start="20210728054000 +0200" stop="20210728070500 +0200" channel="OSN MOVIES FIRST">
+    <title lang="en">All Creatures Here Below</title>
+    <desc lang="en">After running into trouble, the struggling young couple Gensan and Ruby seek refuge in their hometown of Kansas City, where they're faced with dark secrets from the past.(n)</desc>
+    <credits>
+      <director>Collin Schiffli</director>
+      <actor>Karen Gillan</actor>
+      <actor>Jennifer Morrison</actor>
+      <actor>David Dastmalchian</actor>
+      <actor>Sam Salary</actor>
+      <actor>Abel Becerra</actor>
+      <actor>Chad Crenshaw</actor>
+      <writer>David Dastmalchian</writer>
+    </credits>
+    <date>2018</date>
+    <category lang="en">Drama</category>
+    <icon src="https://media.elcinema.com/uploads/_150x200_33a98d5d87410f4ef3d5d1c4a10da2fb54077d0be05f7c0f57bd3ae720a61253.jpg" />
+    <country lang="en">U.S.</country>
+    <star-rating system="MPAA">
+      <value>5.2</value>
+    </star-rating>
   </programme>
   <programme start="20210725003000 +0200" stop="20210725013000 +0200" channel="OSN Series First">
     <title lang="en">S.W.A.T.</title>
@@ -17475,6 +19942,173 @@
     <star-rating system="MPAA">
       <value>5.3</value>
     </star-rating>
+  </programme>
+  <programme start="20210727213000 +0200" stop="20210727223000 +0200" channel="OSN Series First">
+    <title lang="en">Wentworth</title>
+    <desc lang="en">After being charged with the attempted murder of her husband, Bea Smith is sent to Wentworth as she must learn how to survive in prison.(n)</desc>
+    <credits>
+      <director>Kevin Carolan</director>
+      <actor>Jacqueline Brennan</actor>
+      <actor>Katrina Milosevic</actor>
+      <actor>Kate Jenkinson</actor>
+      <actor>Lauri McLennan</actor>
+      <actor>Celia Ireland</actor>
+      <actor>Robbie Magasiva</actor>
+      <writer>Reg Gadney</writer>
+    </credits>
+    <date>2013</date>
+    <icon src="https://media.elcinema.com/uploads/_150x200_0f51b5d273304e73c5f4beb58d7e3ab19ce26dcace5b1e78658b14d5886dee60.jpg" />
+    <country lang="en">Australia</country>
+  </programme>
+  <programme start="20210727223000 +0200" stop="20210727233500 +0200" channel="OSN Series First">
+    <title lang="en">The Sopranos</title>
+    <desc lang="en">Tony Soprano, a prominent member of an Italian mafia organization, suffers from personal and professional problems, and is facing difficulties from his constant attempts to balance the conflicting requirements between his home and his family and the criminal organization he co-runs.(n)</desc>
+    <credits>
+      <director>Allen Coulter</director>
+      <actor>James Gandolfini</actor>
+      <actor>Edie Falco</actor>
+      <actor>Laurenti Bracko</actor>
+      <actor>Michael Rispoli</actor>
+      <actor>Vondie Curtis-Hall</actor>
+      <actor>Tony Sirico</actor>
+      <writer>David Chase</writer>
+    </credits>
+    <date>1999</date>
+    <category lang="en">Crime</category>
+    <category lang="en">Drama</category>
+    <icon src="https://media.elcinema.com/uploads/_150x200_4b70d78e080bd9ac2299f4f93766c494deb96281078a3266dba805e5cf9d6f32.jpg" />
+    <country lang="en">U.S.</country>
+    <star-rating system="MPAA">
+      <value>5.8</value>
+    </star-rating>
+  </programme>
+  <programme start="20210727233500 +0200" stop="20210728003500 +0200" channel="OSN Series First">
+    <title lang="en">True Blood</title>
+    <desc lang="en">The world of the telepathic waitress Sookie Stackhouse turns upside down when she meets the charming gentleman Bill Compton in the town of Bon Temps, Louisiana, who happens to be a vampire.(n)</desc>
+    <credits>
+      <director>Alan Ball</director>
+      <director>Michael Lehmann</director>
+      <actor>Anna Paquin</actor>
+      <actor>Alexander Skarsgaard</actor>
+      <actor>Stephen Moyer</actor>
+      <actor>Sam Trammell</actor>
+      <actor>Christopher Heyerdahl</actor>
+      <actor>Chris Bauer</actor>
+      <writer>Alan Ball</writer>
+      <writer>Charlaine Harris</writer>
+    </credits>
+    <date>2008</date>
+    <category lang="en">Drama</category>
+    <category lang="en">Fantasy</category>
+    <icon src="https://media.elcinema.com/uploads/_150x200_1a0c84cc4fe73bc6de1e79b10b8543197603184850fc8d73d3d030e16937b168.jpg" />
+    <country lang="en">U.S.</country>
+    <star-rating system="MPAA">
+      <value>6.6</value>
+    </star-rating>
+  </programme>
+  <programme start="20210728003500 +0200" stop="20210728013000 +0200" channel="OSN Series First">
+    <title lang="en">Riviera</title>
+    <desc lang="en">Georgina discovers that her family is involved in an old bloody history, when her husband Constantine is killed in mysterious circumstances, and she has to face danger in order to protect those she loves.(n)</desc>
+    <credits>
+      <director>Hans Herbots</director>
+      <actor>Julia Stiles</actor>
+      <actor>Lena Olin</actor>
+      <actor>Dimitri Leonidas</actor>
+      <actor>Roxane Duran</actor>
+      <actor>Yigal Naor</actor>
+      <actor>Anthony LaPaglia</actor>
+      <writer>Neil Jordan</writer>
+    </credits>
+    <date>2017</date>
+    <icon src="https://media.elcinema.com/uploads/_150x200_01d760b20873093b91783e6f170915aad1a38de184e9ec3d9267d4a1b032ec6c.jpg" />
+    <country lang="en">U.K.</country>
+    <star-rating system="MPAA">
+      <value>5.3</value>
+    </star-rating>
+  </programme>
+  <programme start="20210728013000 +0200" stop="20210728023000 +0200" channel="OSN Series First">
+    <title lang="en">Wentworth</title>
+    <desc lang="en">After being charged with the attempted murder of her husband, Bea Smith is sent to Wentworth as she must learn how to survive in prison.(n)</desc>
+    <credits>
+      <director>Kevin Carolan</director>
+      <actor>Jacqueline Brennan</actor>
+      <actor>Katrina Milosevic</actor>
+      <actor>Kate Jenkinson</actor>
+      <actor>Lauri McLennan</actor>
+      <actor>Celia Ireland</actor>
+      <actor>Robbie Magasiva</actor>
+      <writer>Reg Gadney</writer>
+    </credits>
+    <date>2013</date>
+    <icon src="https://media.elcinema.com/uploads/_150x200_0f51b5d273304e73c5f4beb58d7e3ab19ce26dcace5b1e78658b14d5886dee60.jpg" />
+    <country lang="en">Australia</country>
+  </programme>
+  <programme start="20210728023000 +0200" stop="20210728033000 +0200" channel="OSN Series First">
+    <title lang="en">The Sopranos</title>
+    <desc lang="en">Tony Soprano, a prominent member of an Italian mafia organization, suffers from personal and professional problems, and is facing difficulties from his constant attempts to balance the conflicting requirements between his home and his family and the criminal organization he co-runs.(n)</desc>
+    <credits>
+      <director>Allen Coulter</director>
+      <actor>James Gandolfini</actor>
+      <actor>Edie Falco</actor>
+      <actor>Laurenti Bracko</actor>
+      <actor>Michael Rispoli</actor>
+      <actor>Vondie Curtis-Hall</actor>
+      <actor>Tony Sirico</actor>
+      <writer>David Chase</writer>
+    </credits>
+    <date>1999</date>
+    <category lang="en">Crime</category>
+    <category lang="en">Drama</category>
+    <icon src="https://media.elcinema.com/uploads/_150x200_4b70d78e080bd9ac2299f4f93766c494deb96281078a3266dba805e5cf9d6f32.jpg" />
+    <country lang="en">U.S.</country>
+    <star-rating system="MPAA">
+      <value>5.8</value>
+    </star-rating>
+  </programme>
+  <programme start="20210728033000 +0200" stop="20210728043000 +0200" channel="OSN Series First">
+    <title lang="en">This Is Us S5</title>
+    <credits>
+      <director>Ken Olin</director>
+      <actor>Milo Ventimiglia</actor>
+      <actor>Mandy Moore</actor>
+      <actor>Sterling K. Brown</actor>
+      <actor>Chrissy Metz</actor>
+      <actor>Justin Hartley</actor>
+      <actor>Susan Kelechi Watson</actor>
+      <writer>Dan Fogelman</writer>
+    </credits>
+    <date>2020</date>
+    <icon src="https://media.elcinema.com/uploads/_150x200_cc1ab17c18146220b3ebc7bbdb4e66c0fca0c48b28075ae3630aa6097dea8337.jpg" />
+    <country lang="en">U.S.</country>
+    <rating system="MPAA">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20210728043000 +0200" stop="20210728053000 +0200" channel="OSN Series First">
+    <title lang="en">The Good Doctor S4</title>
+    <credits>
+      <director>Mike Listo</director>
+      <actor>Freddie Highmore</actor>
+      <actor>Antonia Thomas</actor>
+      <actor>Fiona Gubelmann</actor>
+      <actor>Will Yun Lee</actor>
+      <actor>Christina Chong</actor>
+      <actor>Hill Harper</actor>
+      <writer>David Shore</writer>
+    </credits>
+    <date>2020</date>
+    <category lang="en">Drama</category>
+    <icon src="https://media.elcinema.com/uploads/_150x200_da18df70d0675c5009994998da44cd672097f1531e1fe1e526de18ace71838ac.jpg" />
+    <country lang="en">U.S.</country>
+    <rating system="MPAA">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20210728053000 +0200" stop="20210728070000 +0200" channel="OSN Series First">
+    <title lang="en">Good Morning America</title>
+    <date>1975</date>
+    <icon src="https://media.elcinema.com/uploads/_150x200_ce05547430505f4936733e7c170e66f33e5badb25bc87bc8b8b36a0ed93955a4.jpg" />
+    <country lang="en">U.S.</country>
   </programme>
   <programme start="20210725000000 +0200" stop="20210725010000 +0200" channel="OSN Series">
     <title lang="en">I Know This Much Is True</title>
@@ -19299,6 +21933,198 @@
     <icon src="https://media.elcinema.com/uploads/_150x200_7e169c5db231d41eab52b863257c45b8edc0752c005fcdf3769244d02b62ea6f.jpg" />
     <country lang="en">US</country>
   </programme>
+  <programme start="20210727213000 +0200" stop="20210727222000 +0200" channel="OSN Series">
+    <title lang="en">Yellowstone S2</title>
+    <desc lang="en">The Dutton family controls the largest contiguous ranch in the United States. With their land under attack from various factions, the family must come together to defend their property.(n)</desc>
+    <credits>
+      <director>Taylor Sheridan</director>
+      <director>Stephen Kay</director>
+      <actor>Kevin Costner</actor>
+      <actor>Luke Grimes</actor>
+      <actor>Kelly Reilly</actor>
+      <actor>Cole Hauser</actor>
+      <actor>Wes Bentley</actor>
+      <actor>Gil Birmingham</actor>
+      <writer>Taylor Sheridan</writer>
+      <writer>John Linson</writer>
+    </credits>
+    <date>2019</date>
+    <icon src="https://media.elcinema.com/uploads/_150x200_d0e361732f21eba57a5d6a83188b4b93dae91b96caa647883dec8e597026ae1a.jpg" />
+    <country lang="en">U.S.</country>
+  </programme>
+  <programme start="20210727222000 +0200" stop="20210727230500 +0200" channel="OSN Series">
+    <title lang="en">Queen Sugar S5</title>
+    <desc lang="en">In this season, both Nova and Calvin, and Ralph Angel and Darla, make great strides in their respective relationships, while Micah goes to university, and Charley strives to help farmers fight injustice.(n)</desc>
+    <credits>
+      <director>Lauren Wolkstein</director>
+      <actor>Elizabeth Becka</actor>
+      <actor>Rutina Wesley</actor>
+      <actor>Dawn-Lyen Gardner</actor>
+      <actor>Kofi Siriboe</actor>
+      <actor>Omar J. Dorsey</actor>
+      <actor>Nicholas L. Ashe</actor>
+      <writer>Ava DuVernay</writer>
+    </credits>
+    <date>2021</date>
+    <category lang="en">Drama</category>
+    <icon src="https://media.elcinema.com/uploads/_150x200_46c6085d83707eb9b13418938ecb9d261a1eed2d73e26fcb697a185c33fc34ae.jpg" />
+    <country lang="en">U.S.</country>
+    <rating system="MPAA">
+      <value>TV-14</value>
+    </rating>
+    <star-rating system="MPAA">
+      <value>5.3</value>
+    </star-rating>
+  </programme>
+  <programme start="20210727230500 +0200" stop="20210728000000 +0200" channel="OSN Series">
+    <title lang="en">Hungry Ghosts</title>
+    <desc lang="en">As Vietnam continues to deal with the aftermath of war, a mine-clearing operation makes people's lives even more complicated as an angry spirit is unleashed, and the dead start roaming the earth.(n)</desc>
+    <credits>
+      <director>Shawn Seet</director>
+      <actor>Bryan Brown</actor>
+      <actor>Clare Bowen</actor>
+      <actor>Catherine Van-Davies</actor>
+      <actor>Ryan Corr</actor>
+      <actor>Jillian Nguyen</actor>
+      <actor>Justine Clarke</actor>
+      <writer>Timothy Hobart</writer>
+      <writer>Michele Lee</writer>
+    </credits>
+    <date>2020</date>
+    <icon src="https://media.elcinema.com/uploads/_150x200_4734011356bd9cefdf5877dda9bdfc560e93af9771b72c14ae0419f130dcbdaf.jpg" />
+    <country lang="en">Australia</country>
+    <star-rating system="MPAA">
+      <value>5.2</value>
+    </star-rating>
+  </programme>
+  <programme start="20210728000000 +0200" stop="20210728004500 +0200" channel="OSN Series">
+    <title lang="en">Chicago P.D. S8</title>
+    <credits>
+      <director>Mark Tinker</director>
+      <director>Eriq La Salle</director>
+      <actor>Jason Beghe</actor>
+      <actor>Jesse Lee Soffer</actor>
+      <actor>Patrick John Flueger</actor>
+      <actor>Marina Squerciati</actor>
+      <actor>LaRoyce Hawkins</actor>
+      <actor>Amy Morton</actor>
+      <writer>Dick Wolf</writer>
+      <writer>Matt Olmstead</writer>
+    </credits>
+    <date>2020</date>
+    <category lang="en">Thriller</category>
+    <category lang="en">Action</category>
+    <icon src="https://media.elcinema.com/uploads/_150x200_84918a5a1187a3511ccd4b6a7b8377d29fc3bfbfff3dd10d2bd245ba7e8f98e1.jpg" />
+    <country lang="en">U.S.</country>
+    <rating system="MPAA">
+      <value>TV-14</value>
+    </rating>
+  </programme>
+  <programme start="20210728004500 +0200" stop="20210728014500 +0200" channel="OSN Series">
+    <title lang="en">The Chi S4</title>
+    <credits>
+      <director>Jet Wilkinson</director>
+      <director>Gandja Monteiro</director>
+      <actor>Jacob Latimore</actor>
+      <actor>Alex R. Hibbert</actor>
+      <actor>Miriam A. Hyman</actor>
+      <actor>Ntare Guma Mbaho Mwine</actor>
+      <actor>Yolonda Ross</actor>
+      <actor>Shamon Brown Jr.</actor>
+      <writer>Lena Waithe</writer>
+      <writer>Ricardo Gamboa</writer>
+    </credits>
+    <date>2021</date>
+    <icon src="https://media.elcinema.com/uploads/_150x200_7e169c5db231d41eab52b863257c45b8edc0752c005fcdf3769244d02b62ea6f.jpg" />
+    <country lang="en">US</country>
+  </programme>
+  <programme start="20210728014500 +0200" stop="20210728023500 +0200" channel="OSN Series">
+    <title lang="en">Yellowstone S2</title>
+    <desc lang="en">The Dutton family controls the largest contiguous ranch in the United States. With their land under attack from various factions, the family must come together to defend their property.(n)</desc>
+    <credits>
+      <director>Taylor Sheridan</director>
+      <director>Stephen Kay</director>
+      <actor>Kevin Costner</actor>
+      <actor>Luke Grimes</actor>
+      <actor>Kelly Reilly</actor>
+      <actor>Cole Hauser</actor>
+      <actor>Wes Bentley</actor>
+      <actor>Gil Birmingham</actor>
+      <writer>Taylor Sheridan</writer>
+      <writer>John Linson</writer>
+    </credits>
+    <date>2019</date>
+    <icon src="https://media.elcinema.com/uploads/_150x200_d0e361732f21eba57a5d6a83188b4b93dae91b96caa647883dec8e597026ae1a.jpg" />
+    <country lang="en">U.S.</country>
+  </programme>
+  <programme start="20210728023500 +0200" stop="20210728033000 +0200" channel="OSN Series">
+    <title lang="en">Strike Back S8</title>
+    <desc lang="en">The team is in for the fight of their lives when their investigation into a terrorist plot targeting the West reveals a wider conspiracy that implicates several Western intelligence agencies.(n)</desc>
+    <credits>
+      <director>Bill Eagles</director>
+      <actor>Daniel MacPherson</actor>
+      <actor>Warren Brown</actor>
+      <actor>Jamie Bamber</actor>
+      <actor>Yasemin Kay Allen</actor>
+      <writer>James Dormer</writer>
+      <writer>Jack Lothian</writer>
+    </credits>
+    <date>2020</date>
+    <category lang="en">Thriller</category>
+    <category lang="en">Drama</category>
+    <icon src="https://media.elcinema.com/uploads/_150x200_dd9488cbeda13503d72b617ab2c27b2a517e6615c85dc30646f3f66c7cfe4c21.jpg" />
+    <country lang="en">U.K.</country>
+    <rating system="MPAA">
+      <value>TV-MA</value>
+    </rating>
+  </programme>
+  <programme start="20210728033000 +0200" stop="20210728041500 +0200" channel="OSN Series">
+    <title lang="en">The View</title>
+    <credits>
+      <director>Ashley S. Gorman</director>
+      <writer>Andrew Smith</writer>
+    </credits>
+    <date>1997</date>
+    <icon src="https://media.elcinema.com/uploads/_150x200_6e15ed53cbdcbec1e74b6081b4b96652f52cf24bf7cde410f0562efd22adb8b2.jpg" />
+    <country lang="en">U.S.</country>
+  </programme>
+  <programme start="20210728041500 +0200" stop="20210728050500 +0200" channel="OSN Series">
+    <title lang="en">Yellowstone S2</title>
+    <desc lang="en">The Dutton family controls the largest contiguous ranch in the United States. With their land under attack from various factions, the family must come together to defend their property.(n)</desc>
+    <credits>
+      <director>Taylor Sheridan</director>
+      <director>Stephen Kay</director>
+      <actor>Kevin Costner</actor>
+      <actor>Luke Grimes</actor>
+      <actor>Kelly Reilly</actor>
+      <actor>Cole Hauser</actor>
+      <actor>Wes Bentley</actor>
+      <actor>Gil Birmingham</actor>
+      <writer>Taylor Sheridan</writer>
+      <writer>John Linson</writer>
+    </credits>
+    <date>2019</date>
+    <icon src="https://media.elcinema.com/uploads/_150x200_d0e361732f21eba57a5d6a83188b4b93dae91b96caa647883dec8e597026ae1a.jpg" />
+    <country lang="en">U.S.</country>
+  </programme>
+  <programme start="20210728050500 +0200" stop="20210728060500 +0200" channel="OSN Series">
+    <title lang="en">The Chi S4</title>
+    <credits>
+      <director>Jet Wilkinson</director>
+      <director>Gandja Monteiro</director>
+      <actor>Jacob Latimore</actor>
+      <actor>Alex R. Hibbert</actor>
+      <actor>Miriam A. Hyman</actor>
+      <actor>Ntare Guma Mbaho Mwine</actor>
+      <actor>Yolonda Ross</actor>
+      <actor>Shamon Brown Jr.</actor>
+      <writer>Lena Waithe</writer>
+      <writer>Ricardo Gamboa</writer>
+    </credits>
+    <date>2021</date>
+    <icon src="https://media.elcinema.com/uploads/_150x200_7e169c5db231d41eab52b863257c45b8edc0752c005fcdf3769244d02b62ea6f.jpg" />
+    <country lang="en">US</country>
+  </programme>
   <programme start="20210725013000 +0200" stop="20210725030000 +0200" channel="OSN Enigma">
     <title lang="en">A Model Kidnapping</title>
     <desc lang="en">When the aspiring model Grace goes to a photoshoot for the fashion photographer Hunter, things take a terrifying turn when she finds herself kidnapped, as she has to find a way to free herself from his clutches.</desc>
@@ -20739,5 +23565,399 @@
     <star-rating system="MPAA">
       <value>6.4</value>
     </star-rating>
+  </programme>
+  <programme start="20210726221500 +0200" stop="20210727000000 +0200" channel="FOX ACTION MOVIES">
+    <title lang="en">Welcome Home</title>
+    <desc lang="en">A couple who are trying to mend their relationship, spend a weekend at a vacation rental home in the Italian countryside, only to find themselves the target of the homeowner's evil plans.(n)</desc>
+    <credits>
+      <director>George Ratliff</director>
+      <actor>Francesco Acquaroli</actor>
+      <actor>Riccardo Scamarcio</actor>
+      <actor>Emily Ratajkowski</actor>
+      <actor>Aaron Paul</actor>
+      <actor>Katy Louise Saunders</actor>
+      <actor>Alice Bellagamba</actor>
+      <writer>David Levinson</writer>
+    </credits>
+    <date>2018</date>
+    <category lang="en">Thriller</category>
+    <icon src="https://media.elcinema.com/uploads/_150x200_030d127f587b854110f2502951f04d31324b6419665201dbb762216fe1dd3f39.jpg" />
+    <country lang="en">U.S.</country>
+    <star-rating system="MPAA">
+      <value>4.9</value>
+    </star-rating>
+  </programme>
+  <programme start="20210727000000 +0200" stop="20210727013000 +0200" channel="FOX ACTION MOVIES">
+    <title lang="en">Transporter 2</title>
+    <desc lang="en">Frank Martin is a former Special Forces operative who transfers goods for money. His latest job is to chauffer a politician's young son to and from school. When young Jack is kidnapped, Frank races to save the boy and foil the kidnapper's plot to release a deadly virus.(n)</desc>
+    <credits>
+      <director>Louis Leterrier</director>
+      <actor>Jason Statham</actor>
+      <actor>Amber Valletta</actor>
+      <actor>AnnaLynne McCord</actor>
+      <actor>Kate Nota</actor>
+      <actor>Jim R. Coleman</actor>
+      <actor>Robert Small</actor>
+      <writer>Luc Besson</writer>
+      <writer>Robert Mark Kamen</writer>
+    </credits>
+    <date>2005</date>
+    <icon src="https://media.elcinema.com/uploads/_150x200_cfe8e4074899ae45959b48f79a8f18d348ad4a2ccc7336affc65e0caf2ad80de.jpg" />
+    <country lang="en">France</country>
+    <country lang="en">U.S.</country>
+    <star-rating system="MPAA">
+      <value>7.2</value>
+    </star-rating>
+  </programme>
+  <programme start="20210727013000 +0200" stop="20210727030000 +0200" channel="FOX ACTION MOVIES">
+    <title lang="en">Close</title>
+    <desc lang="en">Zoe Tanner is the troubled daughter of a recently deceased mining business tycoon. She is given all of her father’s shares in his company, which upsets her stepmother and the CEO, Rima. While Rima is competing for a billion dollar phosphate mining deal in Morocco, Zoe and her female CPO (Close Protection Officer), Sam, are attacked and must survive corrupt policemen driven by business rivals.(n)</desc>
+    <credits>
+      <director>Vicky Jewson</director>
+      <actor>Noomi Rapace</actor>
+      <actor>Indira Varma</actor>
+      <actor>Sophie Nélisse</actor>
+      <actor>Eoin Macken</actor>
+      <actor>Akin Gazi</actor>
+      <actor>Charley Palmer Rothwell</actor>
+      <writer>Rupert Whitaker</writer>
+      <writer>Vicky Jewson</writer>
+    </credits>
+    <date>2019</date>
+    <category lang="en">Action</category>
+    <category lang="en">Thriller</category>
+    <icon src="https://media.elcinema.com/uploads/_150x200_79aa1998f3b631b92b07e4231af1ab7bcc95021749ea770d5a77c14b507be6d7.jpg" />
+    <country lang="en">U.K.</country>
+    <country lang="en">U.S.</country>
+    <rating system="MPAA">
+      <value>TV-MA</value>
+    </rating>
+    <star-rating system="MPAA">
+      <value>5.2</value>
+    </star-rating>
+  </programme>
+  <programme start="20210727030000 +0200" stop="20210727051500 +0200" channel="FOX ACTION MOVIES">
+    <title lang="en">The Game</title>
+    <desc lang="en">Nicholas Van Orton is a very wealthy and lonely man. On each birthday he remains alone, but things change on his 48th birthday, when he's given a card to a company that takes him into a bizarre game.(n)</desc>
+    <credits>
+      <director>David Fincher</director>
+      <actor>Michael Douglas</actor>
+      <actor>Sean Penn</actor>
+      <actor>James Rebhorn</actor>
+      <actor>Carroll Baker</actor>
+      <actor>Armin Mueller-Stahl</actor>
+      <actor>Peter Dante</actor>
+      <writer>Michael Ferris</writer>
+      <writer>John Brancato</writer>
+    </credits>
+    <date>1997</date>
+    <icon src="https://media.elcinema.com/uploads/_150x200_fd0c43866eb8bbb6935e31c9876fe9a64b05c146ca0386c02855f45fa46fd024.jpg" />
+    <country lang="en">U.S.</country>
+    <star-rating system="MPAA">
+      <value>6.1</value>
+    </star-rating>
+  </programme>
+  <programme start="20210727051500 +0200" stop="20210727071500 +0200" channel="FOX ACTION MOVIES">
+    <title lang="en">Resident Evil: Apocalypse</title>
+    <desc lang="en">After Raccoon City gets overrun by the undead as the virus from the Umbrella Corporation is unleashed, Alice is thrust into the heart of a nightmare one more time as she teams up with a group of survivors to try and leave the city before it gets blown to pieces by the Umbrella Corporation.(n)</desc>
+    <credits>
+      <director>Alexander Witt</director>
+      <actor>Milla Jovovich</actor>
+      <actor>Sienna Guillory</actor>
+      <actor>Oded Fehr</actor>
+      <actor>Thomas Kretschmann</actor>
+      <actor>Eric Mabius</actor>
+      <actor>Jared Harris</actor>
+      <writer>Paul W.S. Anderson</writer>
+    </credits>
+    <date>2004</date>
+    <category lang="en">Science Fiction</category>
+    <icon src="https://media.elcinema.com/uploads/_150x200_da9edd42053590be7a04f58ac4545cb044f4bfbe6c1c7e6336526ef94262c888.jpg" />
+    <country lang="en">U.S.</country>
+    <star-rating system="MPAA">
+      <value>5.3</value>
+    </star-rating>
+  </programme>
+  <programme start="20210727071500 +0200" stop="20210727093000 +0200" channel="FOX ACTION MOVIES">
+    <title lang="en">The Bourne Ultimatum</title>
+    <desc lang="en">Jason Bourne has a close call with a corrupt C.I.A offical and his group of agents in a new assassination program. At the same time, he looks for answers about his life as a professional hit-man.(n)</desc>
+    <credits>
+      <director>Paul Greengrass</director>
+      <actor>David Strathairn</actor>
+      <actor>Édgar Ramírez</actor>
+      <actor>Paddy Considine</actor>
+      <actor>Joan Allen</actor>
+      <actor>Daniel Bruhl</actor>
+      <actor>Albert Finney</actor>
+      <writer>Scott Zee. Burns</writer>
+      <writer>Robert Ludlum</writer>
+    </credits>
+    <date>2007</date>
+    <category lang="en">Action</category>
+    <icon src="https://media.elcinema.com/uploads/_150x200_260f61c70784b2547c7303ef1c293e55d5e0ad60615eb0559c3644342e76caab.jpg" />
+    <country lang="en">Germany</country>
+    <country lang="en">U.S.</country>
+    <star-rating system="MPAA">
+      <value>7.1</value>
+    </star-rating>
+  </programme>
+  <programme start="20210727093000 +0200" stop="20210727113000 +0200" channel="FOX ACTION MOVIES">
+    <title lang="en">The Predator</title>
+    <desc lang="en">A ragtag crew of ex-soldiers come face to face with a monster in a desolate jungle, and one after the other, they get lost and become hanging bodies on the trees. So when the only survivor from a previous encounter with the same monster emerges, they discover they are in a much bigger problem than they had imagined.(n)</desc>
+    <credits>
+      <director>Shane Black</director>
+      <actor>Boyd Holbrook</actor>
+      <actor>Trevante Rhodes</actor>
+      <actor>Jacob Tremblay</actor>
+      <actor>Keegan-Michael Key</actor>
+      <actor>Olivia Munn</actor>
+      <actor>Sterling K. Brown</actor>
+      <writer>Fred Dekker</writer>
+      <writer>Shane Black</writer>
+    </credits>
+    <date>2018</date>
+    <category lang="en">Horror</category>
+    <category lang="en">Science Fiction</category>
+    <icon src="https://media.elcinema.com/uploads/_150x200_1e2781f0ecf8a789205d5c8f2c3e788f6177b410a871ec758812d1996d7c37dd.jpg" />
+    <country lang="en">Canada</country>
+    <country lang="en">U.S.</country>
+    <star-rating system="MPAA">
+      <value>4.3</value>
+    </star-rating>
+  </programme>
+  <programme start="20210727113000 +0200" stop="20210727130000 +0200" channel="FOX ACTION MOVIES">
+    <title lang="en">Hancock</title>
+    <desc lang="en">A super hero works for civil security in Los Angeles, and due to his recklessness causes millions of dollars worth of damages which he then tries to make up for by improving his image.(n)</desc>
+    <credits>
+      <director>Peter Berg</director>
+      <actor>Charlize Theron</actor>
+      <actor>Will Smith</actor>
+      <actor>Michael Mann</actor>
+      <actor>Thomas Lennon</actor>
+      <actor>Jason Bateman</actor>
+      <actor>Eddie Marsan</actor>
+      <writer>Vincent Ngo</writer>
+      <writer>Vince Gilligan</writer>
+    </credits>
+    <date>2008</date>
+    <category lang="en">Fantasy</category>
+    <category lang="en">Action</category>
+    <icon src="https://media.elcinema.com/uploads/_150x200_7c95468284e972f66a54796f07191aefa76da9bc5b11753d345e3c71568131bf.jpg" />
+    <country lang="en">U.S.</country>
+    <star-rating system="MPAA">
+      <value>7.5</value>
+    </star-rating>
+  </programme>
+  <programme start="20210727130000 +0200" stop="20210727153000 +0200" channel="FOX ACTION MOVIES">
+    <title lang="en">Bad Boys II</title>
+    <desc lang="en">Mike and Marcus still work together as narcotics cops in Miami, but Mike is hiding the fact that he is dating Marcus's sister. Their boss, Captain Howard, gives them a new assignment regarding the flow of ecstasy pills into Miami.(n)</desc>
+    <credits>
+      <director>Michael Bay</director>
+      <actor>Will Smith</actor>
+      <actor>Martin Lawrence</actor>
+      <actor>Michael Shannon</actor>
+      <actor>Peter Stormare</actor>
+      <actor>Joe Pantoliano</actor>
+      <actor>Jordi Molla</actor>
+      <writer>Marianne Wibberley</writer>
+      <writer>Cormac Wibberley</writer>
+    </credits>
+    <date>2003</date>
+    <category lang="en">Crime</category>
+    <category lang="en">Thriller</category>
+    <icon src="https://media.elcinema.com/uploads/_150x200_f26559692c5b05ea30381b3296c2b8e54b4dcef248a3dc5ed7ba6bf9263a9fde.jpg" />
+    <country lang="en">U.S.</country>
+    <rating system="MPAA">
+      <value>R</value>
+    </rating>
+    <star-rating system="MPAA">
+      <value>6</value>
+    </star-rating>
+  </programme>
+  <programme start="20210727153000 +0200" stop="20210727170000 +0200" channel="FOX ACTION MOVIES">
+    <title lang="en">Transporter 2</title>
+    <desc lang="en">Frank Martin is a former Special Forces operative who transfers goods for money. His latest job is to chauffer a politician's young son to and from school. When young Jack is kidnapped, Frank races to save the boy and foil the kidnapper's plot to release a deadly virus.(n)</desc>
+    <credits>
+      <director>Louis Leterrier</director>
+      <actor>Jason Statham</actor>
+      <actor>Amber Valletta</actor>
+      <actor>AnnaLynne McCord</actor>
+      <actor>Kate Nota</actor>
+      <actor>Jim R. Coleman</actor>
+      <actor>Robert Small</actor>
+      <writer>Luc Besson</writer>
+      <writer>Robert Mark Kamen</writer>
+    </credits>
+    <date>2005</date>
+    <icon src="https://media.elcinema.com/uploads/_150x200_cfe8e4074899ae45959b48f79a8f18d348ad4a2ccc7336affc65e0caf2ad80de.jpg" />
+    <country lang="en">France</country>
+    <country lang="en">U.S.</country>
+    <star-rating system="MPAA">
+      <value>7.2</value>
+    </star-rating>
+  </programme>
+  <programme start="20210727170000 +0200" stop="20210727184500 +0200" channel="FOX ACTION MOVIES">
+    <title lang="en">The Darkest Minds</title>
+    <desc lang="en">When teens mysteriously develop powerful new abilities, they are declared a threat by the government and detained. Sixteen-year-old Ruby, escapes her camp and joins a group of runaway teens seeking safe haven. Soon this newfound group realizes that they must wage a resistance against adults in order to take back control of their future.(n)</desc>
+    <credits>
+      <director>Jennifer Yuh</director>
+      <actor>Amandla Stenberg</actor>
+      <actor>Mandy Moore</actor>
+      <actor>Gwendoline Christie</actor>
+      <actor>Harris Dickinson</actor>
+      <actor>Wallace Langham</actor>
+      <actor>Golden Brooks</actor>
+      <writer>Chad Hodge</writer>
+      <writer>Alexandra Bracken</writer>
+    </credits>
+    <date>2018</date>
+    <category lang="en">Thriller</category>
+    <category lang="en">Science Fiction</category>
+    <icon src="https://media.elcinema.com/uploads/_150x200_a0db484008561c531e53615998a58e4f8846353db97dfe4eb659a62c86772463.jpg" />
+    <country lang="en">U.S.</country>
+    <star-rating system="MPAA">
+      <value>5.8</value>
+    </star-rating>
+  </programme>
+  <programme start="20210727184500 +0200" stop="20210727203000 +0200" channel="FOX ACTION MOVIES">
+    <title lang="en">The Other Guys</title>
+    <desc lang="en">Two new York detectives, through a once-in-a-lifetime opportunity, gain a reputation for being among the best city-wide, but things are not exactly as they were thinking, especially when they investigate David Ershon.(n)</desc>
+    <credits>
+      <director>Adam McKay</director>
+      <actor>Will Ferrell</actor>
+      <actor>Michael Keaton</actor>
+      <actor>Samuel L. Jackson</actor>
+      <actor>Dwayne Johnson</actor>
+      <actor>Mark Wahlberg</actor>
+      <actor>Ben Schwartz</actor>
+      <writer>Adam McKay</writer>
+      <writer>Chris Henchy</writer>
+    </credits>
+    <date>2010</date>
+    <category lang="en">Thriller</category>
+    <category lang="en">Crime</category>
+    <icon src="https://media.elcinema.com/uploads/_150x200_b036c71d5b3733077e42d928882c02d73554e1923e66bb814df951ab829f270a.jpg" />
+    <country lang="en">U.S.</country>
+    <star-rating system="MPAA">
+      <value>6.1</value>
+    </star-rating>
+  </programme>
+  <programme start="20210727203000 +0200" stop="20210727221500 +0200" channel="FOX ACTION MOVIES">
+    <title lang="en">Legion</title>
+    <desc lang="en">A faraway diner becomes the battleground for the survival of the human race, where a legion of angels arrives to end the world, and the hope of mankind lies in a group of strangersrs trapped in the diner with Archangel Michael (Paul Bettany).(n)</desc>
+    <credits>
+      <director>Scott Stewart</director>
+      <actor>Paul Bettany</actor>
+      <actor>Lucas Black</actor>
+      <actor>Tyrese Gibson</actor>
+      <actor>Dennis Quaid</actor>
+      <actor>Charles S. Dutton</actor>
+      <actor>Adrianne Palicki</actor>
+      <writer>Peter Schink</writer>
+      <writer>Scott Stewart</writer>
+    </credits>
+    <date>2010</date>
+    <category lang="en">Action</category>
+    <category lang="en">Horror</category>
+    <icon src="https://media.elcinema.com/uploads/_150x200_7290efba2c5b7aa8067340becb214a089b420cf5847909abfdf35264cf9cb0db.jpg" />
+    <country lang="en">U.S.</country>
+    <rating system="MPAA">
+      <value>R</value>
+    </rating>
+  </programme>
+  <programme start="20210727221500 +0200" stop="20210728001500 +0200" channel="FOX ACTION MOVIES">
+    <title lang="en">Out of Sight</title>
+    <desc lang="en">When bank robber Jack Foley escapes from prison, he plans to pull off one last heist, while being pursued by U.S. Marshal Karen Sisco who finds herself attracted to him.(n)</desc>
+    <credits>
+      <director>Steven Soderbergh</director>
+      <actor>George Clooney</actor>
+      <actor>Jennifer Lopez</actor>
+      <actor>Ving Rhames</actor>
+      <actor>Don Cheadle</actor>
+      <actor>Catherine Keener</actor>
+      <actor>Steve Zahn</actor>
+      <writer>Elmore Leonard</writer>
+      <writer>Scott Frank</writer>
+    </credits>
+    <date>1998</date>
+    <category lang="en">Thriller</category>
+    <category lang="en">Drama</category>
+    <icon src="https://media.elcinema.com/uploads/_150x200_3f395a6ff908b6e015ff33cda283ff4bacb4c05b00d9ce34666a8a00b99d0314.jpg" />
+    <country lang="en">U.S.</country>
+    <rating system="MPAA">
+      <value>R</value>
+    </rating>
+    <star-rating system="MPAA">
+      <value>5.3</value>
+    </star-rating>
+  </programme>
+  <programme start="20210728001500 +0200" stop="20210728023000 +0200" channel="FOX ACTION MOVIES">
+    <title lang="en">Bad Boys II</title>
+    <desc lang="en">Mike and Marcus still work together as narcotics cops in Miami, but Mike is hiding the fact that he is dating Marcus's sister. Their boss, Captain Howard, gives them a new assignment regarding the flow of ecstasy pills into Miami.(n)</desc>
+    <credits>
+      <director>Michael Bay</director>
+      <actor>Will Smith</actor>
+      <actor>Martin Lawrence</actor>
+      <actor>Michael Shannon</actor>
+      <actor>Peter Stormare</actor>
+      <actor>Joe Pantoliano</actor>
+      <actor>Jordi Molla</actor>
+      <writer>Marianne Wibberley</writer>
+      <writer>Cormac Wibberley</writer>
+    </credits>
+    <date>2003</date>
+    <category lang="en">Crime</category>
+    <category lang="en">Thriller</category>
+    <icon src="https://media.elcinema.com/uploads/_150x200_f26559692c5b05ea30381b3296c2b8e54b4dcef248a3dc5ed7ba6bf9263a9fde.jpg" />
+    <country lang="en">U.S.</country>
+    <rating system="MPAA">
+      <value>R</value>
+    </rating>
+    <star-rating system="MPAA">
+      <value>6</value>
+    </star-rating>
+  </programme>
+  <programme start="20210728023000 +0200" stop="20210728041500 +0200" channel="FOX ACTION MOVIES">
+    <title lang="en">Welcome Home</title>
+    <desc lang="en">A couple who are trying to mend their relationship, spend a weekend at a vacation rental home in the Italian countryside, only to find themselves the target of the homeowner's evil plans.(n)</desc>
+    <credits>
+      <director>George Ratliff</director>
+      <actor>Francesco Acquaroli</actor>
+      <actor>Riccardo Scamarcio</actor>
+      <actor>Emily Ratajkowski</actor>
+      <actor>Aaron Paul</actor>
+      <actor>Katy Louise Saunders</actor>
+      <actor>Alice Bellagamba</actor>
+      <writer>David Levinson</writer>
+    </credits>
+    <date>2018</date>
+    <category lang="en">Thriller</category>
+    <icon src="https://media.elcinema.com/uploads/_150x200_030d127f587b854110f2502951f04d31324b6419665201dbb762216fe1dd3f39.jpg" />
+    <country lang="en">U.S.</country>
+    <star-rating system="MPAA">
+      <value>4.9</value>
+    </star-rating>
+  </programme>
+  <programme start="20210728041500 +0200" stop="20210728060000 +0200" channel="FOX ACTION MOVIES">
+    <title lang="en">Bird on a Wire</title>
+    <desc lang="en">As Rick divulges to the FBI information on the drug dealer Eugene Sorenson and busts a deal, he is put in witness protection and assumes a new identity as a gas station worker, only for an old crush to recognize him and for Sorenson to learn about it as he chases the duo across the country.(n)</desc>
+    <credits>
+      <director>John Badham</director>
+      <actor>Mel Gibson</actor>
+      <actor>Goldie Hawn</actor>
+      <actor>David Carradine</actor>
+      <actor>Bill Duke</actor>
+      <actor>Stephen Tobolowsky</actor>
+      <actor>Joan Severance</actor>
+      <writer>Louis Venosta</writer>
+    </credits>
+    <date>1990</date>
+    <category lang="en">Comedy</category>
+    <category lang="en">Action</category>
+    <icon src="https://media.elcinema.com/uploads/_150x200_4c63641b291b5356be8fb2ac1d37dfb11321f63935909fabe649c89202bd60a4.jpg" />
+    <country lang="en">U.S.</country>
+    <rating system="MPAA">
+      <value>PG-13</value>
+    </rating>
   </programme>
 </tv>
