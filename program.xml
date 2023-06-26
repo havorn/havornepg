@@ -98,245 +98,6 @@
     <display-name lang="en">Star Movies</display-name>
     <url>http://www.elcinema.com</url>
   </channel>
-  <programme start="20230625002500 +0000" stop="20230625002500 +0000" channel="etv.ee">
-    <title lang="et">Vanad ja kobedad</title>
-    <sub-title lang="et">Saun</sub-title>
-    <desc lang="et">Maie ja Silvi lähevad metsa ikebana materjali korjama ja peale seda sauna. Väino asendab Roometit sauna katlamajas ja Valdur, kes on saanud kutse kordusõppustele, läheb talle seltsi. Valdur saab peksa. Autorid Madis Milling ja Henrik Normann, stsenarist Peep Pedmanson, režissöör Rando Pettai, toimetaja Indrek Ibrus. Helilooja Mikk Targo, produtsent Kaupo Karelson.</desc>
-    <date>2000</date>
-    <category lang="et">Telesari</category>
-    <country lang="et">Eesti</country>
-    <episode-num system="onscreen">S1 E7</episode-num>
-  </programme>
-  <programme start="20230625002500 +0000" stop="20230625005100 +0000" channel="etv.ee">
-    <title lang="et">Vanad ja kobedad</title>
-    <sub-title lang="et">Kole lugu</sub-title>
-    <desc lang="et">Autoõnnetuses hukkub Silvi abikaasa Gunnar. Toimuvad matused. Maie saab kettkirja. Autorid Madis Milling ja Henrik Normann, stsenarist Peep Pedmanson, režissöör Rando Pettai, toimetaja Indrek Ibrus. Helilooja Mikk Targo, produtsent Kaupo Karelson.</desc>
-    <date>2000</date>
-    <category lang="et">Telesari</category>
-    <country lang="et">Eesti</country>
-    <episode-num system="onscreen">S1 E8</episode-num>
-  </programme>
-  <programme start="20230625005100 +0000" stop="20230625040000 +0000" channel="etv.ee">
-    <title lang="et">ERR.ee uudised</title>
-    <date>2023</date>
-    <category lang="et">Telesari</category>
-    <country lang="et">Eesti</country>
-    <episode-num system="onscreen">E175</episode-num>
-  </programme>
-  <programme start="20230625040000 +0000" stop="20230625045000 +0000" channel="etv.ee">
-    <title lang="et">Värviline maailm</title>
-    <title lang="en">What A Colourful World</title>
-    <desc lang="et">Maa. Sinine planeet, roheline planeet või hoopis värvidest lõkendav maailm? Kosmosest paistab maakera peamiselt sinise või rohelisena, kuid lähemal vaatlusel avab planeet oma tõelised aarded: lõputud värvivarjundid ja kaleidoskoopiliselt kireva elustiku. Tõelistest hiiglastest kuni tillukeste putukateni on kõigil abiks oma värvipalett, mis määrab väga palju.</desc>
-    <date>2020</date>
-    <category lang="et">Filmid</category>
-    <country lang="et">Austria</country>
-  </programme>
-  <programme start="20230625045000 +0000" stop="20230625050000 +0000" channel="etv.ee">
-    <title lang="et">Alutaguse rahvuspargi peidetud väärtused</title>
-    <sub-title lang="et">Alutaguse rahvuspargi peidetud väärtused</sub-title>
-    <desc lang="et">Eesti rahvusparkide loodust, ajalugu ja kultuuripärandit tutvustavate videotega tähistame Eesti looduskaitse 110. aastapäeva. Alutagusel on läbi aegade elanud palju loomi, laiutanud läbimatud õõtsikud ja mühisenud vägevad metsad. Sümbolpinnavormideks on mandriluited, mida kohalikud kutsuvad kriivadeks. Videod valmisid Keskkonnaameti ja OÜ Tammik Filmi koostöös.</desc>
-    <date>2020</date>
-    <category lang="et">Telesari</category>
-    <country lang="et">Eesti</country>
-    <episode-num system="onscreen">S1 E1</episode-num>
-  </programme>
-  <programme start="20230625050000 +0000" stop="20230625053000 +0000" channel="etv.ee">
-    <title lang="et">Osoon</title>
-    <desc lang="et">Nagu kõigis eluvaldkondades tuleb ka toidutootmises leida viise, kuidas oma keskkonnamõju vähendada. Kuidas teha rohepööret põllumajanduses nii, et ka inimesed söönuks saaksid? Pärnu jõel asunud Sindi paisu lammutamist alustati 2018. aastal ning 2020 valmis lõplikult ka paisu asemele rajatud tehiskärestik. Uurime koos kalateadlastega, kuidas taastub pea 200 aastat paisu taga olnud jõe kalastik. Autorid Kristo Elias ja Sander Loite, toimetaja Kaur Maran, režissöör Keiti Väliste, produtsent Hannela Lippus.</desc>
-    <date>2022</date>
-    <category lang="et">Telesari</category>
-    <country lang="et">Eesti</country>
-    <episode-num system="onscreen">S31 E1086</episode-num>
-  </programme>
-  <programme start="20230625053000 +0000" stop="20230625060000 +0000" channel="etv.ee">
-    <title lang="et">Reisile minuga</title>
-    <sub-title lang="et">Valdur Mikita Suislepas</sub-title>
-    <desc lang="et">Kujutage ette noort Mart Noormaad, kes istub Suislepas piimapuki otsas ja uurib taevatähti. Midagi mõistatuslikku ja salapärast on selles Suislepas alati olnud. Isegi tähed on siin säravamad kui mujal. Ja kui palju kuulsaid nimesid võib siitkandist leida: Betti Alver, Nikolai Baturin, August von Kotzebue ja paljud teised. Vooru mõisast, kus ennemuiste elas August von Kotzebue, on järel ainult suure kirjaniku kartulikelder. Muuseas Kotzebue näidenditele kirjutasid muusikat Beethoven, Schubert ja Salieri. Õhne jõge mööda saab paadiga sujuvalt sõita Võrtsjärvele, kus asub Arumetsa puhkeala, mis on väga privaatne ja omapärane koht. Artur Grossthal restaureeris Suislepas uhke veski. Filmisid Valdur Mikita, Tiina Park ja Peeter Ülevain. Saate tootis Free Studio.</desc>
-    <date>2020</date>
-    <category lang="et">Reisisaade</category>
-    <country lang="et">Eesti</country>
-    <episode-num system="onscreen">S14 E220</episode-num>
-  </programme>
-  <programme start="20230625060000 +0000" stop="20230625061500 +0000" channel="etv.ee">
-    <title lang="et">Aktuaalne Kaamera</title>
-    <date>2023</date>
-    <category lang="et">Uudised</category>
-    <country lang="et">Eesti</country>
-  </programme>
-  <programme start="20230625061500 +0000" stop="20230625071500 +0000" channel="etv.ee">
-    <title lang="et">Prillitoos</title>
-    <desc lang="et">Vaataame trükikojas, kuidas tulevad masinast kunstnik Vladimir Taigeri uusimad postmargid. Õpime piljardit mängima ja räägime südamest. Saatejuht Reet Linna, režissöör Kertu Köösel, toimetaja Marika Kaasik, produtsent Ene-Maris Tali.</desc>
-    <date>2022</date>
-    <category lang="et">Telesari</category>
-    <country lang="et">Eesti</country>
-    <episode-num system="onscreen">S43 E603</episode-num>
-  </programme>
-  <programme start="20230625071500 +0000" stop="20230625074500 +0000" channel="etv.ee">
-    <title lang="et">Eesti lood</title>
-    <title lang="en">Nõudehullud</title>
-    <sub-title lang="et">Nõudehullud</sub-title>
-    <desc lang="et">Koroonaga samal ajal hakkas levima haigus, millele pole ravi ega vaktsiini: nõudehullus. Pooleteise aastaga on kümned tuhanded saanud nakkuse, mis paneb neid väsimatult jahtima nostalgilisi tasse ja taldrikuid, nõuka-aja tarbeklaasi ja antiikseid tirinaid. Nõusid, mis vallandavad muidu mõistuspärastes inimestes jahikire ja omandiiha, viivad une ja raha. Filmi autoriteks on ühe nõudehullu pojad ja nende sõbrad, kelle emadest pole see haigus samuti mööda läinud. Režissöör, stsenarist, monteerija Eik Erik Sikk, operaator Ants Tammik, toimetaja Ylle Tampere, helirežissöör Ralf Schneider, helilooja Mattias Tirmaste, produtsent Veli Valentin Rajasaar.</desc>
-    <date>2022</date>
-    <category lang="et">Telesari</category>
-    <country lang="et">Eesti</country>
-    <episode-num system="onscreen">S20 E3</episode-num>
-  </programme>
-  <programme start="20230625074500 +0000" stop="20230625085500 +0000" channel="etv.ee">
-    <title lang="et">Hommik Anuga</title>
-    <desc lang="et">Isadepäeva puhul on stuudios isad Jüri Muttika ja Aigar Vaigu, doktor Anneli Talvik räägib polkovniku leskedest päriselus, kohviekspert Annar Alas räägib maailma parimast kohvist ja muusikat teeb Puuluup. Saatejuht Anu Välba, režissöör René Vilbre, tegevprodutsent Andres Arro.(c)</desc>
-    <date>2022</date>
-    <category lang="et">Telesari</category>
-    <country lang="et">Eesti</country>
-    <episode-num system="onscreen">S9 E282</episode-num>
-  </programme>
-  <programme start="20230625085500 +0000" stop="20230625091000 +0000" channel="etv.ee">
-    <title lang="et">Teemaõhtu kommentaarid</title>
-    <sub-title lang="et">Salmonid</sub-title>
-    <desc lang="et">Sarja "Salmonid" algusaegu meenutab sarja produtsent Even Tudeberg.(c)</desc>
-    <date>2023</date>
-    <category lang="et">Telesari</category>
-    <country lang="et">Eesti</country>
-    <episode-num system="onscreen">E3</episode-num>
-  </programme>
-  <programme start="20230625091000 +0000" stop="20230625103000 +0000" channel="etv.ee">
-    <title lang="et">Kontakt</title>
-    <sub-title lang="et">Elisabet Reinsalu ja Margus Tabor</sub-title>
-    <desc lang="et">Saates astuvad üles Elisabet Reinsalu ja Margus Tabor, kes lisaks lihast ning luust tegelastele on oma hääle andnud mitmetele tuntud teleseriaalidele ja multifilmidele. Saatejuhid Henrik Kalmet ja Veiko Tubin, dramaturg Paavo Piik. Režissöör Eva Katariina Taimre, produtsent Ruth Heinmaa.</desc>
-    <date>2015</date>
-    <category lang="et">Telesari</category>
-    <country lang="et">Eesti</country>
-    <episode-num system="onscreen">S1 E4</episode-num>
-  </programme>
-  <programme start="20230625103000 +0000" stop="20230625114500 +0000" channel="etv.ee">
-    <title lang="et">Karoliine Hõbelõng</title>
-    <desc lang="et">Pirtsakas printsess Karoliine tõrjub tagasi kõik kosilased ega pea paljuks neile ka riukaid mängida. Ühel päeval aga saab ta endale võrdse vastase. Pika ninaga jäetud kuningapoeg Kaspar saabub tagasi võluvokiga, mille muusika kedagi ükskõikseks ei jäta. Vana kuningaga tülli läinud Karoliine lahkub uhkelt lossist ja hakkab ise oma õnne otsima. Koos tundmatuks maskeerunud Kaspariga kohtub ta näkkide, libahuntide, röövlite ja sookollidega. Pikapeale saab tõrges taltsutatud. Helle Karise lavastatud lastefilm on mõtteline jätk "Nukitsamehe" seiklustele. Hoogsasse filmi on põimitud üllatavalt palju eesti rahvuslikku maailmavaadet ja looduspildikesi, mõne väikese efekti ning muusikaga luuakse meeldejääv muinasjutuline miljöö. Osades Chätrin Bagala, Martin Veinmann, Rein Aren, Tõnu Kark, Salme Reek, Siiri Sisask, Enn Klooren, Luule Komissarov, Ines Aru, Jüri Vlassov, Mihkel Smeljanski jt.</desc>
-    <date>1984</date>
-    <category lang="et">Filmid</category>
-    <country lang="et">Eesti</country>
-  </programme>
-  <programme start="20230625114500 +0000" stop="20230625130000 +0000" channel="etv.ee">
-    <title lang="et">Sellest saab meie suvi</title>
-    <desc lang="et">Karit, Doris, Joonas ja Fred on tavalised eesti noored, kes on lõpetamas 12. klassi ja astuvad samme iseseisvuse suunas. Võimalusi on palju ja valikute tegemine vahel päris keeruline. Olukord Eestis ja maailmas seab mitmesuguseid väljakutseid, ühiskonnas on palju lõhesid ning koroona ainult võimendab neid. Kõige selle sees tuleb aga jääda nooreks ja hoida olemise rõõmu. Film võimalustest ja valikutest, hirmudest ja üksindusest, vabadusest ja armastusest. See on ühe põlvkonna suureks kasvamise lugu tänases Eestis. Film on jätkuks 12 aastat tagasi tehtud dokumentaalfilmile „Aeg on siin”, milles jälgisime Kariti, Dorise, Fredi ja Joonase esimest kooliaastat.</desc>
-    <date>2022</date>
-    <country lang="et">Eesti</country>
-  </programme>
-  <programme start="20230625130000 +0000" stop="20230625140000 +0000" channel="etv.ee">
-    <title lang="et">TV 10 olümpiastarti</title>
-    <sub-title lang="et">Finaal</sub-title>
-    <desc lang="et">Gerd Kanter, Rasmus Mägi, Maicel Uibo, Janek Õiglane, Risto Lillemets, Karl Erik Nazarov, Karmen Bruus, Ksenija Balta ning kümned ja kümned Eesti kergejõustikutipud on välja kasvanud "TV 10 olümpiastarti" sarjast. Sügisel alanud sarja 52. hooaeg kulmineerus suure finaaliga Võrus, kus noori ergutas president Alar Karis. Ekraanile jõuavad mitmevõistluse võitjad ja parimad koolitiimid. Finaali raames peetud olümpiapäeval said kõik huvilised, põnnidest pensionärideni, proovida erinevaid suve- ja talispordialasid. TV 10 sarjas on edukad olnud võrkpallurid Liis Kullerkann ja Silver Maar, jalgpallurid Karol Mets ja Gert Kams, kogemusi saanud nii profirattur Tanel Kangert kui ka Ott Tänaku kaardilugeja Martin Järveoja. Saate toimetaja ja režissöör Anu Säärits.</desc>
-    <date>2023</date>
-    <category lang="et">Telesari</category>
-    <country lang="et">Eesti</country>
-    <episode-num system="onscreen">S52 E5</episode-num>
-  </programme>
-  <programme start="20230625140000 +0000" stop="20230625143000 +0000" channel="etv.ee">
-    <title lang="et">Homme põgeneme</title>
-    <desc lang="et">Viimane osa - mõned laagrilapsed on keset etendust minema jooksnud ja lapsevanemad nõuavad nüüd laagrijuhataja Carmenilt selgitusi. Marta, Ekke, Tobias, Rosabella ja Eva on taas metsas ning otsivad kadunud aaret. Aarde leidmine viib aga uute ohtlike seiklusteni, kuid tõeline must arheoloog ikkagi paljastub. Režissöör Kaire Russ, tootja Kassikuld OÜ.</desc>
-    <date>2022</date>
-    <category lang="et">Telesari</category>
-    <country lang="et">Eesti</country>
-    <episode-num system="onscreen">E8</episode-num>
-  </programme>
-  <programme start="20230625143000 +0000" stop="20230625153000 +0000" channel="etv.ee">
-    <title lang="et">Laulu- ja tantsumängud</title>
-    <desc lang="et">Uhke sarja lõpetame tõeliselt suurejooneliselt – esinevad tütarlastekoor “Ellerhein” ja Estonia Poistekoor ning pop-folk tantsurühm Uppsar ja pärimusmuusika tudengid Viljandi Kultuuriakadeemiast. Mängulaudade taga on Hirvo Surva, Üllar ja Karl Robert Saaremäe ning Maria Listra, Tõnis Niinemets ja Märt Agu. Lustimängu dirigeerib Margus Saar. Küsimused koostas Tiit Naarits, režissöörid Marek Miil ja Eva Katariina Taimre, toimetaja Kai Väärtnõu, produtsendid Karmel Killandi, Ruth Alaküla ja Riin Vann.</desc>
-    <date>2023</date>
-    <category lang="et">Telesari</category>
-    <country lang="et">Eesti</country>
-    <episode-num system="onscreen">S1 E8</episode-num>
-  </programme>
-  <programme start="20230625153000 +0000" stop="20230625154500 +0000" channel="etv.ee">
-    <title lang="et">Aktuaalne Kaamera</title>
-    <title lang="en">Pühap</title>
-    <date>2023</date>
-    <category lang="et">Uudised</category>
-    <country lang="et">Eesti</country>
-    <episode-num system="onscreen">E625</episode-num>
-  </programme>
-  <programme start="20230625154500 +0000" stop="20230625163000 +0000" channel="etv.ee">
-    <title lang="et">Eesti mäng</title>
-    <desc lang="et">Käes on “Eesti mängu” finaalsaade, kus kohtuvad eelnevate poolfinaalide võitjad - Hanna Martinson, Argo Aadli ja Taavi Libe. Ülipõnevat mängu juhib ja küsimusi esitab Gaute Kivistik.</desc>
-    <date>2023</date>
-    <category lang="et">Telesari</category>
-    <country lang="et">Eesti</country>
-    <episode-num system="onscreen">S13 E13</episode-num>
-  </programme>
-  <programme start="20230625163000 +0000" stop="20230625171500 +0000" channel="etv.ee">
-    <title lang="et">Isa Brown</title>
-    <sub-title lang="et">Unistuste saar</sub-title>
-    <desc lang="et">Imeilus päev saab kurjakuulutava alguse, kui laagrilistele mängitakse rõõmsa laulu asemel matusemarssi. Järgmisena leiab laagriülem endakujulise nuku, millele on nuga rindu löödud. Tehakse muidki süngeid tempe, laagrisse aga oodatakse tähtsaid külalisi. Nende seas on ka isa Brown ja Kemblefordi politsei, kel tuleb jõuda mõrvari jälile.</desc>
-    <date>2022</date>
-    <category lang="et">Telesari</category>
-    <country lang="et">Inglise</country>
-    <episode-num system="onscreen">S9 E7</episode-num>
-  </programme>
-  <programme start="20230625171500 +0000" stop="20230625180000 +0000" channel="etv.ee">
-    <title lang="et">Kümme kaadrit</title>
-    <sub-title lang="et">Erki Nool</sub-title>
-    <desc lang="et">Kümme kaadrit oma fotoalbumist on valinud välja olümpiavõitja Erki Nool, kes meenutab kirkamaid hetki lapsepõlvest, spordikarjäärist ja teistest tegemistest. Saatejuht Kristjan Jõekalda.</desc>
-    <date>2023</date>
-    <category lang="et">Telesari</category>
-    <country lang="et">Eesti</country>
-    <episode-num system="onscreen">S1 E6</episode-num>
-  </programme>
-  <programme start="20230625180000 +0000" stop="20230625182000 +0000" channel="etv.ee">
-    <title lang="et">Aktuaalne Kaamera</title>
-    <date>2023</date>
-    <category lang="et">Uudised</category>
-    <country lang="et">Eesti</country>
-    <episode-num system="onscreen">E625</episode-num>
-  </programme>
-  <programme start="20230625182000 +0000" stop="20230625183500 +0000" channel="etv.ee">
-    <title lang="et">Sport. Sport</title>
-    <date>2023</date>
-    <category lang="et">Telesari</category>
-    <country lang="et">Eesti</country>
-    <episode-num system="onscreen">E49</episode-num>
-  </programme>
-  <programme start="20230625183500 +0000" stop="20230625192000 +0000" channel="etv.ee">
-    <title lang="et">Jäljed</title>
-    <desc lang="et">Kinveni ees seisev ülesanne läheb aina keerulisemaks. Ta saab teise rassistliku sisuga kirja, mis aga on kirjutatud teistsuguse käekirjaga. Juurdlusega ühineb ka tema abikaasa Azra. Loch Leest leitakse lõualoo ja Kathy kutsutakse inimjäänuseid tuvastama. Ta võtab kaasa Erika, kes paraku näeb rohkem, kui ta näha sooviks.</desc>
-    <date>2021</date>
-    <category lang="et">Telesari</category>
-    <country lang="et">Inglise</country>
-    <episode-num system="onscreen">S2 E3</episode-num>
-  </programme>
-  <programme start="20230625192000 +0000" stop="20230625205000 +0000" channel="etv.ee">
-    <title lang="et">Hercule Poirot</title>
-    <title lang="en">The Big Four</title>
-    <sub-title lang="et">Suur Nelik</sub-title>
-    <desc lang="et">Maailmarahu toetuseks korraldatakse rahvusvaheline vastuvõtt, mille tipuks on malematš eaka vene suurmeistriga. Paraku sureb malesuurmeister otse malelaua taga ja ajakirjanduses ilmuvad lood salapärasest Suurest Nelikust. Poirot'gi hakkab uurima poliitilisi telgitaguseid, kuid taipab peagi, et mõrvar tegutseb märksa isiklikumatel motiividel.</desc>
-    <date>2013</date>
-    <category lang="et">Telesari</category>
-    <country lang="et">Inglise</country>
-    <episode-num system="onscreen">S13 E2</episode-num>
-  </programme>
-  <programme start="20230625205000 +0000" stop="20230625215000 +0000" channel="etv.ee">
-    <title lang="et">Ööülikooli rännakud</title>
-    <sub-title lang="et">Valdur Mikita</sub-title>
-    <desc lang="et">Eestis on veel tõelist perifeeriat, metsadetagust maailma ja mõistusetaguseid asju. Semiootik ja kirjanik Valdur Mikita kõneles maakodust kui "teadvuse kiirendist" - üks paigake siin ilmas, kus on mõnus olla ja kerge mõtelda. Läheme Valdurile perifeeriasse külla. Kolame metsas, teeme süüa ja laseme videviku valgusel ennast kanda. Režissöör Erle Veber, autor-toimetaja Jaan Tootsen, operaatorid Kullar Viimne, Ivar Taim ja Erle Veber.</desc>
-    <date>2013</date>
-    <category lang="et">Telesari</category>
-    <country lang="et">Eesti</country>
-    <episode-num system="onscreen">S1 E4</episode-num>
-  </programme>
-  <programme start="20230625215000 +0000" stop="20230625223500 +0000" channel="etv.ee">
-    <title lang="et">Unistuste maja</title>
-    <sub-title lang="et">Jõulud 1932</sub-title>
-    <desc lang="et">Vicky teeb raske otsuse ja ei abiellu Wilhelmiga. Helene annab teada, et kavatseb abielu lahutada. Noored veedavad jõuluõhtu koos. Jonassi uus sooduskaubamaja on avatud.</desc>
-    <date>2022</date>
-    <category lang="et">Telesari</category>
-    <country lang="et">Saksa</country>
-    <episode-num system="onscreen">S2 E3</episode-num>
-  </programme>
-  <programme start="20230625223500 +0000" stop="20230626001300 +0000" channel="etv.ee">
-    <title lang="et">Tordikindral</title>
-    <title lang="en">Tårtgeneralen</title>
-    <desc lang="et">Filip Hammari ja Fredrik Wikingssoni südamlik, nukravõitu alatooniga tõsielusündmustel põhinev lugu. 1980. aastate keskel kuulutab Rootsi televisiooni saatejuht Jan Guillou Köpingi Rootsi kõige igavamaks linnaks. Kogukond on halvatud, kui kogu maa naerab nende üle, kuid külajoodik Hasse P otsustab tõestada, et "need sunnikud Stockholmis" eksivad. Tal tuleb kõrgelennuline idee: küpsetada maailma kõige pikem võileivatort, mis viiks Köpingi (ja muidugi ka Hasse P) "Guinnessi rekordite raamatusse". Kuid rekordite tee on konarlikum, kui võiks arvata.</desc>
-    <date>2018</date>
-    <category lang="et">Filmid</category>
-    <country lang="et">Rootsi</country>
-  </programme>
   <programme start="20230626001300 +0000" stop="20230626040000 +0000" channel="etv.ee">
     <title lang="et">ERR.ee uudised</title>
     <date>2023</date>
@@ -1085,7 +846,7 @@
   <programme start="20230628205000 +0000" stop="20230628213500 +0000" channel="etv.ee">
     <title lang="et">Sõbrad muusikas</title>
     <sub-title lang="et">Andres Valkonen ja Leelo Tungal</sub-title>
-    <desc lang="et">Andres Valkoneni loodud laul "Moonika" valiti viimase 100 aasta kaunima laulu hulka. Muusika on kirjutatud Leelo Tungla sõnadele ja sellest laulust sai alguse kahe looja sõprus ning pikka aega kestnud koostöö. Peale suure hulga tunnustust ja preemiaid pälvinud laulude on Andres Valkonen ning Raimo Kangro loonud ka Eesti esimese rockooperi, mille sõnade autor on samuti Leelo Tungal. Saatejuht Reet Linna, režissöör Märten Vaher, toimetajad Ene-Maris Tali ja Marika Kaasik, assistent Katrin Tõnts, produtsent Ene-Maris Tali.(n)</desc>
+    <desc lang="et">Andres Valkoneni loodud laul "Moonika" valiti viimase 100 aasta kaunima laulu hulka. Muusika on kirjutatud Leelo Tungla sõnadele ja sellest laulust sai alguse kahe looja sõprus ning pikka aega kestnud koostöö. Peale suure hulga tunnustust ja preemiaid pälvinud laulude on Andres Valkonen ning Raimo Kangro loonud ka Eesti esimese rockooperi, mille sõnade autor on samuti Leelo Tungal. Saatejuht Reet Linna, režissöör Märten Vaher, toimetajad Ene-Maris Tali ja Marika Kaasik, assistent Katrin Tõnts, produtsent Ene-Maris Tali.</desc>
     <date>2020</date>
     <category lang="et">Telesari</category>
     <country lang="et">Eesti</country>
@@ -1094,7 +855,7 @@
   <programme start="20230628213500 +0000" stop="20230628223000 +0000" channel="etv.ee">
     <title lang="et">Ohtlik lend</title>
     <sub-title lang="et">Isa ja tütar</sub-title>
-    <desc lang="et">Miljonäri surmaga kaasnevad alati vaidlused päranduse ümber ja süüdistused pereringis. Kõige selle keskel peab sarja kriminaalne tandem õige süüdlase leidma - ja nagu sellest veel ei piisaks - eksabikaasa saadab Vistrikule kaela nende suitsiidse tütre Kaja.(n)</desc>
+    <desc lang="et">Miljonäri surmaga kaasnevad alati vaidlused päranduse ümber ja süüdistused pereringis. Kõige selle keskel peab sarja kriminaalne tandem õige süüdlase leidma - ja nagu sellest veel ei piisaks - eksabikaasa saadab Vistrikule kaela nende suitsiidse tütre Kaja.</desc>
     <date>2006</date>
     <category lang="et">Telesari</category>
     <country lang="et">Eesti</country>
@@ -1102,7 +863,7 @@
   </programme>
   <programme start="20230628223000 +0000" stop="20230628230300 +0000" channel="etv.ee">
     <title lang="et">Hendrik Relvega Borneo vihmametsas</title>
-    <desc lang="et">Teekond penanide küla poole viib rändurid nii mägede vahele metsaveoteedele kui ka orupõhjades voolavatele mäslevatele jõgedele. Viimane osa rännakust tuleb läbida jalgsi, libedatel kividel, madalas jõesängis. Autor Hendrik Relve, režissöör Kalle Käesel, tootja Osakond OÜ.(n)</desc>
+    <desc lang="et">Teekond penanide küla poole viib rändurid nii mägede vahele metsaveoteedele kui ka orupõhjades voolavatele mäslevatele jõgedele. Viimane osa rännakust tuleb läbida jalgsi, libedatel kividel, madalas jõesängis. Autor Hendrik Relve, režissöör Kalle Käesel, tootja Osakond OÜ.</desc>
     <date>2019</date>
     <category lang="et">Telesari</category>
     <country lang="et">Eesti</country>
@@ -1117,7 +878,7 @@
   </programme>
   <programme start="20230629040000 +0000" stop="20230629045500 +0000" channel="etv.ee">
     <title lang="et">Prillitoos</title>
-    <desc lang="et">Kunstnik Regina Lukk-Toompere räägib, kuidas sünnivad raamatutesse pildid. Psühholoog Rita Rätsepp annab nõu vanavanematele, Lia Virkus valmistab midagi maitsvat ja saatesse mahub muudki huvitavat. Saatejuht Reet Linna, režissöör Kertu Köösel, toimetaja Marika Kaasik, produtsent Ene-Maris Tali.(n)</desc>
+    <desc lang="et">Kunstnik Regina Lukk-Toompere räägib, kuidas sünnivad raamatutesse pildid. Psühholoog Rita Rätsepp annab nõu vanavanematele, Lia Virkus valmistab midagi maitsvat ja saatesse mahub muudki huvitavat. Saatejuht Reet Linna, režissöör Kertu Köösel, toimetaja Marika Kaasik, produtsent Ene-Maris Tali.</desc>
     <date>2021</date>
     <category lang="et">Telesari</category>
     <country lang="et">Eesti</country>
@@ -1125,7 +886,7 @@
   </programme>
   <programme start="20230629045500 +0000" stop="20230629054000 +0000" channel="etv.ee">
     <title lang="et">Maahommik</title>
-    <desc lang="et">Läti piiri ääres Lilli külas elav vanaema Ly võtab rõõmuga seelikusappa nii omad kui ka võõrad põnnid, et õpetada neile loodusega kooselamise kunsti ja mulgi keelt. Kiidjärve kaldal Põlvamaal asub pisike Itaalia. Karl Feigenbaum arendab seal viinamarjaistandust ja veinitalu. Ühtlasi otsib mees üha uusi eksootilisi maitseid, mida Eesti tingimustes kasvatada, muuhulgas maitseme näiteks sidrunkurki. Eva Luigas võtab meid kaasa Anneli Patraili Südamete aeda. Saatejuht Kerli Dello, režissöör Maarika Lauri, operaator Tanel Velli-Vällik, produtsent Kadi Katarina Priske.(n)</desc>
+    <desc lang="et">Läti piiri ääres Lilli külas elav vanaema Ly võtab rõõmuga seelikusappa nii omad kui ka võõrad põnnid, et õpetada neile loodusega kooselamise kunsti ja mulgi keelt. Kiidjärve kaldal Põlvamaal asub pisike Itaalia. Karl Feigenbaum arendab seal viinamarjaistandust ja veinitalu. Ühtlasi otsib mees üha uusi eksootilisi maitseid, mida Eesti tingimustes kasvatada, muuhulgas maitseme näiteks sidrunkurki. Eva Luigas võtab meid kaasa Anneli Patraili Südamete aeda. Saatejuht Kerli Dello, režissöör Maarika Lauri, operaator Tanel Velli-Vällik, produtsent Kadi Katarina Priske.</desc>
     <date>2022</date>
     <category lang="et">Telesari</category>
     <country lang="et">Eesti</country>
@@ -1133,7 +894,7 @@
   </programme>
   <programme start="20230629054000 +0000" stop="20230629061000 +0000" channel="etv.ee">
     <title lang="et">Ringvaade suvel</title>
-    <desc lang="et">"Ringvaade" toob suvel vaatajate ette Eesti elu kirevaimad tegelased ja suurimad seiklused. Saatejuhid Grete Lõbu, Marko Reikop, Anna Pihl, Hannes Hermaküla ja Jüri Muttika on eetris ning igav nendega ei hakka.(n)</desc>
+    <desc lang="et">"Ringvaade" toob suvel vaatajate ette Eesti elu kirevaimad tegelased ja suurimad seiklused. Saatejuhid Grete Lõbu, Marko Reikop, Anna Pihl, Hannes Hermaküla ja Jüri Muttika on eetris ning igav nendega ei hakka.</desc>
     <date>2023</date>
     <category lang="et">Telesari</category>
     <country lang="et">Eesti</country>
@@ -1141,7 +902,7 @@
   </programme>
   <programme start="20230629061000 +0000" stop="20230629065500 +0000" channel="etv.ee">
     <title lang="et">Armastuse laps</title>
-    <desc lang="et">Annie ja Viv on tagasi Vietnamist ning annavad oma osa sõjavastasesse võitlusse. Martha valmistub pulmadeks, kuid esimene kohtumine äiaga ei tõota midagi head.(n)</desc>
+    <desc lang="et">Annie ja Viv on tagasi Vietnamist ning annavad oma osa sõjavastasesse võitlusse. Martha valmistub pulmadeks, kuid esimene kohtumine äiaga ei tõota midagi head.</desc>
     <date>2015</date>
     <category lang="et">Telesari</category>
     <country lang="et">Austraalia</country>
@@ -1150,7 +911,7 @@
   <programme start="20230629065500 +0000" stop="20230629073000 +0000" channel="etv.ee">
     <title lang="et">Lennud</title>
     <sub-title lang="et">Lavakunstikooli IV lend (1966-1970)</sub-title>
-    <desc lang="et">Saade lavakunstikateedri IV lennust, kus õppisid Lembit Ulfsak, Tõnu Tepandi, Helene Vannari, Kaarel Kilvet ja Väino Uibo. Ometi ei koosne ükski kursus ainult populaarsetest nimedest. Saate tegid Reet Neimar, Vilja Palm ja Anne Tuuling.(n)</desc>
+    <desc lang="et">Saade lavakunstikateedri IV lennust, kus õppisid Lembit Ulfsak, Tõnu Tepandi, Helene Vannari, Kaarel Kilvet ja Väino Uibo. Ometi ei koosne ükski kursus ainult populaarsetest nimedest. Saate tegid Reet Neimar, Vilja Palm ja Anne Tuuling.</desc>
     <date>1992</date>
     <category lang="et">Telesari</category>
     <country lang="et">Eesti</country>
@@ -1158,7 +919,7 @@
   </programme>
   <programme start="20230629073000 +0000" stop="20230629091000 +0000" channel="etv.ee">
     <title lang="et">Regina</title>
-    <desc lang="et">Kaljo Kiisa ekraniseering Aimée Beekmani romaanist "Valikuvõimalus" käsitleb vanemate vastutust järeltulijate eest. Kena, haritud ja iseseisev Regina kuuleb oma kaaslaselt Tiidult, et see abiellub noore lapseootel tüdrukuga. Regina saab päranduseks maja väikeses alevis. Elumuutuseks on nii põhjus kui ka võimalus ja Regina kolib pealinnast ära. Üksi ta maja ja aiaga toime ei tule ning Regina leiab kuldsete kätega Antsu, kes on küll joodik, aga alevis paremat pole võtta. Kuna mees on üksik, leiab Regina, et mõistlik on temaga abielluda, kuid lapsed otsustab ta saada karskete ja tervete meestega. Tema tegevusplaan toimib, kuni ilmneb midagi, millega ta ei arvestanud. Peaosas Ülle Kaljuste, teistes rollides Tõnu Kark, Rein Aren, Ita Ever, Evald Hermaküla, Madis Kalmet jt.(n)</desc>
+    <desc lang="et">Kaljo Kiisa ekraniseering Aimée Beekmani romaanist "Valikuvõimalus" käsitleb vanemate vastutust järeltulijate eest. Kena, haritud ja iseseisev Regina kuuleb oma kaaslaselt Tiidult, et see abiellub noore lapseootel tüdrukuga. Regina saab päranduseks maja väikeses alevis. Elumuutuseks on nii põhjus kui ka võimalus ja Regina kolib pealinnast ära. Üksi ta maja ja aiaga toime ei tule ning Regina leiab kuldsete kätega Antsu, kes on küll joodik, aga alevis paremat pole võtta. Kuna mees on üksik, leiab Regina, et mõistlik on temaga abielluda, kuid lapsed otsustab ta saada karskete ja tervete meestega. Tema tegevusplaan toimib, kuni ilmneb midagi, millega ta ei arvestanud. Peaosas Ülle Kaljuste, teistes rollides Tõnu Kark, Rein Aren, Ita Ever, Evald Hermaküla, Madis Kalmet jt.</desc>
     <date>1989</date>
     <category lang="et">Filmid</category>
     <country lang="et">Eesti</country>
@@ -1166,7 +927,7 @@
   <programme start="20230629091000 +0000" stop="20230629093000 +0000" channel="etv.ee">
     <title lang="et">Elu lugu</title>
     <sub-title lang="et">Aita Vaher</sub-title>
-    <desc lang="et">Hõbehäälne Aita Vaher on näitleja, viie lapse ema, kondiväänaja Vello Vaheri abikaasa, peretsirkuse liige ja eneseväljenduskunsti õpetaja. Kohtusime temaga  GAIA koolis. Küsib Reet Linna, režissöör Kertu Köösel, toimetaja Marika Kaasik, produtsent Ene-Maris Tali.(n)</desc>
+    <desc lang="et">Hõbehäälne Aita Vaher on näitleja, viie lapse ema, kondiväänaja Vello Vaheri abikaasa, peretsirkuse liige ja eneseväljenduskunsti õpetaja. Kohtusime temaga  GAIA koolis. Küsib Reet Linna, režissöör Kertu Köösel, toimetaja Marika Kaasik, produtsent Ene-Maris Tali.</desc>
     <date>2022</date>
     <category lang="et">Telesari</category>
     <country lang="et">Eesti</country>
@@ -1174,7 +935,7 @@
   </programme>
   <programme start="20230629093000 +0000" stop="20230629100000 +0000" channel="etv.ee">
     <title lang="et">Õpe ei lõpe</title>
-    <desc lang="et">Aina enam leiavad tee täiskasvanuõppesse ka inimesed, kel erinevatel põhjustel on lõpetamata jäänud ka kesk- või lausa põhiharidus. Olgu väikese koolis käimise pausi põhjuseks pere loomine või tööalased väljakutsed - kõrge motivatsiooniga õppija naaseb kooli säravail silmil. Kuidas jagavad end pere-, töö- ja koolielu vahel lapsevanemad Kelly ja Anne-Mari? Kuidas jätkas oma haridusteed Tarmo, kel omal ajal jäi lõpetamata põhiharidus. Autor Sigrid Salutee, montaažirežissöör Elar Järvet, operaator Meelis Mikker, tegevprodutsent Birgit Rae.(n)</desc>
+    <desc lang="et">Aina enam leiavad tee täiskasvanuõppesse ka inimesed, kel erinevatel põhjustel on lõpetamata jäänud ka kesk- või lausa põhiharidus. Olgu väikese koolis käimise pausi põhjuseks pere loomine või tööalased väljakutsed - kõrge motivatsiooniga õppija naaseb kooli säravail silmil. Kuidas jagavad end pere-, töö- ja koolielu vahel lapsevanemad Kelly ja Anne-Mari? Kuidas jätkas oma haridusteed Tarmo, kel omal ajal jäi lõpetamata põhiharidus. Autor Sigrid Salutee, montaažirežissöör Elar Järvet, operaator Meelis Mikker, tegevprodutsent Birgit Rae.</desc>
     <date>2021</date>
     <category lang="et">Telesari</category>
     <country lang="et">Eesti</country>
@@ -1182,7 +943,7 @@
   </programme>
   <programme start="20230629100000 +0000" stop="20230629103000 +0000" channel="etv.ee">
     <title lang="et">Metsavennad</title>
-    <desc lang="et">Milline oli metsavendade igapäevane elu? See võis sisaldada lahinguid julgeolekuga, kuid palju enam oli see pidev pingutus, et püsida keerulistes tingimustes elus. Põneva sissevaate metsavendade ellu pakuvad 96-aastane metsavend Ruuben Lambur ja uskumatu fotoleid ühe Harjumaa metsavennasalga elust. Saatejuht Rasmus Kagge, režissöör Erle Veber, stsenarist Tõnis Leht, produtsent Laur-Leho Kaljumets, tootja Tootmisguru OÜ.(n)</desc>
+    <desc lang="et">Milline oli metsavendade igapäevane elu? See võis sisaldada lahinguid julgeolekuga, kuid palju enam oli see pidev pingutus, et püsida keerulistes tingimustes elus. Põneva sissevaate metsavendade ellu pakuvad 96-aastane metsavend Ruuben Lambur ja uskumatu fotoleid ühe Harjumaa metsavennasalga elust. Saatejuht Rasmus Kagge, režissöör Erle Veber, stsenarist Tõnis Leht, produtsent Laur-Leho Kaljumets, tootja Tootmisguru OÜ.</desc>
     <date>2022</date>
     <category lang="et">Telesari</category>
     <country lang="et">Eesti</country>
@@ -1191,7 +952,7 @@
   <programme start="20230629103000 +0000" stop="20230629105500 +0000" channel="etv.ee">
     <title lang="et">Võidu nimel</title>
     <sub-title lang="et">Tahe</sub-title>
-    <desc lang="et">Kõik algab elus sellest, et peab midagi tahtma. Peab tahtma ja püüdlema eesmärkide ning unistuste poole. Kui tahe puudub, ei juhtu enamasti midagi. Tahe võita ongi see, mis sportlast edasi viib. Eesti tippsportlased räägivad saatesarja avasaates kõike käivitavast tahtest. Autor Kristjan Kalkun.(n)</desc>
+    <desc lang="et">Kõik algab elus sellest, et peab midagi tahtma. Peab tahtma ja püüdlema eesmärkide ning unistuste poole. Kui tahe puudub, ei juhtu enamasti midagi. Tahe võita ongi see, mis sportlast edasi viib. Eesti tippsportlased räägivad saatesarja avasaates kõike käivitavast tahtest. Autor Kristjan Kalkun.</desc>
     <date>2020</date>
     <category lang="et">Telesari</category>
     <country lang="et">Eesti</country>
@@ -1200,7 +961,7 @@
   <programme start="20230629105500 +0000" stop="20230629112500 +0000" channel="etv.ee">
     <title lang="et">Uudishimu tippkeskus</title>
     <sub-title lang="et">Arheoloogia</sub-title>
-    <desc lang="et">Miks kaevata üles vanu haudu ja sorida surnute eludes? Selgub, et meie minevik võib nii mõndagi rääkida ka meie olevikust ja tulevikust. Saatejuht Maarja Merivoo-Parro, toimetajad Marju Himma, Greete Lehepuu, Sandra Saar ja Kaur Maran, režissöör Margo Siimon. Tootjad Vesilind OÜ ja Filmit OÜ.(n)</desc>
+    <desc lang="et">Miks kaevata üles vanu haudu ja sorida surnute eludes? Selgub, et meie minevik võib nii mõndagi rääkida ka meie olevikust ja tulevikust. Saatejuht Maarja Merivoo-Parro, toimetajad Marju Himma, Greete Lehepuu, Sandra Saar ja Kaur Maran, režissöör Margo Siimon. Tootjad Vesilind OÜ ja Filmit OÜ.</desc>
     <date>2019</date>
     <category lang="et">Telesari</category>
     <country lang="et">Eesti</country>
@@ -1209,7 +970,7 @@
   <programme start="20230629112500 +0000" stop="20230629122500 +0000" channel="etv.ee">
     <title lang="et">Ohtlik lend</title>
     <sub-title lang="et">Reality show</sub-title>
-    <desc lang="et">Leitakse naise laip. Varsti selgub, et tegemist on ühe osalisega reality-saatest "Perevahetus". Kuriteo uurimine kisub avalikuks ja algab meediamaailma kulisside paotamine, mis paljastab nii mõnegi inetu saladuse.(n)</desc>
+    <desc lang="et">Leitakse naise laip. Varsti selgub, et tegemist on ühe osalisega reality-saatest "Perevahetus". Kuriteo uurimine kisub avalikuks ja algab meediamaailma kulisside paotamine, mis paljastab nii mõnegi inetu saladuse.</desc>
     <date>2006</date>
     <category lang="et">Telesari</category>
     <country lang="et">Eesti</country>
@@ -1217,7 +978,7 @@
   </programme>
   <programme start="20230629122500 +0000" stop="20230629125500 +0000" channel="etv.ee">
     <title lang="et">Töörööbikud</title>
-    <desc lang="et">Irina töötab tehases suurte masinate keskel ja tema käe all valmivad päevas tuhanded pannkoogid, nende seas ka 2019. aasta parim magustoit. Karl-Otti motiveerib tegutsema mõte tervislikust magustoidust ja tema teeb väikse kohviku köögis "kõigevabasid" torte. Mille poolest erinevad suur- ja väiketootmine? Režissöör Sander Allikmäe, toimetaja Mari Tamm, produtsent Hannela Lippus.(n)</desc>
+    <desc lang="et">Irina töötab tehases suurte masinate keskel ja tema käe all valmivad päevas tuhanded pannkoogid, nende seas ka 2019. aasta parim magustoit. Karl-Otti motiveerib tegutsema mõte tervislikust magustoidust ja tema teeb väikse kohviku köögis "kõigevabasid" torte. Mille poolest erinevad suur- ja väiketootmine? Režissöör Sander Allikmäe, toimetaja Mari Tamm, produtsent Hannela Lippus.</desc>
     <date>2019</date>
     <category lang="et">Telesari</category>
     <country lang="et">Eesti</country>
@@ -1225,7 +986,7 @@
   </programme>
   <programme start="20230629125500 +0000" stop="20230629134000 +0000" channel="etv.ee">
     <title lang="et">Hea Karma haigla</title>
-    <desc lang="et">Ruby teeb oma esimese operatsiooni ja jääb esimest korda öövalvesse. Paraku pabistab ta üle ja otsustab hakata elektrikatkestuse ajal üksi patsienti opereerima.(n)</desc>
+    <desc lang="et">Ruby teeb oma esimese operatsiooni ja jääb esimest korda öövalvesse. Paraku pabistab ta üle ja otsustab hakata elektrikatkestuse ajal üksi patsienti opereerima.</desc>
     <date>2018</date>
     <category lang="et">Telesari</category>
     <country lang="et">Inglise</country>
@@ -1233,7 +994,7 @@
   </programme>
   <programme start="20230629134000 +0000" stop="20230629141000 +0000" channel="etv.ee">
     <title lang="et">Hendrik Relvega Borneo vihmametsas</title>
-    <desc lang="et">Viimaks jõuame Long Ajengi külla. Saame võimaluse elada, süüa, magada ja töötada just nii nagu teevad seda paikseks jäänud penanid. Autor Hendrik Relve, režissöör Kalle Käesel, tootja Osakond OÜ.(n)</desc>
+    <desc lang="et">Viimaks jõuame Long Ajengi külla. Saame võimaluse elada, süüa, magada ja töötada just nii nagu teevad seda paikseks jäänud penanid. Autor Hendrik Relve, režissöör Kalle Käesel, tootja Osakond OÜ.</desc>
     <date>2019</date>
     <category lang="et">Telesari</category>
     <country lang="et">Eesti</country>
@@ -1241,7 +1002,7 @@
   </programme>
   <programme start="20230629141000 +0000" stop="20230629144000 +0000" channel="etv.ee">
     <title lang="et">Õnne 13</title>
-    <desc lang="et">Alma juurest astub läbi Kristjan. Neil kahel Õnne tänava põlisel elanikul on meenutada nii mõndagi. Janel on näpud põhjas ja ta üritab Marelt raha laenata. Ühes väikelinna kohvikus kohtuvad juhuslikult Uku Palm ja Maige Karjus, samal ajal aga teises söögikohas saavad kokku Saara ning Priit.(n)</desc>
+    <desc lang="et">Alma juurest astub läbi Kristjan. Neil kahel Õnne tänava põlisel elanikul on meenutada nii mõndagi. Janel on näpud põhjas ja ta üritab Marelt raha laenata. Ühes väikelinna kohvikus kohtuvad juhuslikult Uku Palm ja Maige Karjus, samal ajal aga teises söögikohas saavad kokku Saara ning Priit.</desc>
     <date>2012</date>
     <category lang="et">Telesari</category>
     <country lang="et">Eesti</country>
@@ -1249,7 +1010,7 @@
   </programme>
   <programme start="20230629144000 +0000" stop="20230629153000 +0000" channel="etv.ee">
     <title lang="et">Armastuse laps</title>
-    <desc lang="et">McNaughton on Eva salajasest ravist teada saanud ning laseb Joani ja Bowditchi töölt kõrvaldada. Annie saab protesti ajal vigastada ja Joan peab ta lapse kiirkorras ilmale aitama.(n)</desc>
+    <desc lang="et">McNaughton on Eva salajasest ravist teada saanud ning laseb Joani ja Bowditchi töölt kõrvaldada. Annie saab protesti ajal vigastada ja Joan peab ta lapse kiirkorras ilmale aitama.</desc>
     <date>2015</date>
     <category lang="et">Telesari</category>
     <country lang="et">Austraalia</country>
@@ -1265,7 +1026,7 @@
   <programme start="20230629154500 +0000" stop="20230629161500 +0000" channel="etv.ee">
     <title lang="et">Siin me oleme</title>
     <sub-title lang="et">Lemmikute uputus</sub-title>
-    <desc lang="et">Koroona ajal kasvas meil lemmikloomade arv hüppeliselt, nii et nendega seotud ettevõtlus seilab laineharja tipus, samas on aga tekkinud suur loomaarstide puudus ja olemasolevad ägavad läbipõlemise piiril. Saatejuht-toimetaja Mirjam Mõttus, toimetaja Laura Kõrvits, režissöör Meelis Mikker, produtsent Tiina Koljak.(n)</desc>
+    <desc lang="et">Koroona ajal kasvas meil lemmikloomade arv hüppeliselt, nii et nendega seotud ettevõtlus seilab laineharja tipus, samas on aga tekkinud suur loomaarstide puudus ja olemasolevad ägavad läbipõlemise piiril. Saatejuht-toimetaja Mirjam Mõttus, toimetaja Laura Kõrvits, režissöör Meelis Mikker, produtsent Tiina Koljak.</desc>
     <date>2022</date>
     <category lang="et">Telesari</category>
     <country lang="et">Eesti</country>
@@ -1273,7 +1034,7 @@
   </programme>
   <programme start="20230629161500 +0000" stop="20230629180000 +0000" channel="etv.ee">
     <title lang="et">Tartu 2024 esitleb: Vabaduse galakontsert</title>
-    <desc lang="et">Autovabaduse puiestee Tartus avatakse tänavu suurejoonelise galakontserdiga, kus kõlavad maailmakuulsad lood koorile, orkestrile ja solistidele. Külas on Harkivi koor, et koos musitseerida Ukraina vabaduse toetuseks. Kaunile muusikale lisaks, tähistatakse Tartu linna päeva. Meeleolukast elust heade mõtete linnas teevad kokkuvõtte ja vahendavad peomuljeid saatejuhid Heleri All ja Reimo Sildvee. Režissöör Elo Selirand, toimetaja Kristel Trell, produtsent Rait Roland Veskemaa.(n)</desc>
+    <desc lang="et">Autovabaduse puiestee Tartus avatakse tänavu suurejoonelise galakontserdiga, kus kõlavad maailmakuulsad lood koorile, orkestrile ja solistidele. Külas on Harkivi koor, et koos musitseerida Ukraina vabaduse toetuseks. Kaunile muusikale lisaks, tähistatakse Tartu linna päeva. Meeleolukast elust heade mõtete linnas teevad kokkuvõtte ja vahendavad peomuljeid saatejuhid Heleri All ja Reimo Sildvee. Režissöör Elo Selirand, toimetaja Kristel Trell, produtsent Rait Roland Veskemaa.</desc>
     <date>2023</date>
     <country lang="et">Eesti</country>
   </programme>
@@ -1293,7 +1054,7 @@
   </programme>
   <programme start="20230629183500 +0000" stop="20230629190500 +0000" channel="etv.ee">
     <title lang="et">Ringvaade suvel</title>
-    <desc lang="et">"Ringvaade" toob suvel vaatajate ette Eesti elu kirevaimad tegelased ja suurimad seiklused. Saatejuhid Grete Lõbu, Marko Reikop, Anna Pihl, Hannes Hermaküla ja Jüri Muttika on eetris ning igav nendega ei hakka.(n)</desc>
+    <desc lang="et">"Ringvaade" toob suvel vaatajate ette Eesti elu kirevaimad tegelased ja suurimad seiklused. Saatejuhid Grete Lõbu, Marko Reikop, Anna Pihl, Hannes Hermaküla ja Jüri Muttika on eetris ning igav nendega ei hakka.</desc>
     <date>2023</date>
     <category lang="et">Telesari</category>
     <country lang="et">Eesti</country>
@@ -1301,7 +1062,7 @@
   </programme>
   <programme start="20230629190500 +0000" stop="20230629195500 +0000" channel="etv.ee">
     <title lang="et">Hea Karma haigla</title>
-    <desc lang="et">Lydia läheb tülli endise kolleegiga, kes nüüd kasutab vaid loodusravi. Kummagi oma õiguse tagaajamine seab aga ohtu patsiendi elu.(n)</desc>
+    <desc lang="et">Lydia läheb tülli endise kolleegiga, kes nüüd kasutab vaid loodusravi. Kummagi oma õiguse tagaajamine seab aga ohtu patsiendi elu.</desc>
     <date>2018</date>
     <category lang="et">Telesari</category>
     <country lang="et">Inglise</country>
@@ -1309,263 +1070,257 @@
   </programme>
   <programme start="20230629195500 +0000" stop="20230629204500 +0000" channel="etv.ee">
     <title lang="et">Martin Clunesiga Austraalia saartel</title>
-    <desc lang="et">Ningaloo korallrahu juures avastab Martin Clunes veealust maailma ja Houtman Abrolhose saartel õpib vähke püüdma. Rottnesti saarel tutvub Martin saare sünge ajalooga ja Carnacil kohtub sadade tiigermadudega.(n)</desc>
+    <desc lang="et">Ningaloo korallrahu juures avastab Martin Clunes veealust maailma ja Houtman Abrolhose saartel õpib vähke püüdma. Rottnesti saarel tutvub Martin saare sünge ajalooga ja Carnacil kohtub sadade tiigermadudega.</desc>
     <date>2016</date>
     <category lang="et">Telesari</category>
     <country lang="et">Austraalia</country>
     <episode-num system="onscreen">S1 E2</episode-num>
   </programme>
-  <programme start="20230625000500 +0000" stop="20230625040000 +0000" channel="etv2.ee">
+  <programme start="20230629204500 +0000" stop="20230629211500 +0000" channel="etv.ee">
+    <title lang="et">Reisile minuga</title>
+    <sub-title lang="et">Valdur Mikita Suislepas</sub-title>
+    <desc lang="et">Kujutage ette noort Mart Noormaad, kes istub Suislepas piimapuki otsas ja uurib taevatähti. Midagi mõistatuslikku ja salapärast on selles Suislepas alati olnud. Isegi tähed on siin säravamad kui mujal. Ja kui palju kuulsaid nimesid võib siitkandist leida: Betti Alver, Nikolai Baturin, August von Kotzebue ja paljud teised. Vooru mõisast, kus ennemuiste elas August von Kotzebue, on järel ainult suure kirjaniku kartulikelder. Muuseas Kotzebue näidenditele kirjutasid muusikat Beethoven, Schubert ja Salieri. Õhne jõge mööda saab paadiga sujuvalt sõita Võrtsjärvele, kus asub Arumetsa puhkeala, mis on väga privaatne ja omapärane koht. Artur Grossthal restaureeris Suislepas uhke veski. Filmisid Valdur Mikita, Tiina Park ja Peeter Ülevain. Saate tootis Free Studio.(n)</desc>
+    <date>2020</date>
+    <category lang="et">Reisisaade</category>
+    <country lang="et">Eesti</country>
+    <episode-num system="onscreen">S14 E220</episode-num>
+  </programme>
+  <programme start="20230629211500 +0000" stop="20230629215500 +0000" channel="etv.ee">
+    <title lang="et">Sõbrad muusikas</title>
+    <sub-title lang="et">Anu Kaal ja Voldemar Kuslap</sub-title>
+    <desc lang="et">4. novembril tähistas oma 80. juubelit ooperilaulja Anu Kaal. Tänu oma erilisele häälele (koloratuursopran) on laulja kaasa teinud paljudes "Estonias" lavale toodud ooperites, näiteks on ta esitanud nimiosa “Lucia di Lammermooris”; olnud Roxane “Cyrano de Bergeracis", Violetta “Traviatas”, Gilda “Rigolettos” jne. Anu Kaalu kauaaegseks ja usaldusväärseks lavapartneriks oli bariton Voldemar Kuslap, kes on endiselt särav ning heas vormis. Kahe muusiku sõprus sai alguse kursusekaaslastena konservatooriumis õppides ja on kestnud läbi pika lavatee. Saatejuht Reet Linna, režissöör Märten Vaher, toimetajad Ene-Maris Tali ja Marika Kaasik, assistent Katrin Tõnts, produtsent Ene-Maris Tali.(n)</desc>
+    <date>2020</date>
+    <category lang="et">Telesari</category>
+    <country lang="et">Eesti</country>
+    <episode-num system="onscreen">S1 E4</episode-num>
+  </programme>
+  <programme start="20230629215500 +0000" stop="20230629225500 +0000" channel="etv.ee">
+    <title lang="et">Ohtlik lend</title>
+    <sub-title lang="et">Reality show</sub-title>
+    <desc lang="et">Leitakse naise laip. Varsti selgub, et tegemist on ühe osalisega reality-saatest "Perevahetus". Kuriteo uurimine kisub avalikuks ja algab meediamaailma kulisside paotamine, mis paljastab nii mõnegi inetu saladuse.(n)</desc>
+    <date>2006</date>
+    <category lang="et">Telesari</category>
+    <country lang="et">Eesti</country>
+    <episode-num system="onscreen">S1 E4</episode-num>
+  </programme>
+  <programme start="20230629225500 +0000" stop="20230629232700 +0000" channel="etv.ee">
+    <title lang="et">Hendrik Relvega Borneo vihmametsas</title>
+    <desc lang="et">Viimaks jõuame Long Ajengi külla. Saame võimaluse elada, süüa, magada ja töötada just nii nagu teevad seda paikseks jäänud penanid. Autor Hendrik Relve, režissöör Kalle Käesel, tootja Osakond OÜ.(n)</desc>
+    <date>2019</date>
+    <category lang="et">Telesari</category>
+    <country lang="et">Eesti</country>
+    <episode-num system="onscreen">S1 E3</episode-num>
+  </programme>
+  <programme start="20230629232700 +0000" stop="20230630040000 +0000" channel="etv.ee">
     <title lang="et">ERR.ee uudised</title>
     <date>2023</date>
     <category lang="et">Telesari</category>
     <country lang="et">Eesti</country>
-    <episode-num system="onscreen">E175</episode-num>
+    <episode-num system="onscreen">E180</episode-num>
   </programme>
-  <programme start="20230625040000 +0000" stop="20230625041000 +0000" channel="etv2.ee">
-    <title lang="et">Mikk-Mikk ja seenerahvas</title>
-    <sub-title lang="et">Seenesellid tõttavad appi!</sub-title>
-    <desc lang="et">Täna tegelevad Mikk-Mikk, Kübarapoiss ja Lilit Kübaralinna elanike päästmisega.</desc>
-    <date>2020</date>
-    <category lang="et">Telesari</category>
-    <country lang="et">Belgia, Prantsuse</country>
-    <episode-num system="onscreen">S1 E6</episode-num>
-  </programme>
-  <programme start="20230625041000 +0000" stop="20230625042000 +0000" channel="etv2.ee">
-    <title lang="et">Minu rüütel ja mina</title>
-    <sub-title lang="et">Nähtamatu Juku</sub-title>
-    <desc lang="et">Pettuse abil võidab Lauri Jukut ja keeldub seda tunnistamast. Juku tahab Lauri nime võitjate nimistust kustutada, kuid kogemata muudab ta hoopis ennast nähtamatuks.</desc>
-    <date>2016</date>
-    <category lang="et">Telesari</category>
-    <country lang="et">Belgia, Prantsuse</country>
-    <episode-num system="onscreen">S1 E44</episode-num>
-  </programme>
-  <programme start="20230625042000 +0000" stop="20230625043000 +0000" channel="etv2.ee">
-    <title lang="et">Tuta asjad</title>
-    <sub-title lang="et">Viisakaim sõna maailmas</sub-title>
-    <desc lang="et">Kas Sa oskad viisakalt rääkida? Tänan ja palun! Aga kas tead, mis on maailma kõige viisakam sõna? Senimaani sellist sõna ei olnudki, aga nüüd mõtles Tuta selle välja: na-ka-taka-tšiki-taa! Tuta tegi sellest ka toreda laulu.</desc>
-    <date>2022</date>
-    <category lang="et">Telesari</category>
-    <country lang="et">Läti</country>
-    <episode-num system="onscreen">S2 E8</episode-num>
-  </programme>
-  <programme start="20230625043000 +0000" stop="20230625043500 +0000" channel="etv2.ee">
-    <title lang="et">Karu Karla</title>
-    <sub-title lang="et">Politsei ja pätid</sub-title>
-    <date>2019</date>
-    <category lang="et">Telesari</category>
-    <country lang="et">Norra</country>
-    <episode-num system="onscreen">S2 E25</episode-num>
-  </programme>
-  <programme start="20230625043500 +0000" stop="20230625050000 +0000" channel="etv2.ee">
-    <title lang="et">Mina ja Miia</title>
-    <sub-title lang="et">Kõige häbelikum ükssarvik</sub-title>
-    <desc lang="et">Saarat ja Miiat üllatab kinnisvaraagent, kes on tulnud Luciana kutsel Polettide maad ostma. Saara tõmbub kurvalt oma tuppa ja Miia suundub Tsentoopiasse. Seekordne ennustus viib haldjatest sõbrad sohu, kus nad kohtuvad soohaldja Lolaga, kes ei ole aga sugugi abivalmis ega lihtsa loomuga.</desc>
-    <date>2016</date>
-    <category lang="et">Telesari</category>
-    <country lang="et">Saksa</country>
-    <episode-num system="onscreen">S3 E19</episode-num>
-  </programme>
-  <programme start="20230625050000 +0000" stop="20230625051000 +0000" channel="etv2.ee">
-    <title lang="et">Peeter Pikk-kõrv</title>
-    <sub-title lang="et">Lugu tuulelohedest</sub-title>
-    <desc lang="et">Äkiline tuulehoog viib Benjamini tuulelohedega lendu. Kas Peeter ja Lilli suudavad oma vaidlused unustada ning sõbra päästmise nimel ühte hoida?</desc>
-    <date>2012</date>
-    <category lang="et">Telesari</category>
-    <country lang="et">USA</country>
-    <episode-num system="onscreen">S1 E26</episode-num>
-  </programme>
-  <programme start="20230625051000 +0000" stop="20230625051500 +0000" channel="etv2.ee">
-    <title lang="et">Põrsas Peppa</title>
-    <title lang="en">Digger World</title>
-    <sub-title lang="et">Kopamaailm</sub-title>
-    <date>2017</date>
-    <category lang="et">Telesari</category>
-    <country lang="et">Inglise</country>
-    <episode-num system="onscreen">S7 E21</episode-num>
-  </programme>
-  <programme start="20230625051500 +0000" stop="20230625054000 +0000" channel="etv2.ee">
-    <title lang="et">Entel-tenteli laululood</title>
-    <desc lang="et">Entel-tentel-trika-trei - laululapsed kõik me head, kes meist laule rohkem teab? ETV legendaarsest lauluvõistlusest on möödas küll üle poole sajandi, kuid samad laulud on ikka laste suul. Eesti lastelaulu klassikasse kuuluvad palad said uue hääle Eesti Raadio Laste Laulustuudiolt Kadri Hundi ja Kaie Tanneri juhendamisel. Helirežii Teet Kehlmann, režissöör Toorion Ojaperv, operaator Meelis Mikker, produtsent Kadi Katarina Priske.</desc>
-    <date>2022</date>
-    <country lang="et">Eesti</country>
-  </programme>
-  <programme start="20230625054000 +0000" stop="20230625060000 +0000" channel="etv2.ee">
-    <title lang="et">Suur maalritöö</title>
-    <desc lang="et">Ellen Niidu ja Edgar Valteri populaarse samanimelise lasteraamatu ainetel valminud animafilm jutustab loo sellest, kuidas maailma värvimise ime teoks sai. Kui maailm loodi, oli see värvimata ja ühtlaselt vesihalli tooni. Appi tuli vahva maalrimees, kes hakkas maailma toon tooni haaval värviliseks muutma. Režissöörid Meelis Arulepp ja Aina Järvine.</desc>
-    <date>2013</date>
-    <category lang="et">Filmid</category>
-    <country lang="et">Eesti</country>
-  </programme>
-  <programme start="20230625060000 +0000" stop="20230625073000 +0000" channel="etv2.ee">
-    <title lang="et">Kodutänava piraadid</title>
-    <title lang="en">De piraten van hiernaast</title>
-    <desc lang="et">Elu ontlikus rannalinnas pööratakse pea peale, kui sinna saabub elama perekond Blunderbuss – pesuehtne piraatide kamp, koos kõige selle juurde kuuluvaga, nagu mõõgavõitlused, silmaklapid, koduks olev piraadilaev, lemmikloomast kaheksajalg ja papagoi ning lõputu rummirüüpamine. Linnakese lugupeetud elanikud on uutest naabritest ja nende elukommetest päris kohkunud, kuid Michael saab piraatide perepoeg Billy’ga peagi heaks sõbraks. Uutel sõpradel seisavad ees põnevad aardejahid ning ohtlikud seiklused, mis viivad nad vastamisi maailma kõige hirmuäratavama mereröövli Cornelius Konkskäega, kuid tõeline piraat ei tunne hirmu millegi ees!</desc>
-    <date>2020</date>
-    <category lang="et">Filmid</category>
-    <country lang="et">Holland</country>
-  </programme>
-  <programme start="20230625073000 +0000" stop="20230625074500 +0000" channel="etv2.ee">
-    <title lang="et">Zombi Lars</title>
-    <desc lang="et">Annal pole pääsu ja ta peab võimlemispeol esinema. Lars nuputab välja kavala plaani, kuidas see ära hoida.</desc>
-    <date>2018</date>
-    <category lang="et">Telesari</category>
-    <country lang="et">Norra</country>
-    <episode-num system="onscreen">S3 E5</episode-num>
-  </programme>
-  <programme start="20230625074500 +0000" stop="20230625080000 +0000" channel="etv2.ee">
-    <title lang="et">Zombi Lars</title>
-    <desc lang="et">Caroline avaldab sõpradele oma saladuse. Linnapea teeb Torillile väga ahvatleva ettepaneku.</desc>
-    <date>2018</date>
-    <category lang="et">Telesari</category>
-    <country lang="et">Norra</country>
-    <episode-num system="onscreen">S3 E6</episode-num>
-  </programme>
-  <programme start="20230625080000 +0000" stop="20230625085500 +0000" channel="etv2.ee">
-    <title lang="et">Muusikalide lugu</title>
-    <title lang="en">LA LA LA, a Story of Musicals</title>
-    <desc lang="et">Mis siis, kui oletada, et ajaloo esimeste filmide puhul tunti puudust mitte nii väga kõnest, vaid hoopis muusikast? Muusikalist sai väga ruttu traditsiooniline filmižanr, mis viis publiku maagia- ja fantaasiamaailma. Tutvume filmikunsti kuulsamate muusikalidega, teejuhtideks ala tuntumad tegijad.</desc>
-    <date>2018</date>
-    <country lang="et">Prantsuse</country>
-  </programme>
-  <programme start="20230625085500 +0000" stop="20230625092500 +0000" channel="etv2.ee">
-    <title lang="et">Võidu nimel</title>
-    <sub-title lang="et">Töö</sub-title>
-    <desc lang="et">Spordi alus on armastus töö vastu. Tööd tegemata ja ainult andele lootes on keeruline jõuda rahvuslikust tasemest kaugemale. Kui inimene armastab oma tööd, tuleb sellest enamasti välja midagi kaunist. Saatesarja 2. osas räägivad Eesti tippsportlased tööst. Saate autor Kristjan Kalkun.</desc>
-    <date>2020</date>
-    <category lang="et">Telesari</category>
-    <country lang="et">Eesti</country>
-    <episode-num system="onscreen">S3 E2</episode-num>
-  </programme>
-  <programme start="20230625092500 +0000" stop="20230625111000 +0000" channel="etv2.ee">
-    <title lang="et">Euroopa mängud</title>
-    <sub-title lang="et">Maastikurataste naiste olümpiakross</sub-title>
-    <desc lang="et">Ülekannet kommenteerib Erki Kukk.</desc>
-    <date>2023</date>
-    <category lang="et">Telesari</category>
-    <country lang="et">Poola</country>
-    <episode-num system="onscreen">E10</episode-num>
-  </programme>
-  <programme start="20230625111000 +0000" stop="20230625125500 +0000" channel="etv2.ee">
-    <title lang="et">Mäng neljal käel</title>
-    <title lang="en">Der Puppenspieler</title>
-    <desc lang="et">Seikluskomöödia Prantsuse filmi ühe suurima staari, Jean Paul Belmondoga peaosas. „Bebel“, nagu teda hellitavalt kutsutakse, sai tuntuks Prantsuse uue laine režissööride töödes, hiljem läks ta üle meelelahutuslikele filmidele ja neid kõiki saatis suur kommertsedu. Mänguhimuline petis Alexander Dupre (Belmondo) vabaneb vanglast ja satub peagi uute afääride keskele, sedapuhku tõmmatakse aga elukunstnikul endal nahk üle kõrvade ning viimaks satub Alexanderi elu juba tõsisesse ohtu - temast saab mõrvatunnistaja ja tagaaetav, kelle valduses on hinnaline mikrofilm. Režissöör Georges Lautner.</desc>
-    <date>1980</date>
-    <country lang="et">Prantsuse, Itaalia</country>
-  </programme>
-  <programme start="20230625125500 +0000" stop="20230625133500 +0000" channel="etv2.ee">
-    <title lang="et">Võistluskontsert "Apelsin</title>
-    <title lang="en">Võistluskontsert Apelsin</title>
-    <desc lang="et">Esineb ansambel "Apelsin". Režissöör Toomas Lepp.</desc>
-    <date>1978</date>
-    <country lang="et">Eesti</country>
-  </programme>
-  <programme start="20230625133500 +0000" stop="20230625140000 +0000" channel="etv2.ee">
-    <title lang="et">Raamatupood</title>
-    <title lang="en">The Travel Writer</title>
-    <sub-title lang="et">Reisiajakirjanik</sub-title>
-    <desc lang="et">Manny korraldab reisiraamatute festivali ja kutsub külalisesineja, kellesse Fran koheselt armub. Bernardil on mure üüri maksmisega ja ta mõtleb välja lahenduse - peremehest peab lahti saama.</desc>
-    <date>2004</date>
-    <category lang="et">Telesari</category>
-    <country lang="et">Inglise</country>
-    <episode-num system="onscreen">S3 E3</episode-num>
-  </programme>
-  <programme start="20230625140000 +0000" stop="20230625153000 +0000" channel="etv2.ee">
-    <title lang="et">Kaunitar ja koletis</title>
-    <title lang="en">Die Schöne und das Biest</title>
-    <desc lang="et">Elsa kõrtsmikust isa ei suuda kuidagi võlgadest välja rabelda. Kui uhke rüütel palub Elsa turniirile oma südamedaamiks, otsustab isa minna linna raha hankima. Elsa seevastu palub, et isa maksaks rendi ära ja tooks talle vaid ühe roosiõie. Roosi murdmisest saavad alguse dramaatilised sündmused: koletis ähvardab kõrtsmiku ära tappa. Pika palumise peale nõustub ta karistust muutma ja nõuab, et kõrtsmik saadaks koletise lossi selle, kes teda kodus esimesena tervitab. Elsa on kohe nõus päästma isa elu ja läheb koletise lossi. Esialgu tundub talle seal kõik hirmutav ja vastik, aga peagi saab ta koletisega sõbraks.</desc>
-    <date>2012</date>
-    <category lang="et">Filmid</category>
-    <country lang="et">Saksa</country>
-  </programme>
-  <programme start="20230625153000 +0000" stop="20230625155000 +0000" channel="etv2.ee">
-    <title lang="et">Lepatriinu ja Musta Kassi imelised lood</title>
-    <sub-title lang="et">Valge kass</sub-title>
-    <desc lang="et">Marinette tegi Adrienile kingituse ja Rose käskis tal selle kohe üle anda. Adrien taipab tänu sellele, et Marinette võibki olla Lepatriinutüdruk.</desc>
-    <date>2018</date>
-    <category lang="et">Telesari</category>
-    <country lang="et">Prantsuse, Jaapan, USA, Lõuna-Korea</country>
-    <episode-num system="onscreen">S3 E22</episode-num>
-  </programme>
-  <programme start="20230625155000 +0000" stop="20230625160000 +0000" channel="etv2.ee">
-    <title lang="et">Pips ja Popi</title>
-    <desc lang="et">Pips ja Popi korraldavad sõpradele etenduse, aga Pips hakkab pabistama.</desc>
+  <programme start="20230630040000 +0000" stop="20230630045500 +0000" channel="etv.ee">
+    <title lang="et">Prillitoos</title>
+    <desc lang="et">Ajame juttu näitleja ja parodisti Pille Pürgiga. Uudistame käejälgi tsemendis Kunda Tsemenditehase muuseumis. Soovitusi jagab valvelugeja Mart Juur. Saatejuht Reet Linna, režissöör Kertu Köösel, toimetaja Marika Kaasik, produtsent Ene-Maris Tali.(n)</desc>
     <date>2021</date>
     <category lang="et">Telesari</category>
-    <country lang="et">Inglise</country>
-    <episode-num system="onscreen">S1 E40</episode-num>
+    <country lang="et">Eesti</country>
+    <episode-num system="onscreen">S42 E569</episode-num>
   </programme>
-  <programme start="20230625160000 +0000" stop="20230625162500 +0000" channel="etv2.ee">
-    <title lang="et">Mina ja Miia</title>
-    <sub-title lang="et">Tagasi Vikerkaaresaarele</sub-title>
-    <desc lang="et">Palaval päeval teeb Saara Miiale ettepaneku minna linna jäätist sööma ja ühtlasi kohaneda linnaga, kus ta peab nagunii varsti ise hakkama saama. Paraku kutsub Miiat Tsentoopia ja ta jätab Saara üksi. Ennustussõna viib Miia ja ta sõbrad seekord Vikerkaaresaarele, kus peaks peituma järgmine Südamekristall. Kui aga Gargoona ja Viks mängus on, ei lähe miski nii kergelt….</desc>
-    <date>2016</date>
+  <programme start="20230630045500 +0000" stop="20230630054000 +0000" channel="etv.ee">
+    <title lang="et">Maahommik</title>
+    <desc lang="et">Tartumaal avavad oma koduuksed Mihkel ja Mariin. Tänu maalekolimisele avastas Soosaare talu perenaine, et ta elukaaslane on tõeline osavnäpp. Sel laupäeval valmistab Mihkel Mariini tellimuse peale lihtsa rippuva riiuli. Korstnapühkija Marko vaatab üle kõik elumaja korstnad ja lõõrid. Eva Luigasega sõidame Setumaale, Tiina Paasiku tarbeaeda, kus saame häid nõuanded meloni ja arbuusi kasvatamisel. Saatejuht Kerli Dello, režissöör Maarika Lauri, operaator Tanel Velli-Vällik, produtsent Kadi Katarina Priske.(n)</desc>
+    <date>2022</date>
     <category lang="et">Telesari</category>
-    <country lang="et">Saksa</country>
-    <episode-num system="onscreen">S3 E20</episode-num>
+    <country lang="et">Eesti</country>
+    <episode-num system="onscreen">S24 E332</episode-num>
   </programme>
-  <programme start="20230625162500 +0000" stop="20230625163000 +0000" channel="etv2.ee">
+  <programme start="20230630054000 +0000" stop="20230630061000 +0000" channel="etv.ee">
+    <title lang="et">Ringvaade suvel</title>
+    <desc lang="et">"Ringvaade" toob suvel vaatajate ette Eesti elu kirevaimad tegelased ja suurimad seiklused. Saatejuhid Grete Lõbu, Marko Reikop, Anna Pihl, Hannes Hermaküla ja Jüri Muttika on eetris ning igav nendega ei hakka.(n)</desc>
+    <date>2023</date>
+    <category lang="et">Telesari</category>
+    <country lang="et">Eesti</country>
+    <episode-num system="onscreen">S8 E3</episode-num>
+  </programme>
+  <programme start="20230630061000 +0000" stop="20230630065500 +0000" channel="etv.ee">
+    <title lang="et">Armastuse laps</title>
+    <desc lang="et">McNaughton on Eva salajasest ravist teada saanud ning laseb Joani ja Bowditchi töölt kõrvaldada. Annie saab protesti ajal vigastada ja Joan peab ta lapse kiirkorras ilmale aitama.(n)</desc>
+    <date>2015</date>
+    <category lang="et">Telesari</category>
+    <country lang="et">Austraalia</country>
+    <episode-num system="onscreen">S3 E8</episode-num>
+  </programme>
+  <programme start="20230630065500 +0000" stop="20230630073500 +0000" channel="etv.ee">
+    <title lang="et">Lennud</title>
+    <sub-title lang="et">Lavakunstikooli V lend (1968-1972)</sub-title>
+    <desc lang="et">Lavakunstikateedri V lend oli üks arvukamaid - 19 lõpetajat, nende hulgas kõigest neli neidu. Diplomitöid küll ainult kaks, mõlemad loodud Panso juhendamisel, üks neist ülipopulaarne "Täna mängime seitset venda". Meenutavad Kersti Kreismann, Martin Veinmann, Tõnis Rätsep jt.(n)</desc>
+    <date>1992</date>
+    <category lang="et">Telesari</category>
+    <country lang="et">Eesti</country>
+    <episode-num system="onscreen">S1 E5</episode-num>
+  </programme>
+  <programme start="20230630073500 +0000" stop="20230630084500 +0000" channel="etv.ee">
+    <title lang="et">Õnnelind flamingo</title>
+    <title lang="en">Mängufilm</title>
+    <desc lang="et">Õnne on inimesed ikka ja alati saavutada püüdnud, igaüks vastavalt oma isiklikule õnneideaalile, oma moraalsetele tõekspidamistele. Mis kujundab siis õieti vaimse ja kõlbelise isiksuse? Miks pealtnäha kõigiti normaalsest perest võrsub kurjategija? Kust saab alguse hoolimatus, silmakirjalikkus ja kahepalgelisus? Neid ja teisi küsimusi esitab vaatajale film, mis loodud Raimond Kaugveri romaani "Meie pole süüdi" ainetel. Osades Evald Hermaküla, Kaie Mihkelson, Mikk Mikiver, Jelena Kondulainen, Martin Nurm, Erno Kaasik, Allan Noormets, Algis Matulionis jt. Stsenaristid Raimond Kaugver ja Tõnis Kask, režissöör-lavastaja Tõnis Kask, operaator-lavastaja Valeri Blinov, helilooja Lepo Sumera, kunstnik Joosep Remme, tootmisjuht Helme Rattas, toimetaja Aare Tiisväli.(n)</desc>
+    <date>1986</date>
+    <category lang="et">Filmid</category>
+    <country lang="et">Eesti</country>
+  </programme>
+  <programme start="20230630084500 +0000" stop="20230630091500 +0000" channel="etv.ee">
+    <title lang="et">Eesti lood</title>
+    <sub-title lang="et">Juhtmevaba elu</sub-title>
+    <desc lang="et">Paljud eestlased tahavad tarbimisühiskonnast välja rabeleda, kuid vähesed teevad seda nii radikaalselt kui Jim ja Maarja. Nad rajavad Lahemaale väikesele metsakohale oma juhtmevaba ökoelamist, kasutades ära kõike, mida nad kätte saavad: tööstusjääke, vanu autokumme, põhku, savi. Suvi on möödunud ehitades, abiks veebilehekülje kaudu kohalesaabunud vabatahtlikud. Mustlaslaagrit meenutava tööplatsi keskele on kerkinud kummalise kuju ja tegumoega struktuure. Kuid ilmad lähevad üha pimedamaks ja külmemaks ning isetehtud päikesepaneelid elektrit enam ei tooda. Film jälgib noorte olelusvõitlust sügisest kevadeni. Kas jalgrattageneraator hakkab tööle ja savisaun peab sooja? Kumb on tugevam, kas noorte ideaalid või Eestimaa talv? Suuremaks küsimuseks on aga, mida annab inimesele see, kui ta juhtme seinast välja tõmbab? Kas jätkusuutlik elu on seda väärt? Režissöör Peeter Vihma, operaatorid Peeter Vihma ja Janek Karakatš, helioperaatorid Antti Mäss, Indrek Soe ja Dmitry Natalevich, monteerija Jette Keedus, helirežissöör Dmitry Natalevich, produtsent Peeter Vihma. Tootja Deeper Film OÜ.(n)</desc>
+    <date>2015</date>
+    <category lang="et">Telesari</category>
+    <country lang="et">Eesti</country>
+    <episode-num system="onscreen">S13 E7</episode-num>
+  </programme>
+  <programme start="20230630091500 +0000" stop="20230630094500 +0000" channel="etv.ee">
+    <title lang="et">Õpe ei lõpe</title>
+    <desc lang="et">Õppimine ei tähenda enam ammu vaid range õpetaja valvsa pilgu all koolipingis istumist. Otepää valla Puka küla elanikud näitavad kõik koos, kuidas moodsal ajal ka täiskasvanuna õppimist mitte lõpetada. Kogukonnaköögis toimuval toiduvalmistamise koolitusel askeldavad käsikäes nii 8-aastane Hans kui ka 82-aastane Silvi! Kuidas jätkata enesetäiendamisega siis, kui ametlikud kooliteed on juba käidud, aga huvi jagub rohkemaks? Autor Sigrid Salutee, montaažirežissöör Elar Järvet, operaator Meelis Mikker, tegevprodutsent Birgit Rae.(n)</desc>
+    <date>2021</date>
+    <category lang="et">Telesari</category>
+    <country lang="et">Eesti</country>
+    <episode-num system="onscreen">S1 E4</episode-num>
+  </programme>
+  <programme start="20230630094500 +0000" stop="20230630101500 +0000" channel="etv.ee">
+    <title lang="et">Mississippi hääled</title>
+    <desc lang="et">Sarja neljandas osas külastame kunagist ning tänaseks ülevaatlikuks muuseumiks muudetud Oak Alley nimelist suurt suhkrurookasvandust ja uurime seal elanud orjade eluolu kohta. Saame teada, mida orjad sõid, kuidas elasid, milline oli töö ja nende raamatupidamislik väärtus. Seejärel põikame järgmises veelgi uhkemas vanas kasvanduses kohalikku kööki, vahetame osariiki ja uurime, mis asi on Juke Joint ning millist pärandit see endas kannab. Tootja Matkafilm OÜ, operaator, režissöör ja monteerija Väino Laisaar, produtsent Herbert Murd, koordinaator  Kaisa Ling, sarja muusika Madis Aesma.(n)</desc>
+    <date>2023</date>
+    <category lang="et">Telesari</category>
+    <country lang="et">Eesti</country>
+    <episode-num system="onscreen">S1 E4</episode-num>
+  </programme>
+  <programme start="20230630101500 +0000" stop="20230630105500 +0000" channel="etv.ee">
+    <title lang="et">Vabadussõja lugu</title>
+    <title lang="en">Mereriikide võitlusväli</title>
+    <sub-title lang="et">Mereriikide võitlusväli</sub-title>
+    <desc lang="et">Detsember 1918. Eesti piirist enamuse moodustab meri. Esimene maailmasõda tegi sellest suurima miinitihedusega ala maailmas ja seda positsiooni hoiame siiani. Mere kaudu jõuaks punalaevastik Kroonlinnast Tallinna reidile paari päevaga. Eesti enda laevastik on aga Vabadussõja algul pea olematu, kuid meresid valitsev Briti oma saab siia tulla ainult läbi miiniväljade. Kellest saab valitseja merel, see saab sõjas eelise. Sadamalinnas Tallinnas valmistuvad punased vabrikutöölised vallutajaid vastu võtma, reidile saabub aga Briti laevastik. Saatejuht Indrek Treufeldt, toimetaja Elo Selirand, režissöör Toorion Ojaperv.(n)</desc>
+    <date>2019</date>
+    <category lang="et">Telesari</category>
+    <country lang="et">Eesti</country>
+    <episode-num system="onscreen">S1 E3</episode-num>
+  </programme>
+  <programme start="20230630105500 +0000" stop="20230630112500 +0000" channel="etv.ee">
+    <title lang="et">Uudishimu tippkeskus</title>
+    <sub-title lang="et">Elu maal</sub-title>
+    <desc lang="et">Miks kolivad inimesed üha enam linnadesse? Mida teha, et maapiirkonnad inimestest täiesti tühjaks ei jääks? Kuidas saab sotsiaalne ettevõtlus kaasa aidata sellele, et elu püsiks väikestes linnades ja asulates? Mida kujutab endast virtuaalne reisimine? Saatejuht Maarja Merivoo-Parro, toimetajad Marju Himma, Greete Lehepuu, Sandra Saar ja Kaur Maran, režissöör Margo Siimon. Tootjad Vesilind OÜ ja Filmit OÜ.(n)</desc>
+    <date>2019</date>
+    <category lang="et">Telesari</category>
+    <country lang="et">Eesti</country>
+    <episode-num system="onscreen">S3 E27</episode-num>
+  </programme>
+  <programme start="20230630112500 +0000" stop="20230630122500 +0000" channel="etv.ee">
+    <title lang="et">Ohtlik lend</title>
+    <sub-title lang="et">Ahvatlus</sub-title>
+    <desc lang="et">Pärast kümmet aastat naaseb Pärnusse kunstiäriga tegelev kaunis daam Eva. Pärnu politsei on aga ärksam kui kunagi varem - daamil pole just kõige puhtam minevik. Eriti elevil on aga Andres Västrik, keda Eva karge naiselikkus sugugi ükskõikseks ei jäta.(n)</desc>
+    <date>2006</date>
+    <category lang="et">Telesari</category>
+    <country lang="et">Eesti</country>
+    <episode-num system="onscreen">S1 E5</episode-num>
+  </programme>
+  <programme start="20230630122500 +0000" stop="20230630125500 +0000" channel="etv.ee">
+    <title lang="et">Suus sulav Eesti</title>
+    <sub-title lang="et">Peipsi</sub-title>
+    <desc lang="et">Peipsiäär on piirkond, kus ühe küla eri otstes võidakse rääkida isegi eri keelt - nii palju kultuuride, religioonide ja rahvaste segunemist ei ole Eestis kuskil mujal. Lisaks on oma jälje sellekandi toidukultuuri jätnud ka tsaari-Venemaa kroonitud peade kokad. Saatejuht Angelica Udeküll, toimetaja Robert Kõrvits, montaažirežissöör Vladlen Pobjaržin, produtsent Laura Kõrvits.(n)</desc>
+    <date>2020</date>
+    <category lang="et">Telesari</category>
+    <country lang="et">Eesti</country>
+    <episode-num system="onscreen">S1 E5</episode-num>
+  </programme>
+  <programme start="20230630125500 +0000" stop="20230630134000 +0000" channel="etv.ee">
+    <title lang="et">Hea Karma haigla</title>
+    <desc lang="et">Lydia läheb tülli endise kolleegiga, kes nüüd kasutab vaid loodusravi. Kummagi oma õiguse tagaajamine seab aga ohtu patsiendi elu.(n)</desc>
+    <date>2018</date>
+    <category lang="et">Telesari</category>
+    <country lang="et">Inglise</country>
+    <episode-num system="onscreen">S2 E2</episode-num>
+  </programme>
+  <programme start="20230630134000 +0000" stop="20230630141000 +0000" channel="etv.ee">
+    <title lang="et">Hendrik Relvega Borneo vihmametsas</title>
+    <desc lang="et">Käsitöö, muusika ja relvad. Penanid eelistavad siiamaani metsades rännates kanda oma koormaid liaanidest punutud korvides. Kuulame imelise pilli – ninaflöödi kontserti ja meisterdame puhkpüssi, milleta ka praegu ükski kohalik mees metsa ei lähe. Autor Hendrik Relve, režissöör Kalle Käesel, tootja Osakond OÜ.(n)</desc>
+    <date>2019</date>
+    <category lang="et">Telesari</category>
+    <country lang="et">Eesti</country>
+    <episode-num system="onscreen">S1 E4</episode-num>
+  </programme>
+  <programme start="20230630141000 +0000" stop="20230630144000 +0000" channel="etv.ee">
+    <title lang="et">Õnne 13</title>
+    <desc lang="et">Einar tuleb seekord Alma juures välja tõestusega, kui palju on maailmas kõrges eas abiellunuid ja jätab teema lahtiseks nagu kolm punkti lause lõppu. Rahu pole saabunud ka Uuevarikule. Annemai ütleb koguni, et nad mõlemad on selle talu ja lehmakarja külge otsekui kinni köidetud. Evelin astub kinnisvaramaailma, aga esialgu tundub tema esimene objekt kõige koledama urkana.(n)</desc>
+    <date>2012</date>
+    <category lang="et">Telesari</category>
+    <country lang="et">Eesti</country>
+    <episode-num system="onscreen">S20 E538</episode-num>
+  </programme>
+  <programme start="20230630144000 +0000" stop="20230630153000 +0000" channel="etv.ee">
+    <title lang="et">Armastuse laps</title>
+    <desc lang="et">Shirley esitab avalduse Maggie lapsendamiseks. McNaughton on pahane, et Joan ja Eva ei mõista riske, mida tähendab Evale mitmikrasedus. Faye on tervisemure tõttu Prantsusmaalt tagasi. Vivian võtab tema operatsiooni ajaks kaksikud endale hoida. Jimi kohtuistungi aeg jõuab kätte, kuid Jim ei ilmu kohale. McNaughton pole end veel tunnistajana üles andnud. Joan diagnoosib McNaughtonil südame rütmihäired. Pete tutvustab Viviani oma ülemusele.(n)</desc>
+    <date>2015</date>
+    <category lang="et">Telesari</category>
+    <country lang="et">Austraalia</country>
+    <episode-num system="onscreen">S3 E9</episode-num>
+  </programme>
+  <programme start="20230630153000 +0000" stop="20230630154500 +0000" channel="etv.ee">
     <title lang="et">Aktuaalne Kaamera</title>
     <date>2023</date>
     <category lang="et">Uudised</category>
     <country lang="et">Eesti</country>
-    <episode-num system="onscreen">E625</episode-num>
+    <episode-num system="onscreen">E630</episode-num>
   </programme>
-  <programme start="20230625163000 +0000" stop="20230625170000 +0000" channel="etv2.ee">
-    <title lang="et">Eesti Keeled</title>
-    <title lang="en">Ans</title>
-    <desc lang="et">Ansambel "Eesti Keeled" esitab Jaak Sooääre, Raul Söödi ja Riho Sibula loomingut. Ansambli koosseis: Tuule Kann (kannel), Pille Karras (kannel), Jaak Sooäär (kitarr), Ain Agan (kitarr); kaastegevad Riho Sibul (vokaal, kitarr) ja Jaak Johanson (vokaal). Režissöör Jüri Tallinn.</desc>
-    <date>2001</date>
-    <country lang="et">Eesti</country>
-  </programme>
-  <programme start="20230625170000 +0000" stop="20230625172000 +0000" channel="etv2.ee">
-    <title lang="et">Ahvatlev ettepanek</title>
-    <sub-title lang="et">Riho Sibul</sub-title>
-    <desc lang="et">Mis on blues? See on üksindustunne, mis tõuseb inimhinge kõige sügavamatest sügavustest. Kitarrist Riho Sibul jagab oma üksindustunnet stuudios Margus Kappeliga ja sellest sünnib blues. Režissöör Marek Inno, helirežissöör Enn Laidre, toimetaja Vesta Uuetoa.</desc>
-    <date>1993</date>
+  <programme start="20230630154500 +0000" stop="20230630161500 +0000" channel="etv.ee">
+    <title lang="et">Siin me oleme</title>
+    <sub-title lang="et">Kodukaitsjad</sub-title>
+    <desc lang="et">Ukraina sõja algusest on Kaitseliiduga liitunud umbes 4000 uut liiget, neist pea 1200 naised. Eestlaste soov oma kodu kaitsta on suurem kui kunagi varem. Kes on need mehed ja naised, kes vajadusel relva haaravad ning rindele lähevad? Saatejuht-toimetaja Mirjam Mõttus, toimetaja Laura Kõrvits, režissöör Meelis Mikker, produtsent Tiina Koljak.(n)</desc>
+    <date>2022</date>
     <category lang="et">Telesari</category>
     <country lang="et">Eesti</country>
-    <episode-num system="onscreen">E12</episode-num>
+    <episode-num system="onscreen">S2 E12</episode-num>
   </programme>
-  <programme start="20230625172000 +0000" stop="20230625182000 +0000" channel="etv2.ee">
-    <title lang="et">ETV live</title>
-    <sub-title lang="et">Ultima Thule. Tuulatud Thule</sub-title>
-    <desc lang="et">Pirita kloostri iidsete müüride vahel toimunud vaatemänguline kontsert pakub meeleoluka valiku "Ultima Thule" parimatest paladest Tõnis Mäe ja Tallinna Kammerorkestri osalusel ning Tarmo Leinatamme juhatusel. Oma mõtteid ansambli muusikast ja selle tähendusest muutuvas ajas jagavad vaatajatega Riho Sibul ning Raul Vaigla. Režissöör Ülle Õun.</desc>
-    <date>2006</date>
-    <category lang="et">Telesari</category>
-    <country lang="et">Eesti</country>
-    <episode-num system="onscreen">S1 E2</episode-num>
-  </programme>
-  <programme start="20230625182000 +0000" stop="20230625200000 +0000" channel="etv2.ee">
-    <title lang="et">Võrkpalli naiste hõbeliiga</title>
-    <sub-title lang="et">Finaal</sub-title>
-    <date>2023</date>
-    <category lang="et">Telesari</category>
-    <country lang="et">Eesti</country>
-    <episode-num system="onscreen">E8</episode-num>
-  </programme>
-  <programme start="20230625200000 +0000" stop="20230625213500 +0000" channel="etv2.ee">
-    <title lang="et">Emainstinkt</title>
-    <title lang="en">Duelles</title>
-    <desc lang="et">R: Olivier Masset-Depasse. Stiilse psühholoogilise thriller'i tegevus toimub 1950.-1960. aastatel. Alice (Veerle Baetens) ja Céline (Anne Coesens) elavad väikekodanlikus idüllis – nad on naabrinnad ning parimad sõbrannad ja nende üheealised pojad on lähedased nagu vennad. Naiste täielikku teineteisemõistmisesse tekib aga mõra, kui Céline’i poeg Maxime teise korruse aknast alla kukub ja surma saab. Leinav Céline süüdistab sisimas sõbrannat, et too oleks saanud hea tahtmise korral poisi elu päästa. Pinged kasvavad ja Alice’ile tundub üha enam, et Céline on hakanud kahtlaselt käituma tema poja Theoga….</desc>
-    <date>2018</date>
-    <category lang="et">Filmid</category>
-    <country lang="et">Belgia, Prantsuse</country>
-  </programme>
-  <programme start="20230625213500 +0000" stop="20230625224100 +0000" channel="etv2.ee">
-    <title lang="et">Äraostmatud</title>
-    <desc lang="et">Kui uurijad sündmuspaika jõuavad, on Pilkinson tapetud ja kaks naist kadunud. Pärast Kate'i ja Davidsoni tabamist algab pikk ülekuulamine, kus Davidson saab  teada ka oma päritolu saladuse.</desc>
+  <programme start="20230630161500 +0000" stop="20230630170000 +0000" channel="etv.ee">
+    <title lang="et">Sõbrad muusikas</title>
+    <sub-title lang="et">Anu Kaal ja Voldemar Kuslap</sub-title>
+    <desc lang="et">Ooperilaulja Anu Kaal tähistas oma 80. juubelit. Tänu oma erilisele häälele (koloratuursopran) on laulja kaasa teinud paljudes "Estonias" lavale toodud ooperites, näiteks on ta esitanud nimiosa “Lucia di Lammermooris”; olnud Roxane “Cyrano de Bergeracis", Violetta “Traviatas”, Gilda “Rigolettos” jne. Anu Kaalu kauaaegseks ja usaldusväärseks lavapartneriks oli bariton Voldemar Kuslap, kes on endiselt särav ning heas vormis. Kahe muusiku sõprus sai alguse kursusekaaslastena konservatooriumis õppides ja on kestnud läbi pika lavatee. Saatejuht Reet Linna, režissöör Märten Vaher, toimetajad Ene-Maris Tali ja Marika Kaasik, assistent Katrin Tõnts, produtsent Ene-Maris Tali.(n)</desc>
     <date>2020</date>
     <category lang="et">Telesari</category>
-    <country lang="et">Inglise</country>
-    <episode-num system="onscreen">S6 E6</episode-num>
+    <country lang="et">Eesti</country>
+    <episode-num system="onscreen">S1 E4</episode-num>
   </programme>
-  <programme start="20230625224100 +0000" stop="20230626040000 +0000" channel="etv2.ee">
-    <title lang="et">ERR.ee uudised</title>
+  <programme start="20230630170000 +0000" stop="20230630173000 +0000" channel="etv.ee">
+    <title lang="et">Vilen Künnapu. Majad ja maailm</title>
+    <desc lang="et">Eesti üks skandaalsemaid, aga ka omanäolisemaid arhitekte Vilen Künnapu pälvis Kultuurkapitali arhitektuuri valdkonna elutööpreemia. Nüüd teeb ta Marko Reikopile oma loomingu sees tuuri ja avaldab, mis teda maailmas enim liigutab ning kõnetab. Toimetaja Kai Väärtnõu, režissöör Kaili Lehtemaa.Täna on Vilen Künnapul 75. sünnipäev. Palju õnne!(n)</desc>
+    <date>2022</date>
+    <country lang="et">Eesti</country>
+  </programme>
+  <programme start="20230630173000 +0000" stop="20230630180000 +0000" channel="etv.ee">
+    <title lang="et">Kodukäijad</title>
+    <desc lang="et">Ootamatustest tulvil saatesarjas hakkavad elustiiliekspert Anu Saagim, kultuurikuller Mart Juur ja arhitekt Raul Vaiksoo detektiivideks. Tuntud eestlased avavad oma kodu uksed ja detektiividel tuleb oma kogemuse, terava nina ning tunnetuse abil ära arvata, kelle koju nad on sattunud. Saatejuht Kaidor Kahar, režissöör Tarvo Tammeoks, toimetajad Teet Teder, Kai Väärtnõu. Tootja Illuminaat OÜ.(n)</desc>
+    <date>2021</date>
+    <category lang="et">Telesari</category>
+    <country lang="et">Eesti</country>
+    <episode-num system="onscreen">S1 E7</episode-num>
+  </programme>
+  <programme start="20230630180000 +0000" stop="20230630182500 +0000" channel="etv.ee">
+    <title lang="et">Aktuaalne Kaamera</title>
+    <date>2023</date>
+    <category lang="et">Uudised</category>
+    <country lang="et">Eesti</country>
+    <episode-num system="onscreen">E630</episode-num>
+  </programme>
+  <programme start="20230630182500 +0000" stop="20230630183500 +0000" channel="etv.ee">
+    <title lang="et">Sport</title>
     <date>2023</date>
     <category lang="et">Telesari</category>
     <country lang="et">Eesti</country>
-    <episode-num system="onscreen">E176</episode-num>
+    <episode-num system="onscreen">E128</episode-num>
+  </programme>
+  <programme start="20230630183500 +0000" stop="20230630193000 +0000" channel="etv.ee">
+    <title lang="et">Pagendatud</title>
+    <desc lang="et">Seersant Timmis ei julge Jamesi džunglis jälitada ja valetab, et laskis ta maha. Vikaar Johnson käsib Anne Meredithil oma selgeltnägemisvõime maha salata. Proua Johnson ei usu seda. Johnsonid paljastavad Rossi sadistliku käitumise Kittyga.(n)</desc>
+    <date>2015</date>
+    <category lang="et">Telesari</category>
+    <country lang="et">Austraalia, Inglise</country>
+    <episode-num system="onscreen">E4</episode-num>
   </programme>
   <programme start="20230626040000 +0000" stop="20230626041000 +0000" channel="etv2.ee">
     <title lang="et">Rebased ja mägrad</title>
@@ -2828,7 +2583,7 @@
   <programme start="20230628204500 +0000" stop="20230628211500 +0000" channel="etv2.ee">
     <title lang="et">27</title>
     <sub-title lang="et">Mõistus ja tunded</sub-title>
-    <desc lang="et">Tänase Euroopa Liidu eelkäija oli kuuest riigist koosnev Euroopa Söe- ja Teraseühendus ning Euroopa suurim söekaevandus asus kunagisel Lääne-Saksamaal. Indrek Treufeldt ei peljanud selle Ruhri hiiglase sügavustesse laskuda. Ilma söeta ei toodeta ka ühtki kuulsat Koh-i-Noori pliiatsit, mille vabrik asub Tšehhis. Tšehhi Vabariigi pealinnas asub ka kunagise sametrevolutsiooni peakorter ja revolutsiooniline teater "Laterna Magika", mille tegijatega sai jutu peale Piret Järvis.(n)</desc>
+    <desc lang="et">Tänase Euroopa Liidu eelkäija oli kuuest riigist koosnev Euroopa Söe- ja Teraseühendus ning Euroopa suurim söekaevandus asus kunagisel Lääne-Saksamaal. Indrek Treufeldt ei peljanud selle Ruhri hiiglase sügavustesse laskuda. Ilma söeta ei toodeta ka ühtki kuulsat Koh-i-Noori pliiatsit, mille vabrik asub Tšehhis. Tšehhi Vabariigi pealinnas asub ka kunagise sametrevolutsiooni peakorter ja revolutsiooniline teater "Laterna Magika", mille tegijatega sai jutu peale Piret Järvis.</desc>
     <date>2012</date>
     <category lang="et">Telesari</category>
     <country lang="et">Eesti</country>
@@ -2836,7 +2591,7 @@
   </programme>
   <programme start="20230628211500 +0000" stop="20230628221000 +0000" channel="etv2.ee">
     <title lang="et">Salateenistus</title>
-    <desc lang="et">Tänu Malotru heale ideele tuleb DGSE Nadiale appi. Shapurist on saamas DGSE allikas. Malotru kasutab Toufik Boumaza missiooni lõpetamiseks ebaharilikke meetodeid.(n)</desc>
+    <desc lang="et">Tänu Malotru heale ideele tuleb DGSE Nadiale appi. Shapurist on saamas DGSE allikas. Malotru kasutab Toufik Boumaza missiooni lõpetamiseks ebaharilikke meetodeid.</desc>
     <date>2016</date>
     <category lang="et">Telesari</category>
     <country lang="et">Prantsuse</country>
@@ -2845,7 +2600,7 @@
   <programme start="20230628221000 +0000" stop="20230628230000 +0000" channel="etv2.ee">
     <title lang="et">Ameerika värvipildis</title>
     <sub-title lang="et">Mänguaeg</sub-title>
-    <desc lang="et">Ameeriklaste elujärg hakkab 20. sajandi alguses kiiresti paranema - tööpäevad lühenevad, palgad tõusevad, jõukamal ühiskonnaosal jääb rohkem aega lõbustusteks ja spordiks. Uus põlvkond näeb võimalust barjääride lõhkumiseks. Vabast ajast saab Ameerika identiteedi nurgakivi. Arhiivi- ja amatöörfilmide abiga näeme seda lugu värvipildis.(n)</desc>
+    <desc lang="et">Ameeriklaste elujärg hakkab 20. sajandi alguses kiiresti paranema - tööpäevad lühenevad, palgad tõusevad, jõukamal ühiskonnaosal jääb rohkem aega lõbustusteks ja spordiks. Uus põlvkond näeb võimalust barjääride lõhkumiseks. Vabast ajast saab Ameerika identiteedi nurgakivi. Arhiivi- ja amatöörfilmide abiga näeme seda lugu värvipildis.</desc>
     <date>2018</date>
     <category lang="et">Dokumentaal</category>
     <country lang="et">USA</country>
@@ -2854,7 +2609,7 @@
   <programme start="20230628230000 +0000" stop="20230628232800 +0000" channel="etv2.ee">
     <title lang="et">Hajameelselt abielus</title>
     <sub-title lang="et">Kes keda</sub-title>
-    <desc lang="et">Raivo maadleb sudokuga. Vilve uurib loputuskasti hingeelu. Britta küsitleb kõiki. Harald arendab rohelist mõtteviisi. Kes kavaldab kelle üle?(n)</desc>
+    <desc lang="et">Raivo maadleb sudokuga. Vilve uurib loputuskasti hingeelu. Britta küsitleb kõiki. Harald arendab rohelist mõtteviisi. Kes kavaldab kelle üle?</desc>
     <date>2006</date>
     <category lang="et">Telesari</category>
     <country lang="et">Eesti</country>
@@ -2870,7 +2625,7 @@
   <programme start="20230629040000 +0000" stop="20230629041000 +0000" channel="etv2.ee">
     <title lang="et">Rebased ja mägrad</title>
     <sub-title lang="et">Nälkjajaht</sub-title>
-    <desc lang="et">Mammul tuleb piimahammas ära ja sel puhul korraldatakse urus eriline sündmus.(n)</desc>
+    <desc lang="et">Mammul tuleb piimahammas ära ja sel puhul korraldatakse urus eriline sündmus.</desc>
     <date>2016</date>
     <category lang="et">Telesari</category>
     <country lang="et">Prantsuse</country>
@@ -2879,7 +2634,7 @@
   <programme start="20230629041000 +0000" stop="20230629042000 +0000" channel="etv2.ee">
     <title lang="et">Minu rüütel ja mina</title>
     <sub-title lang="et">Juustune lugu</sub-title>
-    <desc lang="et">Nõid võtab Juku ja Henri pantvangi. Veel suuremat ohtu kujutab aga nõia plaani teine osa - ta paneb Katsi uskuma, et nõidasid polegi olemas, nad on lihtsalt ägedad printsessid, keda ei mõisteta. Kats tunneb, et on lõpuks ometi leidnud kellegi, kes teda ja ta unistusi mõistab.(n)</desc>
+    <desc lang="et">Nõid võtab Juku ja Henri pantvangi. Veel suuremat ohtu kujutab aga nõia plaani teine osa - ta paneb Katsi uskuma, et nõidasid polegi olemas, nad on lihtsalt ägedad printsessid, keda ei mõisteta. Kats tunneb, et on lõpuks ometi leidnud kellegi, kes teda ja ta unistusi mõistab.</desc>
     <date>2016</date>
     <category lang="et">Telesari</category>
     <country lang="et">Belgia, Prantsuse</country>
@@ -2888,7 +2643,7 @@
   <programme start="20230629042000 +0000" stop="20230629043500 +0000" channel="etv2.ee">
     <title lang="et">Džungliässad</title>
     <sub-title lang="et">Põrsatüüka laager</sub-title>
-    <desc lang="et">Miniässad lähevad Põrsatüüka laagrisse kunsti õppima ja kohtuvad noore kaelkirjaku Blekiga, kes on samuti suur kunstihuviline. Kahjuks ei suuda õpetaja Salvador tema loomingut õiglaselt hinnata… kuni Lola aitab õpetajal leida õige vaatenurga.(n)</desc>
+    <desc lang="et">Miniässad lähevad Põrsatüüka laagrisse kunsti õppima ja kohtuvad noore kaelkirjaku Blekiga, kes on samuti suur kunstihuviline. Kahjuks ei suuda õpetaja Salvador tema loomingut õiglaselt hinnata… kuni Lola aitab õpetajal leida õige vaatenurga.</desc>
     <date>2019</date>
     <category lang="et">Telesari</category>
     <country lang="et">Prantsuse</country>
@@ -2897,7 +2652,7 @@
   <programme start="20230629043500 +0000" stop="20230629044500 +0000" channel="etv2.ee">
     <title lang="et">Väike printsess</title>
     <sub-title lang="et">Kodus ja võõrsil</sub-title>
-    <desc lang="et">Väike Printsess on hädas külalisega, kes igatseb kangesti koju tagasi.(n)</desc>
+    <desc lang="et">Väike Printsess on hädas külalisega, kes igatseb kangesti koju tagasi.</desc>
     <date>2018</date>
     <category lang="et">Telesari</category>
     <country lang="et">Inglise</country>
@@ -2906,7 +2661,7 @@
   <programme start="20230629044500 +0000" stop="20230629045500 +0000" channel="etv2.ee">
     <title lang="et">Ernest ja Celestine</title>
     <sub-title lang="et">Vana klaver</sub-title>
-    <desc lang="et">Müügimees Martin kutsub Ernesti Uude Kaubamajja esinema, kohapeal aga selgub, et sealne vana klaverilogu on täiesti häälest ära.(n)</desc>
+    <desc lang="et">Müügimees Martin kutsub Ernesti Uude Kaubamajja esinema, kohapeal aga selgub, et sealne vana klaverilogu on täiesti häälest ära.</desc>
     <date>2017</date>
     <category lang="et">Telesari</category>
     <country lang="et">Prantsuse</country>
@@ -2915,7 +2670,7 @@
   <programme start="20230629045500 +0000" stop="20230629051000 +0000" channel="etv2.ee">
     <title lang="et">Peeter Pikk-kõrv</title>
     <sub-title lang="et">Lugu Vanaroostest</sub-title>
-    <desc lang="et">Peeter võtab koos sõpradega ette teekonna salapärasele Kaljusaarele, et leida üles „Vanarooste“, mida Peetri isa oma päevikus mainib.(n)</desc>
+    <desc lang="et">Peeter võtab koos sõpradega ette teekonna salapärasele Kaljusaarele, et leida üles „Vanarooste“, mida Peetri isa oma päevikus mainib.</desc>
     <date>2012</date>
     <category lang="et">Telesari</category>
     <country lang="et">USA</country>
@@ -2932,7 +2687,7 @@
   </programme>
   <programme start="20230629051500 +0000" stop="20230629052000 +0000" channel="etv2.ee">
     <title lang="et">Pips ja Popi</title>
-    <desc lang="et">Pips ja Popi püüavad naljatades üksteist hirmutada ning Pips ajab lõpuks Popile päriselt hirmu peale.(n)</desc>
+    <desc lang="et">Pips ja Popi püüavad naljatades üksteist hirmutada ning Pips ajab lõpuks Popile päriselt hirmu peale.</desc>
     <date>2021</date>
     <category lang="et">Telesari</category>
     <country lang="et">Inglise</country>
@@ -2942,7 +2697,7 @@
     <title lang="et">Zorro seiklused</title>
     <title lang="en">Carte Blanche</title>
     <sub-title lang="et">Uus kapten</sub-title>
-    <desc lang="et">Zorro ratsutab Montereysse, et anda õppetund asevalitseja Parasolile, kes on tulnud lihtrahvalt makse koguma. Kuna kapten Monasterio ei saa endiselt Zorro kinnipüüdmisega hakkama, näeb donna Isabella Verdugo selles võimalust sokutada uueks kapteniks oma õepoeg Ignacio Toledano.(n)</desc>
+    <desc lang="et">Zorro ratsutab Montereysse, et anda õppetund asevalitseja Parasolile, kes on tulnud lihtrahvalt makse koguma. Kuna kapten Monasterio ei saa endiselt Zorro kinnipüüdmisega hakkama, näeb donna Isabella Verdugo selles võimalust sokutada uueks kapteniks oma õepoeg Ignacio Toledano.</desc>
     <date>2015</date>
     <category lang="et">Telesari</category>
     <country lang="et">Prantsuse</country>
@@ -2950,7 +2705,7 @@
   </programme>
   <programme start="20230629054500 +0000" stop="20230629060000 +0000" channel="etv2.ee">
     <title lang="et">NOVA</title>
-    <desc lang="et">Fred käis uue noorteseriaali “Homme põgeneme” esikapeo melus uudistamas. Sandra Novaatori portaalist selgitab meile nüüd, miks me haigutame ja kas see on ka nakkav. NOVA topib oma nina sinna, kus on põnevust, uut ja vajalikku, head muusikat ja ägedaid nippe! Kõigele, mis toimub koolis, trennis ja mida muidu vabal ajal ette võtta, annab vastused laste oma saade NOVA! Vaata meid esmaspäevast neljapäevani kas kell 16.45 või 18.45. Meie saatejuhtidele ja reporteritele saad oma ideid, soove ja küllakutseid saata e-posti nova@err.ee. Sarja toimetavad Laura Kõrvits ja Lota Viik, režissöörid Kristo Veinberg ja Maarja Pärsim.(n)</desc>
+    <desc lang="et">Fred käis uue noorteseriaali “Homme põgeneme” esikapeo melus uudistamas. Sandra Novaatori portaalist selgitab meile nüüd, miks me haigutame ja kas see on ka nakkav. NOVA topib oma nina sinna, kus on põnevust, uut ja vajalikku, head muusikat ja ägedaid nippe! Kõigele, mis toimub koolis, trennis ja mida muidu vabal ajal ette võtta, annab vastused laste oma saade NOVA! Vaata meid esmaspäevast neljapäevani kas kell 16.45 või 18.45. Meie saatejuhtidele ja reporteritele saad oma ideid, soove ja küllakutseid saata e-posti nova@err.ee. Sarja toimetavad Laura Kõrvits ja Lota Viik, režissöörid Kristo Veinberg ja Maarja Pärsim.</desc>
     <date>2022</date>
     <category lang="et">Telesari</category>
     <country lang="et">Eesti</country>
@@ -2959,7 +2714,7 @@
   <programme start="20230629060000 +0000" stop="20230629061000 +0000" channel="etv2.ee">
     <title lang="et">Meisterdamised Mariga. Herbaarium</title>
     <sub-title lang="et">Meisterdamised Mariga. Herbaarium</sub-title>
-    <desc lang="et">Tom uurib Muhumaa suvist loodust ja Mari Viik õpetab, kuidas huvitavamad taimed herbaariumisse sättida. Režissöör Elo Selirand.(n)</desc>
+    <desc lang="et">Tom uurib Muhumaa suvist loodust ja Mari Viik õpetab, kuidas huvitavamad taimed herbaariumisse sättida. Režissöör Elo Selirand.</desc>
     <date>2009</date>
     <category lang="et">Telesari</category>
     <country lang="et">Eesti</country>
@@ -2968,7 +2723,7 @@
   <programme start="20230629061000 +0000" stop="20230629062000 +0000" channel="etv2.ee">
     <title lang="et">Minu lemmikloom</title>
     <sub-title lang="et">Tšintšilja</sub-title>
-    <desc lang="et">Riste-Liisi nägi loomapoes tšintšiljasid ja talle hakkasid need armsad pehme karvaga loomakesed nii meeldima, et tema lemmikloom oligi otsustatud. Nüüd on tal kodus juba kaks tšintšiljat ja ta oskab öelda, kui erineva iseloomuga võivad need loomad olla. Kui päev möödub rahulikult puuri nurgas istudes, siis öösel läheb lahti tõeline möll. Tšintšiljasid kutsutakse nende pehme kasuka pärast ka villahiirteks. Toimetaja Õie Arusoo, monteerija Margus Vettik, produtsent Hannula Agur-Lepp.(n)</desc>
+    <desc lang="et">Riste-Liisi nägi loomapoes tšintšiljasid ja talle hakkasid need armsad pehme karvaga loomakesed nii meeldima, et tema lemmikloom oligi otsustatud. Nüüd on tal kodus juba kaks tšintšiljat ja ta oskab öelda, kui erineva iseloomuga võivad need loomad olla. Kui päev möödub rahulikult puuri nurgas istudes, siis öösel läheb lahti tõeline möll. Tšintšiljasid kutsutakse nende pehme kasuka pärast ka villahiirteks. Toimetaja Õie Arusoo, monteerija Margus Vettik, produtsent Hannula Agur-Lepp.</desc>
     <date>2012</date>
     <category lang="et">Telesari</category>
     <country lang="et">Eesti</country>
@@ -2976,14 +2731,14 @@
   </programme>
   <programme start="20230629062000 +0000" stop="20230629063000 +0000" channel="etv2.ee">
     <title lang="et">Õed</title>
-    <desc lang="et">Lugu kahest kiuslikust õest, kes kogu elu omavahel tülitsevad. Stsenarist ja režissöör Elbert Tuganov.(n)</desc>
+    <desc lang="et">Lugu kahest kiuslikust õest, kes kogu elu omavahel tülitsevad. Stsenarist ja režissöör Elbert Tuganov.</desc>
     <date>1974</date>
     <category lang="et">Filmid</category>
     <country lang="et">Eesti</country>
   </programme>
   <programme start="20230629063000 +0000" stop="20230629070000 +0000" channel="etv2.ee">
     <title lang="et">Ringvaade suvel</title>
-    <desc lang="et">"Ringvaade" toob suvel vaatajate ette Eesti elu kirevaimad tegelased ja suurimad seiklused. Saatejuhid Grete Lõbu, Marko Reikop, Anna Pihl, Hannes Hermaküla ja Jüri Muttika on eetris ning igav nendega ei hakka.(n)</desc>
+    <desc lang="et">"Ringvaade" toob suvel vaatajate ette Eesti elu kirevaimad tegelased ja suurimad seiklused. Saatejuhid Grete Lõbu, Marko Reikop, Anna Pihl, Hannes Hermaküla ja Jüri Muttika on eetris ning igav nendega ei hakka.</desc>
     <date>2023</date>
     <category lang="et">Telesari</category>
     <country lang="et">Eesti</country>
@@ -2992,7 +2747,7 @@
   <programme start="20230629070000 +0000" stop="20230629073000 +0000" channel="etv2.ee">
     <title lang="et">27</title>
     <sub-title lang="et">Mõistus ja tunded</sub-title>
-    <desc lang="et">Tänase Euroopa Liidu eelkäija oli kuuest riigist koosnev Euroopa Söe- ja Teraseühendus ning Euroopa suurim söekaevandus asus kunagisel Lääne-Saksamaal. Indrek Treufeldt ei peljanud selle Ruhri hiiglase sügavustesse laskuda. Ilma söeta ei toodeta ka ühtki kuulsat Koh-i-Noori pliiatsit, mille vabrik asub Tšehhis. Tšehhi Vabariigi pealinnas asub ka kunagise sametrevolutsiooni peakorter ja revolutsiooniline teater "Laterna Magika", mille tegijatega sai jutu peale Piret Järvis.(n)</desc>
+    <desc lang="et">Tänase Euroopa Liidu eelkäija oli kuuest riigist koosnev Euroopa Söe- ja Teraseühendus ning Euroopa suurim söekaevandus asus kunagisel Lääne-Saksamaal. Indrek Treufeldt ei peljanud selle Ruhri hiiglase sügavustesse laskuda. Ilma söeta ei toodeta ka ühtki kuulsat Koh-i-Noori pliiatsit, mille vabrik asub Tšehhis. Tšehhi Vabariigi pealinnas asub ka kunagise sametrevolutsiooni peakorter ja revolutsiooniline teater "Laterna Magika", mille tegijatega sai jutu peale Piret Järvis.</desc>
     <date>2012</date>
     <category lang="et">Telesari</category>
     <country lang="et">Eesti</country>
@@ -3001,7 +2756,7 @@
   <programme start="20230629073000 +0000" stop="20230629075500 +0000" channel="etv2.ee">
     <title lang="et">Hajameelselt abielus</title>
     <sub-title lang="et">Britta ruudus 1</sub-title>
-    <desc lang="et">Raivo teenib lisa, kuid varjab seda. Sirli ja Teine Peeter räägivad tähtedest. Brittal tekivad kahtlused. Kõik usaldavad Haraldit. Raivo kohtub kuulsusega ja ei usu oma silmi.(n)</desc>
+    <desc lang="et">Raivo teenib lisa, kuid varjab seda. Sirli ja Teine Peeter räägivad tähtedest. Brittal tekivad kahtlused. Kõik usaldavad Haraldit. Raivo kohtub kuulsusega ja ei usu oma silmi.</desc>
     <date>2006</date>
     <category lang="et">Telesari</category>
     <country lang="et">Eesti</country>
@@ -3009,7 +2764,7 @@
   </programme>
   <programme start="20230629075500 +0000" stop="20230629081500 +0000" channel="etv2.ee">
     <title lang="et">31. jaoskond</title>
-    <desc lang="et">Lily tapmises kahtlustatavad astuvad valedetektori ette. Da-Xia avastab ühe kahtlusaluse internetikasutuses midagi tähtsat. Isabelle kuuleb, et härra Beauvais' naine sattus haiglasse. Bruno Gagné ilmub lõpuks jaoskonda.(n)</desc>
+    <desc lang="et">Lily tapmises kahtlustatavad astuvad valedetektori ette. Da-Xia avastab ühe kahtlusaluse internetikasutuses midagi tähtsat. Isabelle kuuleb, et härra Beauvais' naine sattus haiglasse. Bruno Gagné ilmub lõpuks jaoskonda.</desc>
     <date>2016</date>
     <category lang="et">Telesari</category>
     <country lang="et">Kanada</country>
@@ -3017,7 +2772,7 @@
   </programme>
   <programme start="20230629081500 +0000" stop="20230629091000 +0000" channel="etv2.ee">
     <title lang="et">Salateenistus</title>
-    <desc lang="et">Celine ja Malotru peavad manipuleerima Saksa ajakirjanikuga, kellel on ISIS-es allikas. Duflot ei mõista, kuidas õnnestus ameeriklastel neid koduväljakul ära petta.(n)</desc>
+    <desc lang="et">Celine ja Malotru peavad manipuleerima Saksa ajakirjanikuga, kellel on ISIS-es allikas. Duflot ei mõista, kuidas õnnestus ameeriklastel neid koduväljakul ära petta.</desc>
     <date>2016</date>
     <category lang="et">Telesari</category>
     <country lang="et">Prantsuse</country>
@@ -3026,7 +2781,7 @@
   <programme start="20230629091000 +0000" stop="20230629094200 +0000" channel="etv2.ee">
     <title lang="et">Uudishimu tippkeskus</title>
     <sub-title lang="et">Muusika</sub-title>
-    <desc lang="et">Laulupidude traditsioon tähistas uhket 150. sünnipäeva. Koorilaulu pealekasvus on aga näha mõnd murepilve. Kas noored eestlased on ikka laulurahvas või on nad leidnud muid hobisid? Kuidas hoida traditsiooni muutuvas kultuuriruumis? Saatejuht Maarja Merivoo-Parro, toimetajad Marju Himma, Greete Lehepuu, Sandra Saar ja Kaur Maran, režissöör Margo Siimon. Tootjad Vesilind OÜ ja Filmit OÜ.(n)</desc>
+    <desc lang="et">Laulupidude traditsioon tähistas uhket 150. sünnipäeva. Koorilaulu pealekasvus on aga näha mõnd murepilve. Kas noored eestlased on ikka laulurahvas või on nad leidnud muid hobisid? Kuidas hoida traditsiooni muutuvas kultuuriruumis? Saatejuht Maarja Merivoo-Parro, toimetajad Marju Himma, Greete Lehepuu, Sandra Saar ja Kaur Maran, režissöör Margo Siimon. Tootjad Vesilind OÜ ja Filmit OÜ.</desc>
     <date>2019</date>
     <category lang="et">Telesari</category>
     <country lang="et">Eesti</country>
@@ -3042,7 +2797,7 @@
   <programme start="20230629123000 +0000" stop="20230629130000 +0000" channel="etv2.ee">
     <title lang="et">Londiste</title>
     <title lang="en">Iko Maran/E. Viilup</title>
-    <desc lang="et">Londiste õpetab Siimu lendama! Pärast selgub, et see oli ikkagi uni. Või ei olnud? Sõbrad lähevad õue katsetama, aga välja ilmub Londiste päevakoer, kes hammustab Siimu jalast. Õhtul aga jääb poiss tõsiselt haigeks. Londiste on õnnetu, kuid küll ta mõtleb midagi välja. Osades Madis Sinijärv (Siim), Tiina Tõnis (Londiste), Anne Veesaar (ema), Raivo E. Tamm (isa). Režissöör Karin Nurm.(n)</desc>
+    <desc lang="et">Londiste õpetab Siimu lendama! Pärast selgub, et see oli ikkagi uni. Või ei olnud? Sõbrad lähevad õue katsetama, aga välja ilmub Londiste päevakoer, kes hammustab Siimu jalast. Õhtul aga jääb poiss tõsiselt haigeks. Londiste on õnnetu, kuid küll ta mõtleb midagi välja. Osades Madis Sinijärv (Siim), Tiina Tõnis (Londiste), Anne Veesaar (ema), Raivo E. Tamm (isa). Režissöör Karin Nurm.</desc>
     <date>1992</date>
     <category lang="et">Telesari</category>
     <country lang="et">Eesti</country>
@@ -3050,7 +2805,7 @@
   </programme>
   <programme start="20230629130000 +0000" stop="20230629131500 +0000" channel="etv2.ee">
     <title lang="et">Zombi Lars</title>
-    <desc lang="et">Caroline peab tegema tähtsa valiku, kuid tema otsus on emale üllatav. Tess astub välja puuriloomade kaitseks.(n)</desc>
+    <desc lang="et">Caroline peab tegema tähtsa valiku, kuid tema otsus on emale üllatav. Tess astub välja puuriloomade kaitseks.</desc>
     <date>2018</date>
     <category lang="et">Telesari</category>
     <country lang="et">Norra</country>
@@ -3058,7 +2813,7 @@
   </programme>
   <programme start="20230629131500 +0000" stop="20230629133000 +0000" channel="etv2.ee">
     <title lang="et">Zombi Lars</title>
-    <desc lang="et">Caroline pole koju jõudnud ja Torill süüdistab selles Larsi. Ta kutsub sõprade vanemad kooli ja valetab neile.(n)</desc>
+    <desc lang="et">Caroline pole koju jõudnud ja Torill süüdistab selles Larsi. Ta kutsub sõprade vanemad kooli ja valetab neile.</desc>
     <date>2018</date>
     <category lang="et">Telesari</category>
     <country lang="et">Norra</country>
@@ -3067,7 +2822,7 @@
   <programme start="20230629133000 +0000" stop="20230629134000 +0000" channel="etv2.ee">
     <title lang="et">Indiaanipoiss Yakari</title>
     <sub-title lang="et">Tagurpidi</sub-title>
-    <desc lang="et">Piisonisilm võtab pähe teha kõike täpselt vastupidi sellele, mida talle öeldakse.(n)</desc>
+    <desc lang="et">Piisonisilm võtab pähe teha kõike täpselt vastupidi sellele, mida talle öeldakse.</desc>
     <date>2016</date>
     <category lang="et">Telesari</category>
     <country lang="et">Prantsuse</country>
@@ -3076,7 +2831,7 @@
   <programme start="20230629134000 +0000" stop="20230629135500 +0000" channel="etv2.ee">
     <title lang="et">Rebased ja mägrad</title>
     <sub-title lang="et">Perelisa</sub-title>
-    <desc lang="et">Edmund ja Margaret käituvad salatsevalt ning lapsed kahtlustavad, et perre on peagi lisa oodata.(n)</desc>
+    <desc lang="et">Edmund ja Margaret käituvad salatsevalt ning lapsed kahtlustavad, et perre on peagi lisa oodata.</desc>
     <date>2016</date>
     <category lang="et">Telesari</category>
     <country lang="et">Prantsuse</country>
@@ -3085,7 +2840,7 @@
   <programme start="20230629135500 +0000" stop="20230629140000 +0000" channel="etv2.ee">
     <title lang="et">Fiksikud</title>
     <sub-title lang="et">Papagoi</sub-title>
-    <desc lang="et">Kes on fiksikud? See on suur saladus. Fiksikud hoolitsevad seadmete eest, puhastavad, määrivad ja kui vaja, ka remondivad. Fiksikud varjavad end inimeste eest, aga nad on kõikjal - arvutites, külmikutes, televiisorites.(n)</desc>
+    <desc lang="et">Kes on fiksikud? See on suur saladus. Fiksikud hoolitsevad seadmete eest, puhastavad, määrivad ja kui vaja, ka remondivad. Fiksikud varjavad end inimeste eest, aga nad on kõikjal - arvutites, külmikutes, televiisorites.</desc>
     <date>2015</date>
     <category lang="et">Telesari</category>
     <country lang="et">Vene</country>
@@ -3094,7 +2849,7 @@
   <programme start="20230629140000 +0000" stop="20230629141000 +0000" channel="etv2.ee">
     <title lang="et">Siilipoiss Alfredi salapärased seiklused</title>
     <sub-title lang="et">Lillevõistluse mõistatus</sub-title>
-    <desc lang="et">Alfredi ema ja Cynthia ema võistlevad, kes suudab näituse jaoks kasvatada kõige kaunima hortensia. Paraku muudab Alfredi ema lill üleöö värvi ning esikoht ja auhinnareis satuvad ohtu.(n)</desc>
+    <desc lang="et">Alfredi ema ja Cynthia ema võistlevad, kes suudab näituse jaoks kasvatada kõige kaunima hortensia. Paraku muudab Alfredi ema lill üleöö värvi ning esikoht ja auhinnareis satuvad ohtu.</desc>
     <date>2009</date>
     <category lang="et">Telesari</category>
     <country lang="et">Kanada, Prantsuse</country>
@@ -3103,7 +2858,7 @@
   <programme start="20230629141000 +0000" stop="20230629142500 +0000" channel="etv2.ee">
     <title lang="et">Abimehed galaktikast</title>
     <sub-title lang="et">Kaitselüliti</sub-title>
-    <desc lang="et">Täna aitavad abimehed Fency auto ära parandada.(n)</desc>
+    <desc lang="et">Täna aitavad abimehed Fency auto ära parandada.</desc>
     <date>2021</date>
     <category lang="et">Telesari</category>
     <country lang="et">Prantsuse</country>
@@ -3121,7 +2876,7 @@
   <programme start="20230629143000 +0000" stop="20230629144000 +0000" channel="etv2.ee">
     <title lang="et">Peeter Pikk-kõrv</title>
     <sub-title lang="et">Lugu õdedest</sub-title>
-    <desc lang="et">Flopsi ja Mopsi tulevad Peetriga koos marjule ning Peeter avastab, et õed pole sugugi nii abitud, nagu ta on arvanud.(n)</desc>
+    <desc lang="et">Flopsi ja Mopsi tulevad Peetriga koos marjule ning Peeter avastab, et õed pole sugugi nii abitud, nagu ta on arvanud.</desc>
     <date>2012</date>
     <category lang="et">Telesari</category>
     <country lang="et">USA</country>
@@ -3130,7 +2885,7 @@
   <programme start="20230629144000 +0000" stop="20230629145000 +0000" channel="etv2.ee">
     <title lang="et">Džungliässad</title>
     <sub-title lang="et">Gilberti tunnel</sub-title>
-    <desc lang="et">Gilbert on elevil: ta on projekteerinud tunneli, mis viib otse vulkaanist läbi ja peaks sel moel kõigi džunglielanike elu lihtsamaks tegema. Paraku selgub, et tema palgatud töödejuhataja don Pedro on teinud oma tööd ülejala ja pigem omakasule mõeldes….(n)</desc>
+    <desc lang="et">Gilbert on elevil: ta on projekteerinud tunneli, mis viib otse vulkaanist läbi ja peaks sel moel kõigi džunglielanike elu lihtsamaks tegema. Paraku selgub, et tema palgatud töödejuhataja don Pedro on teinud oma tööd ülejala ja pigem omakasule mõeldes….</desc>
     <date>2019</date>
     <category lang="et">Telesari</category>
     <country lang="et">Prantsuse</country>
@@ -3138,7 +2893,7 @@
   </programme>
   <programme start="20230629145000 +0000" stop="20230629150000 +0000" channel="etv2.ee">
     <title lang="et">Pips ja Popi</title>
-    <desc lang="et">Jalgpallimäng läheb untsu, kui Popi lõunasöögikott puu otsa lendab.(n)</desc>
+    <desc lang="et">Jalgpallimäng läheb untsu, kui Popi lõunasöögikott puu otsa lendab.</desc>
     <date>2021</date>
     <category lang="et">Telesari</category>
     <country lang="et">Inglise</country>
@@ -3147,7 +2902,7 @@
   <programme start="20230629150000 +0000" stop="20230629152000 +0000" channel="etv2.ee">
     <title lang="et">Lassie</title>
     <sub-title lang="et">Ohtlik tamm</sub-title>
-    <desc lang="et">Graham viib Zoe ja Harvey vaatama uut kõrgtehnoloogilist tammi. Samas lähedal on kala püüdmas Nick, kes keerab paraja jama kokku, et oma kliendile muljet avaldada. Lassie ja lapsed peavad päästma oru üleujutuse eest.(n)</desc>
+    <desc lang="et">Graham viib Zoe ja Harvey vaatama uut kõrgtehnoloogilist tammi. Samas lähedal on kala püüdmas Nick, kes keerab paraja jama kokku, et oma kliendile muljet avaldada. Lassie ja lapsed peavad päästma oru üleujutuse eest.</desc>
     <date>2018</date>
     <category lang="et">Telesari</category>
     <country lang="et">Prantsuse, Saksa</country>
@@ -3170,7 +2925,7 @@
   </programme>
   <programme start="20230629153000 +0000" stop="20230629154500 +0000" channel="etv2.ee">
     <title lang="et">NOVA</title>
-    <desc lang="et">Saame teada, kes on Vanemuise kollased kassid, Rainer Peterson soovitab e-mänge muusikasõpradele ja küsime lastelt, kuidas elektrit kokku hoida. NOVA topib oma nina sinna, kus on põnevust, uut ja vajalikku, head muusikat ja ägedaid nippe! Kõigele, mis toimub koolis, trennis ja mida muidu vabal ajal ette võtta, annab vastused laste oma saade NOVA! Vaata meid esmaspäevast neljapäevani kas kell 16.45 või 18.45. Meie saatejuhtidele ja reporteritele saad oma ideid, soove ja küllakutseid saata e-posti nova@err.ee. Sarja toimetavad Laura Kõrvits ja Lota Viik, režissöörid Kristo Veinberg ja Maarja Pärsim.(n)</desc>
+    <desc lang="et">Saame teada, kes on Vanemuise kollased kassid, Rainer Peterson soovitab e-mänge muusikasõpradele ja küsime lastelt, kuidas elektrit kokku hoida. NOVA topib oma nina sinna, kus on põnevust, uut ja vajalikku, head muusikat ja ägedaid nippe! Kõigele, mis toimub koolis, trennis ja mida muidu vabal ajal ette võtta, annab vastused laste oma saade NOVA! Vaata meid esmaspäevast neljapäevani kas kell 16.45 või 18.45. Meie saatejuhtidele ja reporteritele saad oma ideid, soove ja küllakutseid saata e-posti nova@err.ee. Sarja toimetavad Laura Kõrvits ja Lota Viik, režissöörid Kristo Veinberg ja Maarja Pärsim.</desc>
     <date>2022</date>
     <category lang="et">Telesari</category>
     <country lang="et">Eesti</country>
@@ -3179,7 +2934,7 @@
   <programme start="20230629154500 +0000" stop="20230629161500 +0000" channel="etv2.ee">
     <title lang="et">Rakett 69</title>
     <sub-title lang="et">Teadusteater</sub-title>
-    <desc lang="et">Käes on kauaoodatud teadusteater, kus raketlased saavad näidata oma kastist välja mõtlemist. Lahustuv alumiinium, hetkeline härmatis ja värvimuutev õun - võistlejad panevad kõik teadmised mängu. Kaks võistlejat peavad minema aga lõppmängu, kus üks peab saatest lahkuma. Tootja Vesilind OÜ.(n)</desc>
+    <desc lang="et">Käes on kauaoodatud teadusteater, kus raketlased saavad näidata oma kastist välja mõtlemist. Lahustuv alumiinium, hetkeline härmatis ja värvimuutev õun - võistlejad panevad kõik teadmised mängu. Kaks võistlejat peavad minema aga lõppmängu, kus üks peab saatest lahkuma. Tootja Vesilind OÜ.</desc>
     <date>2022</date>
     <category lang="et">Telesari</category>
     <country lang="et">Eesti</country>
@@ -3188,7 +2943,7 @@
   <programme start="20230629161500 +0000" stop="20230629162500 +0000" channel="etv2.ee">
     <title lang="et">NO99 Kunstikool</title>
     <sub-title lang="et">Helena</sub-title>
-    <desc lang="et">Me kõik unistame vahel mõnest paremast paigast, kui meile tuttav maailm. Kunstnikud on seda igatsust ja soovi kurjuse eest mujale liikuda korduvalt tundnud ning väljendanud. Seda nii varem kui ka nüüd. Igatsuse ja tegelikkuse, minematahtmise soovi ning siiajäämise paratamatuse vahel tekkiv pinge on toitnud Ene-Liis Semperi, Jüri Arraku, Olev Subbi ja Enn Põldroosi loomingut.(n)</desc>
+    <desc lang="et">Me kõik unistame vahel mõnest paremast paigast, kui meile tuttav maailm. Kunstnikud on seda igatsust ja soovi kurjuse eest mujale liikuda korduvalt tundnud ning väljendanud. Seda nii varem kui ka nüüd. Igatsuse ja tegelikkuse, minematahtmise soovi ning siiajäämise paratamatuse vahel tekkiv pinge on toitnud Ene-Liis Semperi, Jüri Arraku, Olev Subbi ja Enn Põldroosi loomingut.</desc>
     <date>2013</date>
     <category lang="et">Telesari</category>
     <country lang="et">Eesti</country>
@@ -3204,7 +2959,7 @@
   <programme start="20230629163000 +0000" stop="20230629170000 +0000" channel="etv2.ee">
     <title lang="et">27</title>
     <sub-title lang="et">Eesti mäng - Euroopa eri</sub-title>
-    <desc lang="et">Meie saatejuhtide duo on Euroopa Liidule tiiru peale teinud ja kui ühest suust kinnitavad mõlemad, et elujõulisus pulbitseb selle eriilmelise Euroopa koore all kuumalt ning visalt. Kodumaal tagasi olles on aeg teha kokkuvõtteid ning meenutada külastatud riikides nähtut ja kuuldut. Ja kuidas võikski seda paremini teha kui ühe hea mänguga? Saadet juhib "Eesti mängust" tuttav Gaute Kivistik, võistlustulle asuvad mõistagi Euroopa-spetsideks saanud Piret Järvis ja Indrek Treufeldt, neile astub vastu meie mees Brüsselis ehk Ivari Padar.(n)</desc>
+    <desc lang="et">Meie saatejuhtide duo on Euroopa Liidule tiiru peale teinud ja kui ühest suust kinnitavad mõlemad, et elujõulisus pulbitseb selle eriilmelise Euroopa koore all kuumalt ning visalt. Kodumaal tagasi olles on aeg teha kokkuvõtteid ning meenutada külastatud riikides nähtut ja kuuldut. Ja kuidas võikski seda paremini teha kui ühe hea mänguga? Saadet juhib "Eesti mängust" tuttav Gaute Kivistik, võistlustulle asuvad mõistagi Euroopa-spetsideks saanud Piret Järvis ja Indrek Treufeldt, neile astub vastu meie mees Brüsselis ehk Ivari Padar.</desc>
     <date>2012</date>
     <category lang="et">Telesari</category>
     <country lang="et">Eesti</country>
@@ -3213,7 +2968,7 @@
   <programme start="20230629170000 +0000" stop="20230629180000 +0000" channel="etv2.ee">
     <title lang="et">Jaapan linnulennult</title>
     <sub-title lang="et">Teekond Tōkyōsse</sub-title>
-    <desc lang="et">Selles osas külastame Jaapani saarestiku suurimat saart Honshūt, mille kirdeosa ulatub kaugele Tohoku piirkonda. Siin metsiku ja mitmekesise loodusega aladel on veel tänagi näha 2011. aasta tsunami ja maavärina jälgi. Igal talvel katab maad paks lumevaip. Ühest küljest teeb see kohalike elanike elu raskeks, kuid loodusel on sellest kasu: rauarikas vesi niisutab riisipõlde ja toidab lõhekasvandusi. Naaberpiirkond Kanto on seevastu maailma kõige rahvarohkem piirkond: Fuji mäe jalamile on rajatud riigi kõige olulisemad metropolid, kus elab kokku 38 miljonit inimest!(n)</desc>
+    <desc lang="et">Selles osas külastame Jaapani saarestiku suurimat saart Honshūt, mille kirdeosa ulatub kaugele Tohoku piirkonda. Siin metsiku ja mitmekesise loodusega aladel on veel tänagi näha 2011. aasta tsunami ja maavärina jälgi. Igal talvel katab maad paks lumevaip. Ühest küljest teeb see kohalike elanike elu raskeks, kuid loodusel on sellest kasu: rauarikas vesi niisutab riisipõlde ja toidab lõhekasvandusi. Naaberpiirkond Kanto on seevastu maailma kõige rahvarohkem piirkond: Fuji mäe jalamile on rajatud riigi kõige olulisemad metropolid, kus elab kokku 38 miljonit inimest!</desc>
     <date>2018</date>
     <category lang="et">Dokumentaal</category>
     <country lang="et">Prantsuse, Saksa, Jaapan</country>
@@ -3229,10 +2984,383 @@
   <programme start="20230629183000 +0000" stop="20230629192500 +0000" channel="etv2.ee">
     <title lang="et">Ööülikooli rännakud</title>
     <sub-title lang="et">Valdur Mikita</sub-title>
-    <desc lang="et">Eestis on veel tõelist perifeeriat, metsadetagust maailma ja mõistusetaguseid asju. Semiootik ja kirjanik Valdur Mikita kõneles maakodust kui "teadvuse kiirendist" - üks paigake siin ilmas, kus on mõnus olla ja kerge mõtelda. Läheme Valdurile perifeeriasse külla. Kolame metsas, teeme süüa ja laseme videviku valgusel ennast kanda. Režissöör Erle Veber, autor-toimetaja Jaan Tootsen, operaatorid Kullar Viimne, Ivar Taim ja Erle Veber.(n)</desc>
+    <desc lang="et">Eestis on veel tõelist perifeeriat, metsadetagust maailma ja mõistusetaguseid asju. Semiootik ja kirjanik Valdur Mikita kõneles maakodust kui "teadvuse kiirendist" - üks paigake siin ilmas, kus on mõnus olla ja kerge mõtelda. Läheme Valdurile perifeeriasse külla. Kolame metsas, teeme süüa ja laseme videviku valgusel ennast kanda. Režissöör Erle Veber, autor-toimetaja Jaan Tootsen, operaatorid Kullar Viimne, Ivar Taim ja Erle Veber.</desc>
     <date>2013</date>
     <category lang="et">Telesari</category>
     <country lang="et">Eesti</country>
     <episode-num system="onscreen">S1 E4</episode-num>
+  </programme>
+  <programme start="20230629192500 +0000" stop="20230629210500 +0000" channel="etv2.ee">
+    <title lang="et">Voolusõda</title>
+    <title lang="en">The Current War</title>
+    <desc lang="et">„Voolusõda“ jutustab kolme geeniuse - Thomas Edisoni (Benedict Cumberbatch), Nikola Tesla (Nicholas Hoult) ja George Westinghouse (Michael Shannon) - intellektuaalsest mõõduvõtust, mis nõudis tohutut vaimujõudu. Elektrienergia tootmise võimaluste pärast algas karm võistlus, mis lõppes alles 2007. aastal.Ameerika on suurte avastuste koidikul. Leiutajate intrigeeriv vastasseis kõrgile ja enesekindlale Thomas Edisonile on jõudnud viimse piirini. Edison häbimärgistab halastamatult Teslat ja Westinghouse’i. Ta laseb ajalehtedes avaldada kompromiteerivaid artikleid nende eraelu kohta, ei põrka tagasi alusetutest süüdistustest ega isegi sabotaažist. Need mehed on nagu jonnakad lapsed, kes kaklevad ja loobivad üksteist mänguasjadega, kuigi üks on suurtööstur ning teine väljapaistev insener. Nad vaidlevad selle üle, kelle elektrivool on parem. Neile pole tähtsad põhimõtted, vaid miljardilised sissetulekud ja võim. Neil kõigil tuleb ohverdada kõige kallim ja loobuda harjunud asjadest. Kes ei suuda vastu pidada, on mängust väljas. Ent see mäng väärib küünlaid.(n)</desc>
+    <date>2017</date>
+    <country lang="et">Vene, Inglise, USA</country>
+  </programme>
+  <programme start="20230629210500 +0000" stop="20230629213500 +0000" channel="etv2.ee">
+    <title lang="et">27</title>
+    <sub-title lang="et">Eesti mäng - Euroopa eri</sub-title>
+    <desc lang="et">Meie saatejuhtide duo on Euroopa Liidule tiiru peale teinud ja kui ühest suust kinnitavad mõlemad, et elujõulisus pulbitseb selle eriilmelise Euroopa koore all kuumalt ning visalt. Kodumaal tagasi olles on aeg teha kokkuvõtteid ning meenutada külastatud riikides nähtut ja kuuldut. Ja kuidas võikski seda paremini teha kui ühe hea mänguga? Saadet juhib "Eesti mängust" tuttav Gaute Kivistik, võistlustulle asuvad mõistagi Euroopa-spetsideks saanud Piret Järvis ja Indrek Treufeldt, neile astub vastu meie mees Brüsselis ehk Ivari Padar.(n)</desc>
+    <date>2012</date>
+    <category lang="et">Telesari</category>
+    <country lang="et">Eesti</country>
+    <episode-num system="onscreen">S1 E14</episode-num>
+  </programme>
+  <programme start="20230629213500 +0000" stop="20230629222500 +0000" channel="etv2.ee">
+    <title lang="et">Salateenistus</title>
+    <desc lang="et">Celine ja Malotru peavad manipuleerima Saksa ajakirjanikuga, kellel on ISIS-es allikas. Duflot ei mõista, kuidas õnnestus ameeriklastel neid koduväljakul ära petta.(n)</desc>
+    <date>2016</date>
+    <category lang="et">Telesari</category>
+    <country lang="et">Prantsuse</country>
+    <episode-num system="onscreen">S2 E8</episode-num>
+  </programme>
+  <programme start="20230629222500 +0000" stop="20230629225700 +0000" channel="etv2.ee">
+    <title lang="et">Hajameelselt abielus</title>
+    <sub-title lang="et">Britta ruudus 1</sub-title>
+    <desc lang="et">Raivo teenib lisa, kuid varjab seda. Sirli ja Teine Peeter räägivad tähtedest. Brittal tekivad kahtlused. Kõik usaldavad Haraldit. Raivo kohtub kuulsusega ja ei usu oma silmi.(n)</desc>
+    <date>2006</date>
+    <category lang="et">Telesari</category>
+    <country lang="et">Eesti</country>
+    <episode-num system="onscreen">S2 E23</episode-num>
+  </programme>
+  <programme start="20230629225700 +0000" stop="20230630040000 +0000" channel="etv2.ee">
+    <title lang="et">ERR.ee uudised</title>
+    <date>2023</date>
+    <category lang="et">Telesari</category>
+    <country lang="et">Eesti</country>
+    <episode-num system="onscreen">E180</episode-num>
+  </programme>
+  <programme start="20230630040000 +0000" stop="20230630041000 +0000" channel="etv2.ee">
+    <title lang="et">Rebased ja mägrad</title>
+    <sub-title lang="et">Perelisa</sub-title>
+    <desc lang="et">Edmund ja Margaret käituvad salatsevalt ning lapsed kahtlustavad, et perre on peagi lisa oodata.(n)</desc>
+    <date>2016</date>
+    <category lang="et">Telesari</category>
+    <country lang="et">Prantsuse</country>
+    <episode-num system="onscreen">S1 E30</episode-num>
+  </programme>
+  <programme start="20230630041000 +0000" stop="20230630041500 +0000" channel="etv2.ee">
+    <title lang="et">Siimuke</title>
+    <sub-title lang="et">Loomaparaad</sub-title>
+    <date>2020</date>
+    <category lang="et">Telesari</category>
+    <country lang="et">Prantsuse</country>
+    <episode-num system="onscreen">S3 E29</episode-num>
+  </programme>
+  <programme start="20230630041500 +0000" stop="20230630043000 +0000" channel="etv2.ee">
+    <title lang="et">Džungliässad</title>
+    <sub-title lang="et">Gilberti tunnel</sub-title>
+    <desc lang="et">Gilbert on elevil: ta on projekteerinud tunneli, mis viib otse vulkaanist läbi ja peaks sel moel kõigi džunglielanike elu lihtsamaks tegema. Paraku selgub, et tema palgatud töödejuhataja don Pedro on teinud oma tööd ülejala ja pigem omakasule mõeldes….(n)</desc>
+    <date>2019</date>
+    <category lang="et">Telesari</category>
+    <country lang="et">Prantsuse</country>
+    <episode-num system="onscreen">S3 E42</episode-num>
+  </programme>
+  <programme start="20230630043000 +0000" stop="20230630044000 +0000" channel="etv2.ee">
+    <title lang="et">Peeter Pikk-kõrv</title>
+    <sub-title lang="et">Lugu õdedest</sub-title>
+    <desc lang="et">Flopsi ja Mopsi tulevad Peetriga koos marjule ning Peeter avastab, et õed pole sugugi nii abitud, nagu ta on arvanud.(n)</desc>
+    <date>2012</date>
+    <category lang="et">Telesari</category>
+    <country lang="et">USA</country>
+    <episode-num system="onscreen">S1 E33</episode-num>
+  </programme>
+  <programme start="20230630044000 +0000" stop="20230630045000 +0000" channel="etv2.ee">
+    <title lang="et">Abimehed galaktikast</title>
+    <sub-title lang="et">Kaitselüliti</sub-title>
+    <desc lang="et">Täna aitavad abimehed Fency auto ära parandada.(n)</desc>
+    <date>2021</date>
+    <category lang="et">Telesari</category>
+    <country lang="et">Prantsuse</country>
+    <episode-num system="onscreen">S1 E32</episode-num>
+  </programme>
+  <programme start="20230630045000 +0000" stop="20230630050000 +0000" channel="etv2.ee">
+    <title lang="et">Pips ja Popi</title>
+    <desc lang="et">Jalgpallimäng läheb untsu, kui Popi lõunasöögikott puu otsa lendab.(n)</desc>
+    <date>2021</date>
+    <category lang="et">Telesari</category>
+    <country lang="et">Inglise</country>
+    <episode-num system="onscreen">S1 E44</episode-num>
+  </programme>
+  <programme start="20230630050000 +0000" stop="20230630050500 +0000" channel="etv2.ee">
+    <title lang="et">Põrsas Peppa</title>
+    <title lang="en">Masks</title>
+    <sub-title lang="et">Maskid</sub-title>
+    <date>2017</date>
+    <category lang="et">Telesari</category>
+    <country lang="et">Inglise</country>
+    <episode-num system="onscreen">S7 E28</episode-num>
+  </programme>
+  <programme start="20230630050500 +0000" stop="20230630051500 +0000" channel="etv2.ee">
+    <title lang="et">Siilipoiss Alfredi salapärased seiklused</title>
+    <sub-title lang="et">Lillevõistluse mõistatus</sub-title>
+    <desc lang="et">Alfredi ema ja Cynthia ema võistlevad, kes suudab näituse jaoks kasvatada kõige kaunima hortensia. Paraku muudab Alfredi ema lill üleöö värvi ning esikoht ja auhinnareis satuvad ohtu.(n)</desc>
+    <date>2009</date>
+    <category lang="et">Telesari</category>
+    <country lang="et">Kanada, Prantsuse</country>
+    <episode-num system="onscreen">S1 E18</episode-num>
+  </programme>
+  <programme start="20230630051500 +0000" stop="20230630054500 +0000" channel="etv2.ee">
+    <title lang="et">Lassie</title>
+    <sub-title lang="et">Ohtlik tamm</sub-title>
+    <desc lang="et">Graham viib Zoe ja Harvey vaatama uut kõrgtehnoloogilist tammi. Samas lähedal on kala püüdmas Nick, kes keerab paraja jama kokku, et oma kliendile muljet avaldada. Lassie ja lapsed peavad päästma oru üleujutuse eest.(n)</desc>
+    <date>2018</date>
+    <category lang="et">Telesari</category>
+    <country lang="et">Prantsuse, Saksa</country>
+    <episode-num system="onscreen">S2 E11</episode-num>
+  </programme>
+  <programme start="20230630054500 +0000" stop="20230630060000 +0000" channel="etv2.ee">
+    <title lang="et">NOVA</title>
+    <desc lang="et">Saame teada, kes on Vanemuise kollased kassid, Rainer Peterson soovitab e-mänge muusikasõpradele ja küsime lastelt, kuidas elektrit kokku hoida. NOVA topib oma nina sinna, kus on põnevust, uut ja vajalikku, head muusikat ja ägedaid nippe! Kõigele, mis toimub koolis, trennis ja mida muidu vabal ajal ette võtta, annab vastused laste oma saade NOVA! Vaata meid esmaspäevast neljapäevani kas kell 16.45 või 18.45. Meie saatejuhtidele ja reporteritele saad oma ideid, soove ja küllakutseid saata e-posti nova@err.ee. Sarja toimetavad Laura Kõrvits ja Lota Viik, režissöörid Kristo Veinberg ja Maarja Pärsim.(n)</desc>
+    <date>2022</date>
+    <category lang="et">Telesari</category>
+    <country lang="et">Eesti</country>
+    <episode-num system="onscreen">S4 E522</episode-num>
+  </programme>
+  <programme start="20230630060000 +0000" stop="20230630061000 +0000" channel="etv2.ee">
+    <title lang="et">Meisterdamised Mariga. Trumm</title>
+    <sub-title lang="et">Meisterdamised Mariga. Trumm</sub-title>
+    <desc lang="et">Tom ja Anni õpivad Muhus ka trummi valmistamist ning kui trumm valmis, eks siis tuleb ka proovida, kuidas see põriseb! Õpetust jagab Mari Viik.(n)</desc>
+    <date>2009</date>
+    <category lang="et">Telesari</category>
+    <country lang="et">Eesti</country>
+    <episode-num system="onscreen">S255 E612</episode-num>
+  </programme>
+  <programme start="20230630061000 +0000" stop="20230630063000 +0000" channel="etv2.ee">
+    <title lang="et">Minu lemmikloom</title>
+    <sub-title lang="et">Šoti mägiveise vasikas</sub-title>
+    <desc lang="et">Šoti mägiveise vasikas ei ole just päris tavaline lemmikloom. Suvel maal olles hakkas Mariale armas karvane vasikas nii meeldima, et otsus lemmiklooma suhtes oli langetatud. Maria on linnatüdruk, aga sellist suurt looma linna ei too ja nii elab Jonni oma vasikaelu maal. Maria arvab, et oma lemmikloomaga ei peagi tingimata iga päev koos elama. Tähtis on see, et sa looma armastad ja temast hoolid. Toimetaja Õie Arusoo, monteerija Margus Vettik, produtsent Hannula Agur-Lepp.(n)</desc>
+    <date>2012</date>
+    <category lang="et">Telesari</category>
+    <country lang="et">Eesti</country>
+    <episode-num system="onscreen">S2 E8</episode-num>
+  </programme>
+  <programme start="20230630063000 +0000" stop="20230630070000 +0000" channel="etv2.ee">
+    <title lang="et">Ringvaade suvel</title>
+    <desc lang="et">"Ringvaade" toob suvel vaatajate ette Eesti elu kirevaimad tegelased ja suurimad seiklused. Saatejuhid Grete Lõbu, Marko Reikop, Anna Pihl, Hannes Hermaküla ja Jüri Muttika on eetris ning igav nendega ei hakka.(n)</desc>
+    <date>2023</date>
+    <category lang="et">Telesari</category>
+    <country lang="et">Eesti</country>
+    <episode-num system="onscreen">S8 E3</episode-num>
+  </programme>
+  <programme start="20230630070000 +0000" stop="20230630073000 +0000" channel="etv2.ee">
+    <title lang="et">27</title>
+    <sub-title lang="et">Eesti mäng - Euroopa eri</sub-title>
+    <desc lang="et">Meie saatejuhtide duo on Euroopa Liidule tiiru peale teinud ja kui ühest suust kinnitavad mõlemad, et elujõulisus pulbitseb selle eriilmelise Euroopa koore all kuumalt ning visalt. Kodumaal tagasi olles on aeg teha kokkuvõtteid ning meenutada külastatud riikides nähtut ja kuuldut. Ja kuidas võikski seda paremini teha kui ühe hea mänguga? Saadet juhib "Eesti mängust" tuttav Gaute Kivistik, võistlustulle asuvad mõistagi Euroopa-spetsideks saanud Piret Järvis ja Indrek Treufeldt, neile astub vastu meie mees Brüsselis ehk Ivari Padar.(n)</desc>
+    <date>2012</date>
+    <category lang="et">Telesari</category>
+    <country lang="et">Eesti</country>
+    <episode-num system="onscreen">S1 E14</episode-num>
+  </programme>
+  <programme start="20230630073000 +0000" stop="20230630075500 +0000" channel="etv2.ee">
+    <title lang="et">Hajameelselt abielus</title>
+    <sub-title lang="et">Britta ruudus 2</sub-title>
+    <desc lang="et">Miks Brittal on kaks nägu ja kas on? Keegi on titeootel. Esimene Peeter ei saa enam midagi aru. Külla saabub Britta ema. Harald annab vajalikku nõu. Sirli asendab asendajat.(n)</desc>
+    <date>2006</date>
+    <category lang="et">Telesari</category>
+    <country lang="et">Eesti</country>
+    <episode-num system="onscreen">S2 E24</episode-num>
+  </programme>
+  <programme start="20230630075500 +0000" stop="20230630085000 +0000" channel="etv2.ee">
+    <title lang="et">Kuulsuse ahelad</title>
+    <title lang="en">Jawline</title>
+    <desc lang="et">Lugu 16-aastasest sotsiaalmeediatähest Austyn Testerist, kes kasutab uusi videoblogimise võimalusi ja tiinekatest tüdrukute armeed, et saada uueks internetikompuks ning pääseda oma igavast elust Ameerika maakolkas. Ent kas siiralt maailma positiivsust tuua ihkav nägus noormees on haaranud liiga suure tüki? Kes kasutab keda ära ja kas digitaalne kuulsus võib edukalt rakenduda ka päris maailmas? 2019. aastal Sundance'i filmifestivalil auhinnaga pärjatud dokumentaalfilm püüab sellele vastuse anda.(n)</desc>
+    <date>2019</date>
+    <country lang="et">USA</country>
+  </programme>
+  <programme start="20230630085000 +0000" stop="20230630092400 +0000" channel="etv2.ee">
+    <title lang="et">Rakett 69</title>
+    <sub-title lang="et">Teadusteater</sub-title>
+    <desc lang="et">Käes on kauaoodatud teadusteater, kus raketlased saavad näidata oma kastist välja mõtlemist. Lahustuv alumiinium, hetkeline härmatis ja värvimuutev õun - võistlejad panevad kõik teadmised mängu. Kaks võistlejat peavad minema aga lõppmängu, kus üks peab saatest lahkuma. Tootja Vesilind OÜ.(n)</desc>
+    <date>2022</date>
+    <category lang="et">Telesari</category>
+    <country lang="et">Eesti</country>
+    <episode-num system="onscreen">S12 E187</episode-num>
+  </programme>
+  <programme start="20230630092400 +0000" stop="20230630123000 +0000" channel="etv2.ee">
+    <title lang="et">ERR.ee uudised</title>
+    <date>2023</date>
+    <category lang="et">Telesari</category>
+    <country lang="et">Eesti</country>
+    <episode-num system="onscreen">E181</episode-num>
+  </programme>
+  <programme start="20230630123000 +0000" stop="20230630124000 +0000" channel="etv2.ee">
+    <title lang="et">Londiste</title>
+    <title lang="en">Iko Maran/E. Viilup</title>
+    <desc lang="et">Isa sõidab tööasju ajama ja võtab Siimu kaasa. Londiste peaks tegelikult maha jääma, aga küll sõbrad midagi välja mõtlevad. Üks on kindel - Londiste, õige nimega Vant, tuleb kaasa. Iko Marani lasteloo seadis televisioonile Eve Viilup. Režissöör Karin Nurm. Osades Madis Sinijärv - Siim, Tiina Tõnis - Londiste, Anne Veesaar - ema, Raivo E. Tamm - isa.(n)</desc>
+    <date>1992</date>
+    <category lang="et">Telesari</category>
+    <country lang="et">Eesti</country>
+    <episode-num system="onscreen">E4</episode-num>
+  </programme>
+  <programme start="20230630124000 +0000" stop="20230630130000 +0000" channel="etv2.ee">
+    <title lang="et">Klaabu kosmoses</title>
+    <desc lang="et">Film Klaabu seiklustest viib vaataja tundmatule planeedile, kus Klaabu koos sõpradega aitab põliselanikel vabaneda kõikeõgivast Seenest. Helilooja Sven Grünberg, kunstnik Mati Kütt, operaator Janno Põldma, režissöör Avo Paistik, stsenaristid Enn Vetemaa ja Avo Paistik.(n)</desc>
+    <date>1981</date>
+    <category lang="et">Laste</category>
+    <country lang="et">Eesti</country>
+  </programme>
+  <programme start="20230630130000 +0000" stop="20230630131500 +0000" channel="etv2.ee">
+    <title lang="et">Zombi Lars</title>
+    <desc lang="et">Lars ja sõbrad kohtavad metsas Carolinet otsides kummalist tüdrukut, kes kutsub nad endale külla. Ka Torill on metsas.(n)</desc>
+    <date>2018</date>
+    <category lang="et">Telesari</category>
+    <country lang="et">Norra</country>
+    <episode-num system="onscreen">S3 E9</episode-num>
+  </programme>
+  <programme start="20230630131500 +0000" stop="20230630133000 +0000" channel="etv2.ee">
+    <title lang="et">Zombi Lars</title>
+    <desc lang="et">Caroline eksleb metsas ja satub kummalise seltskonna juurde, kes juhatavad ta trollimetsa. Torilliga juhtub metsas õnnetus.(n)</desc>
+    <date>2018</date>
+    <category lang="et">Telesari</category>
+    <country lang="et">Norra</country>
+    <episode-num system="onscreen">S3 E10</episode-num>
+  </programme>
+  <programme start="20230630133000 +0000" stop="20230630134000 +0000" channel="etv2.ee">
+    <title lang="et">Indiaanipoiss Yakari</title>
+    <sub-title lang="et">Oravalend</sub-title>
+    <desc lang="et">Yakari päästab vigastatud käpaga lendorava ja satub ise suurde ohtu.(n)</desc>
+    <date>2016</date>
+    <category lang="et">Telesari</category>
+    <country lang="et">Prantsuse</country>
+    <episode-num system="onscreen">S4 E25</episode-num>
+  </programme>
+  <programme start="20230630134000 +0000" stop="20230630135500 +0000" channel="etv2.ee">
+    <title lang="et">Rebased ja mägrad</title>
+    <sub-title lang="et">Kuuldus</sub-title>
+    <desc lang="et">Lapsed korraldavad urus segaduse ja ajavad süü ühe väljamõeldud metslooma kaela. Metsas puhkeb tõeline paanika….(n)</desc>
+    <date>2016</date>
+    <category lang="et">Telesari</category>
+    <country lang="et">Prantsuse</country>
+    <episode-num system="onscreen">S1 E31</episode-num>
+  </programme>
+  <programme start="20230630135500 +0000" stop="20230630140000 +0000" channel="etv2.ee">
+    <title lang="et">Morph'i seiklused</title>
+    <title lang="en">Chas Air</title>
+    <sub-title lang="et">Chas'i lennuliin</sub-title>
+    <desc lang="et">Morph ootab pikisilmi oma väljateenitud puhkust - kohver on pakitud ja lennupilet näpus. Plaanid lendavad aga vastu taevast, kui selgub, et puhkusekorraldajaks on Chas..(n)</desc>
+    <date>2020</date>
+    <category lang="et">Telesari</category>
+    <country lang="et">Inglise</country>
+    <episode-num system="onscreen">S1 E3</episode-num>
+  </programme>
+  <programme start="20230630140000 +0000" stop="20230630141000 +0000" channel="etv2.ee">
+    <title lang="et">Siilipoiss Alfredi salapärased seiklused</title>
+    <sub-title lang="et">Helendavad kummitused</sub-title>
+    <desc lang="et">Metsa eksinud lapsed satuvad vana maja juurde, mida ümbritseb veider rohekas helendus. Ümbruskond on ärevil ja kõik kahtlustavad kummitusi, kuni Alfred juhtumisse selgust toob.(n)</desc>
+    <date>2009</date>
+    <category lang="et">Telesari</category>
+    <country lang="et">Kanada, Prantsuse</country>
+    <episode-num system="onscreen">S1 E19</episode-num>
+  </programme>
+  <programme start="20230630141000 +0000" stop="20230630142000 +0000" channel="etv2.ee">
+    <title lang="et">Abimehed galaktikast</title>
+    <sub-title lang="et">Kosmiline koodeks</sub-title>
+    <desc lang="et">Abimehed tõttavad appi Fencyle, kelle auto vajab taas putitamist.(n)</desc>
+    <date>2021</date>
+    <category lang="et">Telesari</category>
+    <country lang="et">Prantsuse</country>
+    <episode-num system="onscreen">S1 E33</episode-num>
+  </programme>
+  <programme start="20230630142000 +0000" stop="20230630143000 +0000" channel="etv2.ee">
+    <title lang="et">Põrsas Peppa</title>
+    <title lang="en">Molly Mole</title>
+    <sub-title lang="et">Mutt Miina</sub-title>
+    <date>2017</date>
+    <category lang="et">Telesari</category>
+    <country lang="et">Inglise</country>
+    <episode-num system="onscreen">S7 E29</episode-num>
+  </programme>
+  <programme start="20230630143000 +0000" stop="20230630144000 +0000" channel="etv2.ee">
+    <title lang="et">Peeter Pikk-kõrv</title>
+    <sub-title lang="et">Lugu lõhutud onnist</sub-title>
+    <desc lang="et">Suur torm lõhub jäneste puuonni ja selle uuesti ülesehitamine kujuneb parajaks seikluseks.(n)</desc>
+    <date>2012</date>
+    <category lang="et">Telesari</category>
+    <country lang="et">USA</country>
+    <episode-num system="onscreen">S1 E34</episode-num>
+  </programme>
+  <programme start="20230630144000 +0000" stop="20230630145000 +0000" channel="etv2.ee">
+    <title lang="et">Džungliässad</title>
+    <sub-title lang="et">Veealune seiklus</sub-title>
+    <desc lang="et">Gilbertil ja Batricial on romantiline kohting. Juuniori juurde tuleb Patrik ja kurdab, et meres võimutseb hiidkaheksajalg, kes on võtnud nõuks kõik ookeanielanikud orjastada.(n)</desc>
+    <date>2019</date>
+    <category lang="et">Telesari</category>
+    <country lang="et">Prantsuse</country>
+    <episode-num system="onscreen">S3 E43</episode-num>
+  </programme>
+  <programme start="20230630145000 +0000" stop="20230630150000 +0000" channel="etv2.ee">
+    <title lang="et">Pips ja Popi</title>
+    <desc lang="et">Pips mõtleb välja vahva mängu selleks, et Popi ei näeks, mis üllatus teda toas ootab.(n)</desc>
+    <date>2021</date>
+    <category lang="et">Telesari</category>
+    <country lang="et">Inglise</country>
+    <episode-num system="onscreen">S1 E45</episode-num>
+  </programme>
+  <programme start="20230630150000 +0000" stop="20230630152000 +0000" channel="etv2.ee">
+    <title lang="et">Peeter Paani uued seiklused</title>
+    <sub-title lang="et">Puhtusearmastus</sub-title>
+    <desc lang="et">Wendy Darling ning tema vennad John ja Michael satuvad Eikunagimaale kummalise ning ennast täis Peeter Paani juurde. Wendi ei suuda uskuda, et tema lapsepõlve muinasjutt on tõeks saanud! Õige pea seisavad nad silmitsi hirmsa Kapten Konksuga, peavad suhtlema rääkivate puudega ja päästma põlis-Ameerika printsesse kummalise olendi küünte vahelt. Ennekõike aga õpivad Wendy, Michael ja John täiskasvanuks saamise kunsti ja seda paigas, kus kunagi täiskasvanuks ei saada! 1. osa: Wendy, John ja Michael lähevad emaga tülli toa koristamise pärast ning otsustavad põgeneda Eikunagimaale. Paraku ootab neid ees üllatus: ehkki Eikunagimaa erineb tegelikust maailmast üsna suurel määral, nõutakse ka seal korda ja puhtust.(n)</desc>
+    <date>2014</date>
+    <category lang="et">Telesari</category>
+    <country lang="et">Prantsuse, Saksa</country>
+    <episode-num system="onscreen">S1 E1</episode-num>
+  </programme>
+  <programme start="20230630152000 +0000" stop="20230630154500 +0000" channel="etv2.ee">
+    <title lang="et">Sisenemine keelatud</title>
+    <sub-title lang="et">Väike prints</sub-title>
+    <desc lang="et">Kooliaasta lõpp on lähenemas ja ees on sellega seotud üritused. Kõik murravad pead, kellega lõpuballile minna.(n)</desc>
+    <date>2021</date>
+    <category lang="et">Telesari</category>
+    <country lang="et">Kanada</country>
+    <episode-num system="onscreen">S1 E23</episode-num>
+  </programme>
+  <programme start="20230630154500 +0000" stop="20230630161500 +0000" channel="etv2.ee">
+    <title lang="et">Rakett 69</title>
+    <sub-title lang="et">Elektroonika</sub-title>
+    <desc lang="et">Raketlased näitavad nüüd oma individuaalseid oskuseid ja hakkavad looma automaatseid lahendusi. Esimese ülesande võitja saab valida endale meeskonnakaaslased teiseks ülesandeks, kuid sel korral on tal veel üks suur eelis. Kaks täiesti uut tiimi ehitavad lahenduse, mis transpordiks detaile robotile. Tootja Vesilind OÜ.(n)</desc>
+    <date>2022</date>
+    <category lang="et">Telesari</category>
+    <country lang="et">Eesti</country>
+    <episode-num system="onscreen">S12 E188</episode-num>
+  </programme>
+  <programme start="20230630161500 +0000" stop="20230630162500 +0000" channel="etv2.ee">
+    <title lang="et">NO99 Kunstikool</title>
+    <sub-title lang="et">Veiko</sub-title>
+    <desc lang="et">Hirm on muidugi kohutav jõud. See võtab meid pantvangi ega lase enam lahti. Vähesed jaksavad veel küsida: mida teha? Üks kunstnik ei jaksanud ka enam. Aga ta teadis, et ainuke asi, mis seda õnnetut loomaliiki nimega - inimene - võib veidikenegi lohutada, on kunst. Nii tegi ta kunstiteose, mis lohutab, aitab ja ulatab käe, kui on tunda kõrbelõhna. Loengus Mark Raidpere, Ülo Soosteri ja Edvard Munchi kunst.(n)</desc>
+    <date>2013</date>
+    <category lang="et">Telesari</category>
+    <country lang="et">Eesti</country>
+    <episode-num system="onscreen">S1 E12</episode-num>
+  </programme>
+  <programme start="20230630162500 +0000" stop="20230630163000 +0000" channel="etv2.ee">
+    <title lang="et">Aktuaalne Kaamera</title>
+    <date>2023</date>
+    <category lang="et">Uudised</category>
+    <country lang="et">Eesti</country>
+    <episode-num system="onscreen">E630</episode-num>
+  </programme>
+  <programme start="20230630163000 +0000" stop="20230630165000 +0000" channel="etv2.ee">
+    <title lang="et">Sierra</title>
+    <desc lang="et">Esimene Eesti lühianimatsioon, mis jõudis Oscarite lühinimekirja (shortlist-i) ehk 15 parima animafilmi hulka. Poiss tahab aias konnadega mängida, aga isa peab pojale paremaks rallisõitja karjääri. Garaažis askeldava isa kirg ralli vastu läheb sedavõrd kaugele, et tema laps muutub rehviks. Animeeritud must komöödia tirib meid sürreaalsesse autoralli maailma, kus pidurit ei tõmmata. Aasta eest Prantsusmaal esilinastunud ning suvel Eestis Tartuffi avanud animafilm on praeguseks valitud enam kui 130 festivali kavva võites üle 40 auhinna. Ameerika filmiakadeemia auhinda pääses film jahtima tänu Oscari-kvalifikatsiooniga võitudele festivalidel AFI Fest, San Francisco IFF ja Palm Springs ShortFest. Akadeemia liikmete hääletusel jõudis film eelvalikust edasi lühinimekirja ehk 15 sekka. Eesti filmidest on varasemalt Oscari nominentide eelvalikusse pääsenud "Tõde ja õigus", "Vehkleja" ning "Mandariinid", mis jõudis ka nominentide sekka. "Sierra" on esimene Eesti film, mille on ostnud mainekas USA indie-platvorm The Criterion Channel. Lisaks on animafilm müüdud erinevatele Euroopa telekanalitele nagu Arte, Soome YLE jt. "Sierra" režissöör, stsenarist ja peakunstnik on Sander Joon. Produtsendid on Aurelia Aasa (AAA Creative) ja Erik Heinsalu (BOP! Animation). Filmi helilooja on Misha Panfilov, helindaja Matis Rei. Animaatorid on Henri Kaido Veermäe, Valya Paneva, Teresa Baroet, Sander Joon. Taustakunstnik on Hleb Kuftseryn. Filmi arendust ja tootmist on toetanud Eesti Kultuurkapital ning Eesti Filmi Instituut.(n)</desc>
+    <date>2022</date>
+    <category lang="et">Filmid</category>
+    <country lang="et">Eesti</country>
+  </programme>
+  <programme start="20230630165000 +0000" stop="20230630190500 +0000" channel="etv2.ee">
+    <title lang="et">Pärnu JK Vaprus - Paide Linnameeskond</title>
+    <sub-title lang="et">Pärnu JK Vaprus - Paide Linnameeskond</sub-title>
+    <desc lang="et">Pärnu Vapruse tulemused tänavusel Premium liiga hooajal võib võrreldes varasemate aastatega kanda kindlalt positiivsele poolele. Kahes kohtumises Paide Linnameeskonnaga viigistati kodus mulluse pronksiklubiga ja võõrsil suudeti vastast ka võita.(n)</desc>
+    <date>2023</date>
+    <category lang="et">Telesari</category>
+    <country lang="et">Eesti</country>
+    <episode-num system="onscreen">S255 E19</episode-num>
+  </programme>
+  <programme start="20230630190500 +0000" stop="20230630205500 +0000" channel="etv2.ee">
+    <title lang="et">Aju</title>
+    <title lang="en">Le cerveau</title>
+    <desc lang="et">Erirongis toimetatakse Pariisist Brüsselisse NATO salasaadetist, millele tahavad käpa peale panna kahtlased tüübid La Manche'i mõlemalt kaldalt. Prantsusmaal valmistub rööviks nutikas pisisuli Arthur koos oma semu Anatole'iga, Inglismaal aga geniaalne petis hüüdnimega Aju, kelle käsutuses on vilunud meeskond ja rohkesti vahendeid. Paraku otsustavad mõlemad kambad operatsiooni läbi viia täpselt samal päeval ja tunnil. Režissöör Gérard Oury, osades hiilgavad koomikud Jean-Paul Belmondo, Bourvil ja David Niven.(n)</desc>
+    <date>1969</date>
+    <country lang="et">Prantsuse, Itaalia</country>
   </programme>
 </tv>
